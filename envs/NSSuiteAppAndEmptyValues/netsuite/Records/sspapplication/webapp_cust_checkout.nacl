@@ -32,4 +32,5 @@ netsuite.sspapplication webapp_cust_checkout {
       },
     ]
   }
+  description = ""
 }

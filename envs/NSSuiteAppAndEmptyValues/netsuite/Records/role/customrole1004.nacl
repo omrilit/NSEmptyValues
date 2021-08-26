@@ -230,7 +230,9 @@ netsuite.role customrole1004 {
       {
         permkey = netsuite.customrecordtype.instance.customrecord31.scriptid
         permlevel = "VIEW"
+        
       },
     ]
   }
+  issuerole = ""
 }

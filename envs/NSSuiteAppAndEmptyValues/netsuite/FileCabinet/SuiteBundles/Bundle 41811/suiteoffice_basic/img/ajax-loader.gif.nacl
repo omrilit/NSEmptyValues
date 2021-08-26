@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41811_suiteoffice_basic_img_ajax_loader_gif@ds
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41811_suiteoffice_basic_img@dsdud,
   ]
+  description = ""
 }

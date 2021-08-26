@@ -15,6 +15,7 @@ netsuite.bundleinstallationscript customscript_2663_bundle_install {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "Generic Payment Bundle Installation"
+        runasrole = ""
       },
     ]
   }
@@ -34,4 +35,9 @@ netsuite.bundleinstallationscript customscript_2663_bundle_install {
       },
     ]
   }
+  afterinstallfunction = ""
+  beforeinstallfunction = ""
+  beforeuninstallfunction = ""
+  description = ""
+  notifyemails = ""
 }

@@ -56,6 +56,22 @@ netsuite.customrecordtype customrecord_nav_por_categories {
         selectrecordtype = netsuite.customlist.instance.customlist_nav_portlet_list.scriptid
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nav_por_cat_cat_name"
@@ -78,6 +94,22 @@ netsuite.customrecordtype customrecord_nav_por_categories {
         selectrecordtype = netsuite.customlist.instance.customlist_nav_category_name.scriptid
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nav_por_cat_img"
@@ -98,6 +130,24 @@ netsuite.customrecordtype customrecord_nav_por_categories {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nav_por_cat_dis_ord"
@@ -118,6 +168,24 @@ netsuite.customrecordtype customrecord_nav_por_categories {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
     ]
   }
@@ -126,7 +194,16 @@ netsuite.customrecordtype customrecord_nav_por_categories {
       {
         scriptid = "tab_173_t1499227_470"
         tabtitle = "Shortcuts"
+        tabparent = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

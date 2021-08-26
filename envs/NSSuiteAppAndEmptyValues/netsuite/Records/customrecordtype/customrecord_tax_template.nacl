@@ -54,6 +54,24 @@ netsuite.customrecordtype customrecord_tax_template {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_tax_template_country"
@@ -76,6 +94,22 @@ netsuite.customrecordtype customrecord_tax_template {
         selectrecordtype = "-159"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_tax_form_schema"
@@ -98,6 +132,22 @@ netsuite.customrecordtype customrecord_tax_template {
         selectrecordtype = netsuite.customrecordtype.instance.customrecord_tax_form.scriptid
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_template_format"
@@ -118,6 +168,24 @@ netsuite.customrecordtype customrecord_tax_template {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_template_language"
@@ -138,6 +206,24 @@ netsuite.customrecordtype customrecord_tax_template {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_ishandlebars"
@@ -158,6 +244,24 @@ netsuite.customrecordtype customrecord_tax_template {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_tax_template_short"
@@ -181,6 +285,23 @@ netsuite.customrecordtype customrecord_tax_template {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_tax_template.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
     ]
   }
@@ -189,11 +310,21 @@ netsuite.customrecordtype customrecord_tax_template {
       {
         scriptid = "tab_9_3776644_569"
         tabtitle = "Content"
+        tabparent = ""
       },
       {
         scriptid = "tab_8_3776644_569"
         tabtitle = "Attachment"
+        tabparent = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

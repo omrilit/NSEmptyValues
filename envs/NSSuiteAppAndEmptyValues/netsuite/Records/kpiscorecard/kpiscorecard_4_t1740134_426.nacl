@@ -8,6 +8,11 @@ netsuite.kpiscorecard kpiscorecard_4_t1740134_426 {
     kpi3 = netsuite.savedsearch.instance.customsearch117.scriptid
     kpi4 = netsuite.savedsearch.instance.customsearch118.scriptid
     kpi5 = netsuite.savedsearch.instance.customsearch119.scriptid
+    kpi10 = ""
+    kpi6 = ""
+    kpi7 = ""
+    kpi8 = ""
+    kpi9 = ""
   }
   audience = {
     allemployees = false
@@ -22,6 +27,8 @@ netsuite.kpiscorecard kpiscorecard_4_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM"
         label = "Opps Won"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -29,6 +36,8 @@ netsuite.kpiscorecard kpiscorecard_4_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM2"
         label = "Opps Lost"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -36,6 +45,8 @@ netsuite.kpiscorecard kpiscorecard_4_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM3"
         label = "Opps Lost Proj. Total"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -43,6 +54,8 @@ netsuite.kpiscorecard kpiscorecard_4_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM4"
         label = "New Opps Created"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -50,6 +63,8 @@ netsuite.kpiscorecard kpiscorecard_4_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM5"
         label = "Pipeline from New Opps"
+        comparevalueto = ""
+        
       },
       {
         formula = "{SALES}/{QUOTAREPS}"
@@ -63,6 +78,9 @@ netsuite.kpiscorecard kpiscorecard_4_t1740134_426 {
         hidden = false
         invertcomparison = false
         kpi = "NEWLEADS"
+        comparevalueto = ""
+        
+        label = ""
       },
     ]
   }
@@ -72,17 +90,27 @@ netsuite.kpiscorecard kpiscorecard_4_t1740134_426 {
         comparewithprevious = false
         invertcomparison = false
         range = "THIS_MONTH"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "LAST_MONTH"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "THIS_FISCAL_QUARTER"
+        comparevalueto = ""
+        
+        label = ""
       },
     ]
   }
+  description = ""
 }

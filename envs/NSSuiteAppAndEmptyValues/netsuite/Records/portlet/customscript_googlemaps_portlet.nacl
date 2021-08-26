@@ -21,7 +21,9 @@ netsuite.portlet customscript_googlemaps_portlet {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "Event Google Map Integration Portlet"
+        audslctrole = ""
       },
     ]
   }
+  notifyemails = ""
 }

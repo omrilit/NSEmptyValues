@@ -38,7 +38,16 @@ netsuite.customrecordtype customrecord_oa_project_templates {
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1120_2.scriptid
+        
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

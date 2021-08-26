@@ -34,6 +34,14 @@ If the customer is selected in this field. The only CI to process is all invoice
         searchlevel = "2"
         selectrecordtype = "-2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_nsts_subsidiary_ci_param"
@@ -60,6 +68,14 @@ If the subsidiary is selected in this field. The only CI to process is all invoi
         searchlevel = "2"
         selectrecordtype = "-117"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_nsts_inv_cutoff_dt_ci_param"
@@ -76,6 +92,16 @@ If the subsidiary is selected in this field. The only CI to process is all invoi
         label = "Invoice Cut Off Date"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
       {
         scriptid = "custscript_nsts_ci_date_opt_ci_param"
@@ -94,6 +120,14 @@ If the subsidiary is selected in this field. The only CI to process is all invoi
         searchlevel = "2"
         selectrecordtype = netsuite.customlist.instance.customlist_nsts_ci_date_opts.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_nsts_spec_date_ci_param"
@@ -110,6 +144,16 @@ If the subsidiary is selected in this field. The only CI to process is all invoi
         label = "CI Specific Date"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
       {
         scriptid = "custscript_nsts_ci_offset_days"
@@ -128,6 +172,14 @@ If the subsidiary is selected in this field. The only CI to process is all invoi
         minvalue = "-365"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        selectrecordtype = ""
+        
       },
     ]
   }
@@ -143,6 +195,7 @@ If the subsidiary is selected in this field. The only CI to process is all invoi
           single = {
             startdate = "2015-01-29"
             starttime = "02:00:00Z"
+            
           }
         }
       },
@@ -161,4 +214,5 @@ If the subsidiary is selected in this field. The only CI to process is all invoi
       },
     ]
   }
+  notifyemails = ""
 }

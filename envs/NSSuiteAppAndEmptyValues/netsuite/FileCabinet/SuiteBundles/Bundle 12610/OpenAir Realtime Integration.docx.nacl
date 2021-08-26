@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_12610_OpenAir_Realtime_Integration_docx@dsdssv
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_12610@ds,
   ]
+  description = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_44281_images_snav_dashboard_app_icon_svg@dsddu
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_44281_images@dsd,
   ]
+  description = ""
 }

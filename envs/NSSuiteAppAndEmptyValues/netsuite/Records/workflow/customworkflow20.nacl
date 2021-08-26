@@ -12,6 +12,7 @@ netsuite.workflow customworkflow20 {
   runasadmin = true
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowstates = {
     workflowstate = [
@@ -33,17 +34,35 @@ netsuite.workflow customworkflow20 {
                 schedulemode = "DELAY"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
                 fieldsettings = {
                   fieldsetting = [
                     {
                       targetfield = netsuite.entitycustomfield.instance.custentitysuggested_department.scriptid
+                      
+                      valuefield = ""
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDENTITYENTITYID"
+                      
+                      valuefield = ""
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                   ]
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
               },
             ]
           },
@@ -55,10 +74,21 @@ netsuite.workflow customworkflow20 {
               tostate = netsuite.workflow.instance.customworkflow20.workflowstates.workflowstate.1.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate159"
@@ -66,7 +96,13 @@ netsuite.workflow customworkflow20 {
         name = "State 2"
         positionx = 243
         positiony = 213
+        description = ""
       },
     ]
   }
+  description = ""
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
 }

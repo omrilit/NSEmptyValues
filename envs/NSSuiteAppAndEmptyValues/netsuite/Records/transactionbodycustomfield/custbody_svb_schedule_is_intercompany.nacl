@@ -42,4 +42,21 @@ netsuite.transactionbodycustomfield custbody_svb_schedule_is_intercompany {
   sourcelist = netsuite.transactionbodycustomfield.instance.custbody_svb_vb_to_bell_dist_sched.scriptid
   storevalue = true
   subtab = "TRANSACTIONMAIN"
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
 }

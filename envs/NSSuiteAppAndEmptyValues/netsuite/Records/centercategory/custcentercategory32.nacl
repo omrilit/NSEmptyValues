@@ -8,6 +8,7 @@ netsuite.centercategory custcentercategory32 {
       {
         linkid = "LIST_SUPPORTCASE"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Mass Email Cases"
@@ -19,6 +20,7 @@ netsuite.centercategory custcentercategory32 {
         linkobject = netsuite.centerlink.instance.custlink_3_t1740134_585.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

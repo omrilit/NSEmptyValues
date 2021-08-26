@@ -8,90 +8,112 @@ netsuite.centercategory custcentercategory53 {
       {
         linkid = "ADMI_SFASETUP"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_UPSELLSETUP"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTOMERSTATUS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_LEADCUSTOMFIELDMAPPING"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_SALESTEAM"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTOMERFIELDRULE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_SALESTERRITORY"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CASETERRITORYASSIGN"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_COMMISSIONSETUP"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_SALESTERRITORIES"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTOMERFORM"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_URLALIASES"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_CAMPAIGNSETUP"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CAMPAIGNCATEGORY"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CAMPAIGNEMAIL"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CAMPAIGNVERTICAL"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CAMPAIGNAUDIENCE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CAMPAIGNFAMILY"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CAMPAIGNSEARCHENGINE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CAMPAIGNCHANNEL"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CAMPAIGNOFFER"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CAMPAIGNSUBSCRIPTION"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

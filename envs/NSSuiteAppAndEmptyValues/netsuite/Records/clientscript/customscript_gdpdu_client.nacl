@@ -15,4 +15,14 @@ netsuite.clientscript customscript_gdpdu_client {
       },
     ]
   }
+  description = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

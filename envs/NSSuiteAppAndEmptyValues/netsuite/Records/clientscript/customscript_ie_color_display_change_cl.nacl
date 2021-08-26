@@ -20,7 +20,20 @@ netsuite.clientscript customscript_ie_color_display_change_cl {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

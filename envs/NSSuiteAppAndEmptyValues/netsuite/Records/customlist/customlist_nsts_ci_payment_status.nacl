@@ -10,12 +10,15 @@ netsuite.customlist customlist_nsts_ci_payment_status {
         scriptid = "value_1_4453644_734"
         isinactive = false
         value = "Open"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_4453644_734"
         isinactive = false
         value = "Paid in Full"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

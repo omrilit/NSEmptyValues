@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_lib_app_app_sublist_line_generator_j
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_lib_app@dsddd,
   ]
+  description = ""
 }

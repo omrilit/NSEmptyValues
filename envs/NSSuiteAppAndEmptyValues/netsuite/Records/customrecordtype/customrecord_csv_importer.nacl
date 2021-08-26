@@ -54,6 +54,24 @@ netsuite.customrecordtype customrecord_csv_importer {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_csv_import_fld_id"
@@ -74,7 +92,33 @@ netsuite.customrecordtype customrecord_csv_importer {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

@@ -10,17 +10,21 @@ netsuite.customlist customlist24 {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Green"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Red"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Yellow"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

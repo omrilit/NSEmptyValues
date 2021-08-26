@@ -9,50 +9,62 @@ netsuite.centercategory custcentercategory205 {
         linkobject = netsuite.centerlink.instance.custlink_13_t1740134_764.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTENTITYFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTITEMFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTEVENTFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTBODYFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTCOLUMNFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTLIST"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTRECORD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_WORKFLOW"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_SCRIPT"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_SCRIPTEDRECORD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_SUITESIGNON"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

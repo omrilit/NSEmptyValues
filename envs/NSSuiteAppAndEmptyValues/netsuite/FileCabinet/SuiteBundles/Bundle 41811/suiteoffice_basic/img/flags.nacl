@@ -6,4 +6,5 @@ netsuite.folder SuiteBundles_Bundle_41811_suiteoffice_basic_img_flags@dsdudd {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41811_suiteoffice_basic_img@dsdud,
   ]
+  description = ""
 }

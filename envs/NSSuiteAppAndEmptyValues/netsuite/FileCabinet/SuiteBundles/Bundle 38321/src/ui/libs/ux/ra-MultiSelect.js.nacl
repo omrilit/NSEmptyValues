@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_38321_src_ui_libs_ux_ra_MultiSelect_js@dsddddd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_38321_src_ui_libs_ux@dsdddd,
   ]
+  description = ""
 }

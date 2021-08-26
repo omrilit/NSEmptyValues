@@ -33,4 +33,20 @@ netsuite.entitycustomfield custentity_oa_project_currency {
   showhierarchy = false
   showinlist = false
   storevalue = true
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
+  subtab = ""
 }

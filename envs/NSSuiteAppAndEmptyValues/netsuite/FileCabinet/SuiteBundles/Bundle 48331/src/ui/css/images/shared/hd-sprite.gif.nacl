@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_48331_src_ui_css_images_shared_hd_sprite_gif@d
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_48331_src_ui_css_images_shared@dsddddd,
   ]
+  description = ""
 }

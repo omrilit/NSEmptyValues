@@ -25,6 +25,16 @@ netsuite.usereventscript customscript_template_ue_print_button {
         searchlevel = "2"
         selectrecordtype = "-123"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_ue_html_template_record"
@@ -41,6 +51,16 @@ netsuite.usereventscript customscript_template_ue_print_button {
         searchlevel = "2"
         selectrecordtype = netsuite.customrecordtype.instance.customrecord_nsts_tex_html_template.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_ue_exist_file_id"
@@ -55,6 +75,18 @@ netsuite.usereventscript customscript_template_ue_print_button {
         label = "Exist File Field ID"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
     ]
   }
@@ -72,6 +104,8 @@ netsuite.usereventscript customscript_template_ue_print_button {
         recordtype = "DEPOSIT"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy_nsts_pdf_gen_invoice"
@@ -84,6 +118,9 @@ netsuite.usereventscript customscript_template_ue_print_button {
         loglevel = "DEBUG"
         recordtype = "INVOICE"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_nsts_pdf_gen_item_fulfil"
@@ -96,6 +133,9 @@ netsuite.usereventscript customscript_template_ue_print_button {
         loglevel = "DEBUG"
         recordtype = "ITEMFULFILLMENT"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_nsts_pdf_gen_salesorder"
@@ -108,6 +148,9 @@ netsuite.usereventscript customscript_template_ue_print_button {
         loglevel = "DEBUG"
         recordtype = "SALESORDER"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_nsts_pdf_gen_vendorcred"
@@ -120,6 +163,9 @@ netsuite.usereventscript customscript_template_ue_print_button {
         loglevel = "DEBUG"
         recordtype = "VENDORCREDIT"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_nsts_pdf_gen_warehouseinfo"
@@ -132,6 +178,9 @@ netsuite.usereventscript customscript_template_ue_print_button {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_nsts_pdf_gen_warehouse_info.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
@@ -154,4 +203,7 @@ netsuite.usereventscript customscript_template_ue_print_button {
       },
     ]
   }
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

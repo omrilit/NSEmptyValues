@@ -17,4 +17,5 @@ netsuite.centertab custcentertab_openair_administration {
       },
     ]
   }
+  audslctrole = ""
 }

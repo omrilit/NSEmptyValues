@@ -26,6 +26,16 @@ netsuite.workflowactionscript customscript_hold_cust_credit {
         searchlevel = "2"
         selectrecordtype = "-2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
     ]
   }
@@ -41,7 +51,11 @@ netsuite.workflowactionscript customscript_hold_cust_credit {
         recordtype = "INVOICE"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
       },
     ]
   }
+  description = ""
+  notifyemails = ""
+  
 }

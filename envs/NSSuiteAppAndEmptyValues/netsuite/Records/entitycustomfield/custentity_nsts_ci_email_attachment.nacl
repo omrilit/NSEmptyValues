@@ -34,4 +34,19 @@ netsuite.entitycustomfield custentity_nsts_ci_email_attachment {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_14_4453644_498.scriptid
+  defaultselection = ""
+  defaultvalue = ""
+  
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

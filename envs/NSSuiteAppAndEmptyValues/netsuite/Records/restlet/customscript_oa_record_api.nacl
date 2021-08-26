@@ -18,7 +18,13 @@ netsuite.restlet customscript_oa_record_api {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "oa_record_api"
+        audslctrole = ""
       },
     ]
   }
+  deletefunction = ""
+  description = ""
+  getfunction = ""
+  notifyemails = ""
+  putfunction = ""
 }

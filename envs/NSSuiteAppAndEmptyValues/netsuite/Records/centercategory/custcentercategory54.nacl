@@ -8,34 +8,42 @@ netsuite.centercategory custcentercategory54 {
       {
         linkid = "TRAN_FORECAST"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_MGRFORECAST"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_QUOTA"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_COMMISSIONSCHEDULE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_PLANASSIGN"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_PLANASSIGNS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_PROCESSCOMMISSN"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "EDIT_TRAN_COMMISSN"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

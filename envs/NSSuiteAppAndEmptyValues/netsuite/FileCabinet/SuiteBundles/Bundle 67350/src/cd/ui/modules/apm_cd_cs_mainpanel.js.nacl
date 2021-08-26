@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_67350_src_cd_ui_modules_apm_cd_cs_mainpanel_js
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src_cd_ui_modules@dsdddd,
   ]
+  description = ""
 }

@@ -21,7 +21,13 @@ netsuite.usereventscript customscript_oa_rev_rec_pco {
         loglevel = "ERROR"
         recordtype = "JOB"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforeloadfunction = ""
+  notifyemails = ""
 }

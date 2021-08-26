@@ -30,4 +30,20 @@ netsuite.crmcustomfield custevent_oa_export_to_openair {
   showissuechanges = false
   storevalue = true
   subtab = "CRMMAIN"
+  defaultselection = ""
+  defaultvalue = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

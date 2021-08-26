@@ -10,22 +10,27 @@ netsuite.customlist customlist_cc_svcs_workbench_li {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Projects & Resources"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Time & Expenses"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Purchases"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Reports"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

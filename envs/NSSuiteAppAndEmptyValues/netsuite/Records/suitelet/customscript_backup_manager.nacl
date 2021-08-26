@@ -20,7 +20,11 @@ netsuite.suitelet customscript_backup_manager {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "**Backup Manager"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

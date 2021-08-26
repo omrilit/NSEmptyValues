@@ -8,26 +8,32 @@ netsuite.centercategory custcentercategory189 {
       {
         linkid = "LIST_BILLINGCLASS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_BILLINGSCHEDULE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_REVRECSCHEDS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_REVRECSCHEDULE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_SALESORDCOMMITREVENUE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_CREATEREVRECJE"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

@@ -11,16 +11,19 @@ netsuite.customlist customlist_nsts_ci_status {
         scriptid = "value_1_4453644_734"
         isinactive = false
         value = "Pending"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_4453644_734"
         isinactive = false
         value = "Complete"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_4453644_734"
         isinactive = false
         value = "Failed"
+        abbreviation = ""
       },
     ]
   }

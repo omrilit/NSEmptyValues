@@ -25,6 +25,17 @@ netsuite.usereventscript customscript_nsts_ci_consolidate_inv_ue {
         label = "Allow Delete on CI Record (For Dev Only)"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
     ]
   }
@@ -42,6 +53,8 @@ netsuite.usereventscript customscript_nsts_ci_consolidate_inv_ue {
         loglevel = "DEBUG"
         recordtype = "CUSTOMER"
         status = "RELEASED"
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_nsts_ci_layout_ue"
@@ -55,6 +68,8 @@ netsuite.usereventscript customscript_nsts_ci_consolidate_inv_ue {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_nsts_ci_layout.scriptid
         status = "RELEASED"
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_nsts_ci_log_ue"
@@ -68,6 +83,8 @@ netsuite.usereventscript customscript_nsts_ci_consolidate_inv_ue {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_nsts_ci_log.scriptid
         status = "RELEASED"
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_nsts_ci_record_ue"
@@ -81,6 +98,8 @@ netsuite.usereventscript customscript_nsts_ci_consolidate_inv_ue {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_nsts_ci_consolidate_invoice.scriptid
         status = "RELEASED"
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_nsts_ci_setup_ue"
@@ -94,6 +113,8 @@ netsuite.usereventscript customscript_nsts_ci_consolidate_inv_ue {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.scriptid
         status = "RELEASED"
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_nsts_ci_task_ue"
@@ -107,6 +128,8 @@ netsuite.usereventscript customscript_nsts_ci_consolidate_inv_ue {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_nsts_ci_task.scriptid
         status = "RELEASED"
+        
+        runasrole = ""
       },
     ]
   }
@@ -120,4 +143,6 @@ netsuite.usereventscript customscript_nsts_ci_consolidate_inv_ue {
       },
     ]
   }
+  aftersubmitfunction = ""
+  notifyemails = ""
 }

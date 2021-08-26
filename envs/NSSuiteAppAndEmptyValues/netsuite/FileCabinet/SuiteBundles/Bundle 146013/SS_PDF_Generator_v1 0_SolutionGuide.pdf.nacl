@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_146013_SS_PDF_Generator_v1_0_SolutionGuide_pdf
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_146013@ds,
   ]
+  description = ""
 }

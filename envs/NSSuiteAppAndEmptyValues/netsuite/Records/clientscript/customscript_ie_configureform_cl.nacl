@@ -21,7 +21,19 @@ netsuite.clientscript customscript_ie_configureform_cl {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

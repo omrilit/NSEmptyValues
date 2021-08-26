@@ -22,6 +22,7 @@ netsuite.savedcsvimport custimport_rss_category {
     allroles = false
     globaledit = false
     ispublic = false
+    roles = ""
   }
   filemappings = {
     filemapping = [

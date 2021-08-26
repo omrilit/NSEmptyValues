@@ -28,4 +28,22 @@ netsuite.itemcustomfield custitem_wd_process_items {
   showhierarchy = false
   showinlist = false
   storevalue = true
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
+  subtab = ""
 }

@@ -19,4 +19,6 @@ netsuite.sublist custsublist_33_t1499227_834 {
   sublisttype = "TRANSACTION"
   tab = "TRANSACTIONRELATEDRECORDS"
   vendorpayment = false
+  customtransactions = ""
+  field = ""
 }

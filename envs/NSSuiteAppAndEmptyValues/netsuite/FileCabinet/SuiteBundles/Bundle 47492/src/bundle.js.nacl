@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_src_bundle_js@dsddv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_src@dsd,
   ]
+  description = ""
 }

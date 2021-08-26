@@ -23,6 +23,17 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_realtime_enable"
@@ -38,6 +49,17 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_realtime_sso_record"
@@ -53,6 +75,17 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_realtime_include_lead"
@@ -68,6 +101,17 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_realtime_include_prospect"
@@ -83,6 +127,17 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -99,6 +154,9 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = netsuite.customrecordtype.instance.customrecord_oa_cost_center.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_send_creditmemo"
@@ -111,6 +169,9 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = "CREDITMEMO"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_send_customer"
@@ -124,6 +185,8 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         recordtype = "CUSTOMER"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy_oa_send_customerdeposit"
@@ -136,6 +199,9 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = "DEPOSITAPPLICATION"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_send_customerpayment"
@@ -149,6 +215,8 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         recordtype = "CUSTOMERPAYMENT"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy_oa_send_employee"
@@ -162,6 +230,8 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         recordtype = "EMPLOYEE"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy_oa_send_expensecategory"
@@ -174,6 +244,9 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = "EXPENSECATEGORY"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_send_item"
@@ -186,6 +259,9 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = "SERVICEITEM"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_send_lead"
@@ -199,6 +275,8 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         recordtype = "LEAD"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy_oa_send_project"
@@ -212,6 +290,8 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         recordtype = "JOB"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy_oa_send_projecttask"
@@ -224,6 +304,9 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = "PROJECTTASK"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_send_prospect"
@@ -237,6 +320,8 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         recordtype = "PROSPECT"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy_oa_send_purchaseorder"
@@ -249,6 +334,9 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = "PURCHASEORDER"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_send_rate_card"
@@ -261,6 +349,9 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = netsuite.customrecordtype.instance.customrecord_oa_project_rate_card.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_send_salesorder"
@@ -274,6 +365,8 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         recordtype = "SALESORDER"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy_oa_send_supportcase"
@@ -287,6 +380,8 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         recordtype = "SUPPORTCASE"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy_oa_send_vendor"
@@ -299,6 +394,9 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = "VENDOR"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_send_vendorbill"
@@ -311,6 +409,9 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = "VENDORBILL"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_send_vendorpayment"
@@ -323,7 +424,14 @@ netsuite.usereventscript customscript_oa_send_to_openair {
         loglevel = "ERROR"
         recordtype = "VENDORPAYMENT"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

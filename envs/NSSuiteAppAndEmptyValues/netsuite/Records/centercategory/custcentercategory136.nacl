@@ -8,18 +8,22 @@ netsuite.centercategory custcentercategory136 {
       {
         linkid = "LIST_TRAN_CUSTINVC"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_INVOICECUSTOMERS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_274"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_262"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

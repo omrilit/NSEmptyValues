@@ -13,6 +13,7 @@ netsuite.centercategory custcentercategory39 {
       {
         linkid = "SUPT_RELEASENOTES"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "SUPT_VERSION_10_5"

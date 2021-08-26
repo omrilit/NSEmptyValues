@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41813_SuiteOffice___Compare_Products_js@dsdsbs
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41813@ds,
   ]
+  description = ""
 }

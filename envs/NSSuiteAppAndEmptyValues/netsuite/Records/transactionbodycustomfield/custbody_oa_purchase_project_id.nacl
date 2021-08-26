@@ -39,4 +39,24 @@ netsuite.transactionbodycustomfield custbody_oa_purchase_project_id {
   showhierarchy = false
   showinlist = false
   storevalue = true
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
+  subtab = ""
 }

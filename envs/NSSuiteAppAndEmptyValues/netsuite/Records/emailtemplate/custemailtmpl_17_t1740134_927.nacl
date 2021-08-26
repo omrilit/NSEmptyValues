@@ -8,4 +8,7 @@ netsuite.emailtemplate custemailtmpl_17_t1740134_927 {
   subject = "Invoice Notification - Professional services invoice is ready to view"
   usesmedia = false
   content = file("netsuite/emailtemplate/custemailtmpl_17_t1740134_927.html")
+  description = ""
+  mediaitem = ""
+  
 }

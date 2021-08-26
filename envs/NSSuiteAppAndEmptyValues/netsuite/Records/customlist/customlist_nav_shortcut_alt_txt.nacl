@@ -10,11 +10,13 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_106_t1499227_127"
         isinactive = false
         value = "A list of open bills"
+        abbreviation = ""
       },
       {
         scriptid = "value_47_t1499227_127"
         isinactive = false
         value = "A list of orders from new customers"
+        abbreviation = ""
       },
       {
         scriptid = "value_105_t1499227_127"
@@ -50,41 +52,49 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_157_t1499227_127"
         isinactive = false
         value = "Approve bills for payment"
+        abbreviation = ""
       },
       {
         scriptid = "value_57_t1499227_127"
         isinactive = false
         value = "Approve employee purchase requests"
+        abbreviation = ""
       },
       {
         scriptid = "value_55_t1499227_127"
         isinactive = false
         value = "Approve employee time"
+        abbreviation = ""
       },
       {
         scriptid = "value_51_t1499227_127"
         isinactive = false
         value = "Approve expenses for employees"
+        abbreviation = ""
       },
       {
         scriptid = "value_265_t1499227_127"
         isinactive = false
         value = "Approve Fund Transfers"
+        abbreviation = ""
       },
       {
         scriptid = "value_202_t1499227_127"
         isinactive = false
         value = "Approve outstanding expense reports"
+        abbreviation = ""
       },
       {
         scriptid = "value_200_t1499227_127"
         isinactive = false
         value = "Approve outstanding time"
+        abbreviation = ""
       },
       {
         scriptid = "value_204_t1499227_127"
         isinactive = false
         value = "Approve purchase requests"
+        abbreviation = ""
       },
       {
         scriptid = "value_136_t1499227_127"
@@ -114,11 +124,13 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_296_t1499227_127"
         isinactive = false
         value = "Badges"
+        abbreviation = ""
       },
       {
         scriptid = "value_280_t1499227_127"
         isinactive = false
         value = "Balance sheet report"
+        abbreviation = ""
       },
       {
         scriptid = "value_97_t1499227_127"
@@ -142,36 +154,43 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_207_t1499227_127"
         isinactive = false
         value = "Budget vs Actual"
+        abbreviation = ""
       },
       {
         scriptid = "value_98_t1499227_127"
         isinactive = false
         value = "Budgets"
+        abbreviation = ""
       },
       {
         scriptid = "value_301_t1499227_127"
         isinactive = false
         value = "Campaigns"
+        abbreviation = ""
       },
       {
         scriptid = "value_282_t1499227_127"
         isinactive = false
         value = "Cash flow statement"
+        abbreviation = ""
       },
       {
         scriptid = "value_16_t1499227_127"
         isinactive = false
         value = "Change the features of the accounting system"
+        abbreviation = ""
       },
       {
         scriptid = "value_274_t1499227_127"
         isinactive = false
         value = "Chart of accounts"
+        abbreviation = ""
       },
       {
         scriptid = "value_133_t1499227_127"
         isinactive = false
         value = "Check inventory levels"
+        abbreviation = ""
       },
       {
         scriptid = "value_211_t1499227_127"
@@ -183,6 +202,7 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_288_t1499227_127"
         isinactive = false
         value = "Close accounting periods"
+        abbreviation = ""
       },
       {
         scriptid = "value_33_t1499227_127"
@@ -194,106 +214,127 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_226_t1499227_127"
         isinactive = false
         value = "Company Information"
+        abbreviation = ""
       },
       {
         scriptid = "value_99_t1499227_127"
         isinactive = false
         value = "Compare actuals to budget amounts"
+        abbreviation = ""
       },
       {
         scriptid = "value_248_t1499227_127"
         isinactive = false
         value = "Compare actuals to budget amounts - revenue"
+        abbreviation = ""
       },
       {
         scriptid = "value_208_t1499227_127"
         isinactive = false
         value = "Compare allocated and actual hours"
+        abbreviation = ""
       },
       {
         scriptid = "value_13_t1499227_127"
         isinactive = false
         value = "Comparison report of budget to actual-expenses"
+        abbreviation = ""
       },
       {
         scriptid = "value_14_t1499227_127"
         isinactive = false
         value = "Comparison report of budget to actual-revenues"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Copy budgets to different categories"
+        abbreviation = ""
       },
       {
         scriptid = "value_21_t1499227_127"
         isinactive = false
         value = "Create a new customer"
+        abbreviation = ""
       },
       {
         scriptid = "value_23_t1499227_127"
         isinactive = false
         value = "Create a new employee"
+        abbreviation = ""
       },
       {
         scriptid = "value_20_t1499227_127"
         isinactive = false
         value = "Create a new G/L account"
+        abbreviation = ""
       },
       {
         scriptid = "value_239_t1499227_127"
         isinactive = false
         value = "Create a new inventory item"
+        abbreviation = ""
       },
       {
         scriptid = "value_24_t1499227_127"
         isinactive = false
         value = "Create a new project"
+        abbreviation = ""
       },
       {
         scriptid = "value_197_t1499227_127"
         isinactive = false
         value = "Create a new project from a template"
+        abbreviation = ""
       },
       {
         scriptid = "value_22_t1499227_127"
         isinactive = false
         value = "Create a new vendor"
+        abbreviation = ""
       },
       {
         scriptid = "value_289_t1499227_127"
         isinactive = false
         value = "Create amortization journal entries"
+        abbreviation = ""
       },
       {
         scriptid = "value_242_t1499227_127"
         isinactive = false
         value = "Create an intercompany adjustment"
+        abbreviation = ""
       },
       {
         scriptid = "value_241_t1499227_127"
         isinactive = false
         value = "Create an intercompany journal entry"
+        abbreviation = ""
       },
       {
         scriptid = "value_19_t1499227_127"
         isinactive = false
         value = "Create and manage cost center segments"
+        abbreviation = ""
       },
       {
         scriptid = "value_17_t1499227_127"
         isinactive = false
         value = "Create and manage cost centers"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Create budget categories"
+        abbreviation = ""
       },
       {
         scriptid = "value_278_t1499227_127"
         isinactive = false
         value = "Create Budgets"
+        abbreviation = ""
       },
       {
         scriptid = "value_40_t1499227_127"
@@ -305,16 +346,19 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_169_t1499227_127"
         isinactive = false
         value = "Create invoices from sales orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_9_t1499227_127"
         isinactive = false
         value = "Create JE's from reconciliation"
+        abbreviation = ""
       },
       {
         scriptid = "value_25_t1499227_127"
         isinactive = false
         value = "Create journal entries"
+        abbreviation = ""
       },
       {
         scriptid = "value_26_t1499227_127"
@@ -332,16 +376,19 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_170_t1499227_127"
         isinactive = false
         value = "Create new cash sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_46_t1499227_127"
         isinactive = false
         value = "Create or review a collections case"
+        abbreviation = ""
       },
       {
         scriptid = "value_126_t1499227_127"
         isinactive = false
         value = "Create payments from purchase orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_177_t1499227_127"
@@ -359,6 +406,7 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_290_t1499227_127"
         isinactive = false
         value = "Custom Item Field (See Demo Script)"
+        abbreviation = ""
       },
       {
         scriptid = "value_224_t1499227_127"
@@ -370,66 +418,79 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_304_t1499227_127"
         isinactive = false
         value = "Customer Categories - List"
+        abbreviation = ""
       },
       {
         scriptid = "value_307_t1499227_127"
         isinactive = false
         value = "Customer Page Hits"
+        abbreviation = ""
       },
       {
         scriptid = "value_220_t1499227_127"
         isinactive = false
         value = "Customize transaction forms"
+        abbreviation = ""
       },
       {
         scriptid = "value_271_t1499227_127"
         isinactive = false
         value = "Data Wizard"
+        abbreviation = ""
       },
       {
         scriptid = "value_132_t1499227_127"
         isinactive = false
         value = "Detail or summary view of A/P by days outstanding or 30/60/90"
+        abbreviation = ""
       },
       {
         scriptid = "value_284_t1499227_127"
         isinactive = false
         value = "Detail or summary view of A/P by days outstanding or 30/60/90"
+        abbreviation = ""
       },
       {
         scriptid = "value_283_t1499227_127"
         isinactive = false
         value = "Detail or summary view of A/R by days outstanding or 30/60/90"
+        abbreviation = ""
       },
       {
         scriptid = "value_48_t1499227_127"
         isinactive = false
         value = "Detail or summary view of A/R by days outstanding or 30/60/90"
+        abbreviation = ""
       },
       {
         scriptid = "value_127_t1499227_127"
         isinactive = false
         value = "Enter bills for payment"
+        abbreviation = ""
       },
       {
         scriptid = "value_186_t1499227_127"
         isinactive = false
         value = "Enter cash sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_158_t1499227_127"
         isinactive = false
         value = "Enter credits from the vendor to invoices"
+        abbreviation = ""
       },
       {
         scriptid = "value_129_t1499227_127"
         isinactive = false
         value = "Enter credits from vendors"
+        abbreviation = ""
       },
       {
         scriptid = "value_50_t1499227_127"
         isinactive = false
         value = "Enter expenses for reimbursement"
+        abbreviation = ""
       },
       {
         scriptid = "value_154_t1499227_127"
@@ -441,46 +502,55 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_203_t1499227_127"
         isinactive = false
         value = "Enter purchase requests"
+        abbreviation = ""
       },
       {
         scriptid = "value_262_t1499227_127"
         isinactive = false
         value = "Enter requisitions"
+        abbreviation = ""
       },
       {
         scriptid = "value_45_t1499227_127"
         isinactive = false
         value = "Enter returned checks from the bank"
+        abbreviation = ""
       },
       {
         scriptid = "value_172_t1499227_127"
         isinactive = false
         value = "Enter RMA's and credit the customer's account"
+        abbreviation = ""
       },
       {
         scriptid = "value_184_t1499227_127"
         isinactive = false
         value = "Enter sales opportunities"
+        abbreviation = ""
       },
       {
         scriptid = "value_187_t1499227_127"
         isinactive = false
         value = "Enter sales orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_199_t1499227_127"
         isinactive = false
         value = "Enter time against a client, project, case or task"
+        abbreviation = ""
       },
       {
         scriptid = "value_53_t1499227_127"
         isinactive = false
         value = "Enter time for projects and payroll"
+        abbreviation = ""
       },
       {
         scriptid = "value_201_t1499227_127"
         isinactive = false
         value = "Enter travel expense"
+        abbreviation = ""
       },
       {
         scriptid = "value_152_t1499227_127"
@@ -498,6 +568,7 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_266_t1499227_127"
         isinactive = false
         value = "Export CSV records"
+        abbreviation = ""
       },
       {
         scriptid = "value_135_t1499227_127"
@@ -515,26 +586,31 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_268_t1499227_127"
         isinactive = false
         value = "Grant DE Access (SD Cases)"
+        abbreviation = ""
       },
       {
         scriptid = "value_269_t1499227_127"
         isinactive = false
         value = "Grant SDG Manila Access (SDG Tasks)"
+        abbreviation = ""
       },
       {
         scriptid = "value_270_t1499227_127"
         isinactive = false
         value = "Grant SDG Uruguay Access (SDG Tasks – SCA)"
+        abbreviation = ""
       },
       {
         scriptid = "value_303_t1499227_127"
         isinactive = false
         value = "Groups (Customers)"
+        abbreviation = ""
       },
       {
         scriptid = "value_300_t1499227_127"
         isinactive = false
         value = "Images"
+        abbreviation = ""
       },
       {
         scriptid = "value_214_t1499227_127"
@@ -564,16 +640,19 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_279_t1499227_127"
         isinactive = false
         value = "Import journal entries"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "Import transactions from your bank"
+        abbreviation = ""
       },
       {
         scriptid = "value_281_t1499227_127"
         isinactive = false
         value = "Income statement report"
+        abbreviation = ""
       },
       {
         scriptid = "value_223_t1499227_127"
@@ -585,11 +664,13 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_285_t1499227_127"
         isinactive = false
         value = "International tax reports"
+        abbreviation = ""
       },
       {
         scriptid = "value_109_t1499227_127"
         isinactive = false
         value = "Inventory valuation in summary or detail"
+        abbreviation = ""
       },
       {
         scriptid = "value_44_t1499227_127"
@@ -601,51 +682,61 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_155_t1499227_127"
         isinactive = false
         value = "Item matching to purchase orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_34_t1499227_127"
         isinactive = false
         value = "Launch the customer form to look into credit"
+        abbreviation = ""
       },
       {
         scriptid = "value_153_t1499227_127"
         isinactive = false
         value = "Launch the vendor form to look at performance"
+        abbreviation = ""
       },
       {
         scriptid = "value_194_t1499227_127"
         isinactive = false
         value = "LinkedIn.com"
+        abbreviation = ""
       },
       {
         scriptid = "value_275_t1499227_127"
         isinactive = false
         value = "List and setup employees"
+        abbreviation = ""
       },
       {
         scriptid = "value_103_t1499227_127"
         isinactive = false
         value = "List of all open purchase orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_11_t1499227_127"
         isinactive = false
         value = "List of cash accounts with balances"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "List of currencies"
+        abbreviation = ""
       },
       {
         scriptid = "value_119_t1499227_127"
         isinactive = false
         value = "List of customers with costs and revenue"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "List of exchange rates"
+        abbreviation = ""
       },
       {
         scriptid = "value_113_t1499227_127"
@@ -657,66 +748,79 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_107_t1499227_127"
         isinactive = false
         value = "List of payables by period"
+        abbreviation = ""
       },
       {
         scriptid = "value_108_t1499227_127"
         isinactive = false
         value = "List of payments by bill"
+        abbreviation = ""
       },
       {
         scriptid = "value_104_t1499227_127"
         isinactive = false
         value = "List of POs by date with status"
+        abbreviation = ""
       },
       {
         scriptid = "value_102_t1499227_127"
         isinactive = false
         value = "List of purchases by item in summary or detail"
+        abbreviation = ""
       },
       {
         scriptid = "value_101_t1499227_127"
         isinactive = false
         value = "List of purchases by vendor in summary or detail"
+        abbreviation = ""
       },
       {
         scriptid = "value_94_t1499227_127"
         isinactive = false
         value = "List of revenue by customer in summary or detail"
+        abbreviation = ""
       },
       {
         scriptid = "value_96_t1499227_127"
         isinactive = false
         value = "List of revenue by item"
+        abbreviation = ""
       },
       {
         scriptid = "value_95_t1499227_127"
         isinactive = false
         value = "List of revenue by state"
+        abbreviation = ""
       },
       {
         scriptid = "value_59_t1499227_127"
         isinactive = false
         value = "List of scheduled phone calls"
+        abbreviation = ""
       },
       {
         scriptid = "value_60_t1499227_127"
         isinactive = false
         value = "List of scheduled tasks"
+        abbreviation = ""
       },
       {
         scriptid = "value_253_t1499227_127"
         isinactive = false
         value = "Listing of back ordered sales orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_110_t1499227_127"
         isinactive = false
         value = "Listing of inventory activity"
+        abbreviation = ""
       },
       {
         scriptid = "value_112_t1499227_127"
         isinactive = false
         value = "Listing of inventory for physical count"
+        abbreviation = ""
       },
       {
         scriptid = "value_163_t1499227_127"
@@ -728,6 +832,7 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_252_t1499227_127"
         isinactive = false
         value = "Listing of open sales orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_164_t1499227_127"
@@ -739,6 +844,7 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_10_t1499227_127"
         isinactive = false
         value = "Log in to your bank to review detail"
+        abbreviation = ""
       },
       {
         scriptid = "value_216_t1499227_127"
@@ -756,21 +862,25 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_142_t1499227_127"
         isinactive = false
         value = "Manage and close periods"
+        abbreviation = ""
       },
       {
         scriptid = "value_240_t1499227_127"
         isinactive = false
         value = "Manage fixed assets"
+        abbreviation = ""
       },
       {
         scriptid = "value_264_t1499227_127"
         isinactive = false
         value = "Manage Intercompany Sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_15_t1499227_127"
         isinactive = false
         value = "Manage projects and project accounting"
+        abbreviation = ""
       },
       {
         scriptid = "value_218_t1499227_127"
@@ -782,6 +892,7 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_238_t1499227_127"
         isinactive = false
         value = "Manage subsidiary relationships"
+        abbreviation = ""
       },
       {
         scriptid = "value_217_t1499227_127"
@@ -793,6 +904,7 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_260_t1499227_127"
         isinactive = false
         value = "Mark transactions as delivered"
+        abbreviation = ""
       },
       {
         scriptid = "value_193_t1499227_127"
@@ -822,21 +934,25 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_42_t1499227_127"
         isinactive = false
         value = "Open billing case"
+        abbreviation = ""
       },
       {
         scriptid = "value_36_t1499227_127"
         isinactive = false
         value = "Open D&B website for rating"
+        abbreviation = ""
       },
       {
         scriptid = "value_263_t1499227_127"
         isinactive = false
         value = "Order requisitions"
+        abbreviation = ""
       },
       {
         scriptid = "value_272_t1499227_127"
         isinactive = false
         value = "Order to Cash Management"
+        abbreviation = ""
       },
       {
         scriptid = "value_189_t1499227_127"
@@ -848,16 +964,19 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_171_t1499227_127"
         isinactive = false
         value = "Post payments to open invoices"
+        abbreviation = ""
       },
       {
         scriptid = "value_185_t1499227_127"
         isinactive = false
         value = "Prepare quotes for customers"
+        abbreviation = ""
       },
       {
         scriptid = "value_160_t1499227_127"
         isinactive = false
         value = "Print checks and other forms"
+        abbreviation = ""
       },
       {
         scriptid = "value_237_t1499227_127"
@@ -869,41 +988,49 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_161_t1499227_127"
         isinactive = false
         value = "Process vendor setup for ACH"
+        abbreviation = ""
       },
       {
         scriptid = "value_273_t1499227_127"
         isinactive = false
         value = "Procure to Pay Management"
+        abbreviation = ""
       },
       {
         scriptid = "value_130_t1499227_127"
         isinactive = false
         value = "Produce payments"
+        abbreviation = ""
       },
       {
         scriptid = "value_90_t1499227_127"
         isinactive = false
         value = "Produce the balance sheet report"
+        abbreviation = ""
       },
       {
         scriptid = "value_89_t1499227_127"
         isinactive = false
         value = "Produce the income statement report"
+        abbreviation = ""
       },
       {
         scriptid = "value_92_t1499227_127"
         isinactive = false
         value = "Produce the statement of cash flows"
+        abbreviation = ""
       },
       {
         scriptid = "value_91_t1499227_127"
         isinactive = false
         value = "Produce the trial balance report"
+        abbreviation = ""
       },
       {
         scriptid = "value_233_t1499227_127"
         isinactive = false
         value = "Produce worksheet for physical count"
+        abbreviation = ""
       },
       {
         scriptid = "value_198_t1499227_127"
@@ -915,6 +1042,7 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_302_t1499227_127"
         isinactive = false
         value = "Promotions"
+        abbreviation = ""
       },
       {
         scriptid = "value_206_t1499227_127"
@@ -926,6 +1054,7 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_192_t1499227_127"
         isinactive = false
         value = "Quora"
+        abbreviation = ""
       },
       {
         scriptid = "value_151_t1499227_127"
@@ -937,16 +1066,19 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_231_t1499227_127"
         isinactive = false
         value = "Receive ordered items from purchase orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_8_t1499227_127"
         isinactive = false
         value = "Reconcile your credit card statements by account"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "Reconcile your statements by account"
+        abbreviation = ""
       },
       {
         scriptid = "value_41_t1499227_127"
@@ -958,11 +1090,13 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_308_t1499227_127"
         isinactive = false
         value = "Referrer Summary"
+        abbreviation = ""
       },
       {
         scriptid = "value_254_t1499227_127"
         isinactive = false
         value = "Register of pending sales orders by customer"
+        abbreviation = ""
       },
       {
         scriptid = "value_118_t1499227_127"
@@ -974,41 +1108,49 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_165_t1499227_127"
         isinactive = false
         value = "Report of A/P in summary or detail by date or 30/60/90 view"
+        abbreviation = ""
       },
       {
         scriptid = "value_166_t1499227_127"
         isinactive = false
         value = "Report of bills pending payment"
+        abbreviation = ""
       },
       {
         scriptid = "value_267_t1499227_127"
         isinactive = false
         value = "Report of the Forecasted Charges"
+        abbreviation = ""
       },
       {
         scriptid = "value_244_t1499227_127"
         isinactive = false
         value = "Report on assets and liabilities"
+        abbreviation = ""
       },
       {
         scriptid = "value_251_t1499227_127"
         isinactive = false
         value = "Report on budget vs actual costs by project"
+        abbreviation = ""
       },
       {
         scriptid = "value_247_t1499227_127"
         isinactive = false
         value = "Report on cash flow"
+        abbreviation = ""
       },
       {
         scriptid = "value_209_t1499227_127"
         isinactive = false
         value = "Report on forecast utilization using allocated hours"
+        abbreviation = ""
       },
       {
         scriptid = "value_210_t1499227_127"
         isinactive = false
         value = "Report on historical utilization using actual timesheet hours"
+        abbreviation = ""
       },
       {
         scriptid = "value_245_t1499227_127"
@@ -1020,116 +1162,139 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_249_t1499227_127"
         isinactive = false
         value = "Report on the profitability of clients and projects"
+        abbreviation = ""
       },
       {
         scriptid = "value_250_t1499227_127"
         isinactive = false
         value = "Report on the status of charge based billing rules"
+        abbreviation = ""
       },
       {
         scriptid = "value_246_t1499227_127"
         isinactive = false
         value = "Report on total account balances"
+        abbreviation = ""
       },
       {
         scriptid = "value_243_t1499227_127"
         isinactive = false
         value = "Revalue open currency balances"
+        abbreviation = ""
       },
       {
         scriptid = "value_35_t1499227_127"
         isinactive = false
         value = "Review a list of all credit memos by customer"
+        abbreviation = ""
       },
       {
         scriptid = "value_232_t1499227_127"
         isinactive = false
         value = "Review and enter inventory adjustments"
+        abbreviation = ""
       },
       {
         scriptid = "value_276_t1499227_127"
         isinactive = false
         value = "Review and set up exchange rates"
+        abbreviation = ""
       },
       {
         scriptid = "value_168_t1499227_127"
         isinactive = false
         value = "Review and setup cases"
+        abbreviation = ""
       },
       {
         scriptid = "value_122_t1499227_127"
         isinactive = false
         value = "Review and setup contacts"
+        abbreviation = ""
       },
       {
         scriptid = "value_167_t1499227_127"
         isinactive = false
         value = "Review and setup customers"
+        abbreviation = ""
       },
       {
         scriptid = "value_125_t1499227_127"
         isinactive = false
         value = "Review and setup events on calendar"
+        abbreviation = ""
       },
       {
         scriptid = "value_123_t1499227_127"
         isinactive = false
         value = "Review and setup items"
+        abbreviation = ""
       },
       {
         scriptid = "value_182_t1499227_127"
         isinactive = false
         value = "Review and setup leads"
+        abbreviation = ""
       },
       {
         scriptid = "value_183_t1499227_127"
         isinactive = false
         value = "Review and setup prospects"
+        abbreviation = ""
       },
       {
         scriptid = "value_124_t1499227_127"
         isinactive = false
         value = "Review and setup tasks"
+        abbreviation = ""
       },
       {
         scriptid = "value_121_t1499227_127"
         isinactive = false
         value = "Review and setup vendors"
+        abbreviation = ""
       },
       {
         scriptid = "value_63_t1499227_127"
         isinactive = false
         value = "Review approved commissions"
+        abbreviation = ""
       },
       {
         scriptid = "value_64_t1499227_127"
         isinactive = false
         value = "Review commissions to be approved"
+        abbreviation = ""
       },
       {
         scriptid = "value_140_t1499227_127"
         isinactive = false
         value = "Review currency"
+        abbreviation = ""
       },
       {
         scriptid = "value_190_t1499227_127"
         isinactive = false
         value = "Review forecast to actual sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "Review historical and average budget exchange rates"
+        abbreviation = ""
       },
       {
         scriptid = "value_179_t1499227_127"
         isinactive = false
         value = "Review open projects"
+        abbreviation = ""
       },
       {
         scriptid = "value_180_t1499227_127"
         isinactive = false
         value = "Review project earnings"
+        abbreviation = ""
       },
       {
         scriptid = "value_176_t1499227_127"
@@ -1153,91 +1318,109 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_230_t1499227_127"
         isinactive = false
         value = "Review specific shipments"
+        abbreviation = ""
       },
       {
         scriptid = "value_18_t1499227_127"
         isinactive = false
         value = "Review the chart of accounts"
+        abbreviation = ""
       },
       {
         scriptid = "value_12_t1499227_127"
         isinactive = false
         value = "Review transaction detail by subsidiary"
+        abbreviation = ""
       },
       {
         scriptid = "value_62_t1499227_127"
         isinactive = false
         value = "Review your commissions"
+        abbreviation = ""
       },
       {
         scriptid = "value_131_t1499227_127"
         isinactive = false
         value = "Run a register of all payables"
+        abbreviation = ""
       },
       {
         scriptid = "value_173_t1499227_127"
         isinactive = false
         value = "Run a register of all receivables"
+        abbreviation = ""
       },
       {
         scriptid = "value_143_t1499227_127"
         isinactive = false
         value = "Run period end allocations"
+        abbreviation = ""
       },
       {
         scriptid = "value_144_t1499227_127"
         isinactive = false
         value = "Run period end amortizations"
+        abbreviation = ""
       },
       {
         scriptid = "value_257_t1499227_127"
         isinactive = false
         value = "Run the A/P aging report"
+        abbreviation = ""
       },
       {
         scriptid = "value_256_t1499227_127"
         isinactive = false
         value = "Run the A/R aging report"
+        abbreviation = ""
       },
       {
         scriptid = "value_147_t1499227_127"
         isinactive = false
         value = "Run the balance sheet report"
+        abbreviation = ""
       },
       {
         scriptid = "value_149_t1499227_127"
         isinactive = false
         value = "Run the cash flow statement"
+        abbreviation = ""
       },
       {
         scriptid = "value_146_t1499227_127"
         isinactive = false
         value = "Run the income statement report"
+        abbreviation = ""
       },
       {
         scriptid = "value_258_t1499227_127"
         isinactive = false
         value = "Run the intercompany elimination report"
+        abbreviation = ""
       },
       {
         scriptid = "value_259_t1499227_127"
         isinactive = false
         value = "Run the realized exchange rate gain/loss report"
+        abbreviation = ""
       },
       {
         scriptid = "value_148_t1499227_127"
         isinactive = false
         value = "Run the trial balance report"
+        abbreviation = ""
       },
       {
         scriptid = "value_162_t1499227_127"
         isinactive = false
         value = "Rush check processing"
+        abbreviation = ""
       },
       {
         scriptid = "value_188_t1499227_127"
         isinactive = false
         value = "Sales by item and category"
+        abbreviation = ""
       },
       {
         scriptid = "value_117_t1499227_127"
@@ -1249,16 +1432,19 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_195_t1499227_127"
         isinactive = false
         value = "Save and review documents related to inventory"
+        abbreviation = ""
       },
       {
         scriptid = "value_291_t1499227_127"
         isinactive = false
         value = "Script (Edit, Save and Execute)"
+        abbreviation = ""
       },
       {
         scriptid = "value_221_t1499227_127"
         isinactive = false
         value = "Scripts"
+        abbreviation = ""
       },
       {
         scriptid = "value_156_t1499227_127"
@@ -1270,31 +1456,37 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_175_t1499227_127"
         isinactive = false
         value = "Setup amounts and posting periods"
+        abbreviation = ""
       },
       {
         scriptid = "value_141_t1499227_127"
         isinactive = false
         value = "Setup exchange rates"
+        abbreviation = ""
       },
       {
         scriptid = "value_139_t1499227_127"
         isinactive = false
         value = "Setup or change preferences"
+        abbreviation = ""
       },
       {
         scriptid = "value_255_t1499227_127"
         isinactive = false
         value = "Setup tax periods"
+        abbreviation = ""
       },
       {
         scriptid = "value_287_t1499227_127"
         isinactive = false
         value = "Shared Vendor Bill (SVB) Distribution Schedule setup"
+        abbreviation = ""
       },
       {
         scriptid = "value_229_t1499227_127"
         isinactive = false
         value = "Ship orders to customers"
+        abbreviation = ""
       },
       {
         scriptid = "value_236_t1499227_127"
@@ -1306,6 +1498,7 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_49_t1499227_127"
         isinactive = false
         value = "Show a complete reports listing"
+        abbreviation = ""
       },
       {
         scriptid = "value_219_t1499227_127"
@@ -1323,11 +1516,13 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_298_t1499227_127"
         isinactive = false
         value = "Site Categories"
+        abbreviation = ""
       },
       {
         scriptid = "value_294_t1499227_127"
         isinactive = false
         value = "Slider / Banner - List"
+        abbreviation = ""
       },
       {
         scriptid = "value_145_t1499227_127"
@@ -1339,31 +1534,37 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_111_t1499227_127"
         isinactive = false
         value = "Status of inventory by location"
+        abbreviation = ""
       },
       {
         scriptid = "value_295_t1499227_127"
         isinactive = false
         value = "Store Locations"
+        abbreviation = ""
       },
       {
         scriptid = "value_277_t1499227_127"
         isinactive = false
         value = "Subsidiaries"
+        abbreviation = ""
       },
       {
         scriptid = "value_212_t1499227_127"
         isinactive = false
         value = "SuiteAnswers"
+        abbreviation = ""
       },
       {
         scriptid = "value_93_t1499227_127"
         isinactive = false
         value = "Summary list of bills and revenue"
+        abbreviation = ""
       },
       {
         scriptid = "value_286_t1499227_127"
         isinactive = false
         value = "Trial balance report"
+        abbreviation = ""
       },
       {
         scriptid = "value_150_t1499227_127"
@@ -1375,56 +1576,67 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_196_t1499227_127"
         isinactive = false
         value = "View a list of projects, including summary data"
+        abbreviation = ""
       },
       {
         scriptid = "value_261_t1499227_127"
         isinactive = false
         value = "View a resource availability and capacity chart"
+        abbreviation = ""
       },
       {
         scriptid = "value_58_t1499227_127"
         isinactive = false
         value = "View entered purchase requests"
+        abbreviation = ""
       },
       {
         scriptid = "value_52_t1499227_127"
         isinactive = false
         value = "View expense reports and their status"
+        abbreviation = ""
       },
       {
         scriptid = "value_205_t1499227_127"
         isinactive = false
         value = "View purchase orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_181_t1499227_127"
         isinactive = false
         value = "View the reports center"
+        abbreviation = ""
       },
       {
         scriptid = "value_54_t1499227_127"
         isinactive = false
         value = "View time entered"
+        abbreviation = ""
       },
       {
         scriptid = "value_159_t1499227_127"
         isinactive = false
         value = "View vendor to see if a bill has been paid"
+        abbreviation = ""
       },
       {
         scriptid = "value_61_t1499227_127"
         isinactive = false
         value = "View your calendar"
+        abbreviation = ""
       },
       {
         scriptid = "value_306_t1499227_127"
         isinactive = false
         value = "Visitor Activity Detail"
+        abbreviation = ""
       },
       {
         scriptid = "value_305_t1499227_127"
         isinactive = false
         value = "Visitor Activity Summary"
+        abbreviation = ""
       },
       {
         scriptid = "value_227_t1499227_127"
@@ -1436,21 +1648,25 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_292_t1499227_127"
         isinactive = false
         value = "Web Site Configuration"
+        abbreviation = ""
       },
       {
         scriptid = "value_299_t1499227_127"
         isinactive = false
         value = "Web Site Items (B2B / B2C)"
+        abbreviation = ""
       },
       {
         scriptid = "value_297_t1499227_127"
         isinactive = false
         value = "Web Site Tabs"
+        abbreviation = ""
       },
       {
         scriptid = "value_293_t1499227_127"
         isinactive = false
         value = "Websites"
+        abbreviation = ""
       },
       {
         scriptid = "value_134_t1499227_127"
@@ -1462,7 +1678,9 @@ netsuite.customlist customlist_nav_shortcut_alt_txt {
         scriptid = "value_222_t1499227_127"
         isinactive = false
         value = "Workflows"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

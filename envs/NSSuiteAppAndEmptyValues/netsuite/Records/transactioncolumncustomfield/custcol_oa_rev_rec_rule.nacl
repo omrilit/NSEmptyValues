@@ -41,4 +41,17 @@ netsuite.transactioncolumncustomfield custcol_oa_rev_rec_rule {
   selectrecordtype = netsuite.customrecordtype.instance.customrecord_oa_rev_rec_rules.scriptid
   showhierarchy = false
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

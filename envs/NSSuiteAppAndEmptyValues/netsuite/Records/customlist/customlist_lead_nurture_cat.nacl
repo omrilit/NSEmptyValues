@@ -20,4 +20,5 @@ netsuite.customlist customlist_lead_nurture_cat {
       },
     ]
   }
+  description = ""
 }

@@ -200,4 +200,5 @@ netsuite.customlist customlist_esc_industries {
       },
     ]
   }
+  description = ""
 }

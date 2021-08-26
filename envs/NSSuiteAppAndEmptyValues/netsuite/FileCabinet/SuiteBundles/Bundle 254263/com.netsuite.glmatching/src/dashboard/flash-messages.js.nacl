@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_254263_com_netsuite_glmatching_src_dashboard_f
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_254263_com_netsuite_glmatching_src_dashboard@dsdvvdd,
   ]
+  description = ""
 }

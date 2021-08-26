@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_suiteSolutionOASFAutomation_ns_js@dvv {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

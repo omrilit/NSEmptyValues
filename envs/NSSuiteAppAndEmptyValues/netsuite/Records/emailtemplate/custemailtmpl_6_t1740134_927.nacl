@@ -8,4 +8,7 @@ netsuite.emailtemplate custemailtmpl_6_t1740134_927 {
   subject = "Thank you for your Interest!"
   usesmedia = false
   content = file("netsuite/emailtemplate/custemailtmpl_6_t1740134_927.html")
+  description = ""
+  mediaitem = ""
+  
 }

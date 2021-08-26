@@ -56,6 +56,22 @@ netsuite.customrecordtype customrecord_oa_cost_center {
         selectrecordtype = "-112"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_oa_cost_center_credit"
@@ -78,6 +94,22 @@ netsuite.customrecordtype customrecord_oa_cost_center {
         selectrecordtype = "-112"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_oa_cost_center_subsidiary"
@@ -100,6 +132,22 @@ netsuite.customrecordtype customrecord_oa_cost_center {
         selectrecordtype = "-117"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_oa_cost_center_dept"
@@ -122,6 +170,22 @@ netsuite.customrecordtype customrecord_oa_cost_center {
         selectrecordtype = "-102"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_oa_cost_center_class"
@@ -144,6 +208,22 @@ netsuite.customrecordtype customrecord_oa_cost_center {
         selectrecordtype = "-101"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_oa_cost_center_location"
@@ -166,6 +246,22 @@ netsuite.customrecordtype customrecord_oa_cost_center {
         selectrecordtype = "-103"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_oa_export_err_msg"
@@ -188,6 +284,22 @@ netsuite.customrecordtype customrecord_oa_cost_center {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
     ]
   }
@@ -196,11 +308,21 @@ netsuite.customrecordtype customrecord_oa_cost_center {
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1120_2.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1015_2.scriptid
+        
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

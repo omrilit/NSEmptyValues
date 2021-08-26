@@ -42,4 +42,21 @@ netsuite.transactionbodycustomfield custbody_glm_reference {
   showinlist = true
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_glm_matching.scriptid
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  
+  fldsizelabel = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

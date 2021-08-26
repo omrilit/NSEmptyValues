@@ -24,12 +24,31 @@ netsuite.kpiscorecard kpiscorecard_7_t1740134_426 {
         comparewithprevious = false
         invertcomparison = false
         range = "THIS_MONTH"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "NEXT_MONTH"
+        comparevalueto = ""
+        
+        label = ""
       },
     ]
+  }
+  description = ""
+  custom = {
+    kpi1 = ""
+    kpi10 = ""
+    kpi2 = ""
+    kpi3 = ""
+    kpi4 = ""
+    kpi5 = ""
+    kpi6 = ""
+    kpi7 = ""
+    kpi8 = ""
+    kpi9 = ""
   }
 }

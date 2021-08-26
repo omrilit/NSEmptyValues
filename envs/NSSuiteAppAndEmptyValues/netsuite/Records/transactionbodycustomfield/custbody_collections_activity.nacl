@@ -42,4 +42,21 @@ netsuite.transactionbodycustomfield custbody_collections_activity {
   showinlist = false
   storevalue = true
   subtab = "TRANSACTIONMAIN"
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

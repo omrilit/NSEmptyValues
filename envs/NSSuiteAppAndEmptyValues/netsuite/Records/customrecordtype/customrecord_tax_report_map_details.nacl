@@ -54,6 +54,24 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_format"
@@ -74,6 +92,24 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_language"
@@ -94,6 +130,24 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_tax_report_template"
@@ -116,6 +170,22 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         selectrecordtype = netsuite.customrecordtype.instance.customrecord_tax_template.scriptid
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_tax_report_map"
@@ -138,6 +208,22 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         selectrecordtype = "[scriptid=customrecord_tax_report_map]"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_plugin"
@@ -158,6 +244,24 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_detail_internalid"
@@ -178,6 +282,24 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_detail_label"
@@ -198,6 +320,24 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_subtype"
@@ -218,6 +358,24 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_valid_until"
@@ -238,6 +396,24 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_effective_from"
@@ -258,6 +434,24 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_meta"
@@ -278,6 +472,24 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_schema"
@@ -300,7 +512,31 @@ netsuite.customrecordtype customrecord_tax_report_map_details {
         selectrecordtype = netsuite.customrecordtype.instance.customrecord_tax_form.scriptid
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

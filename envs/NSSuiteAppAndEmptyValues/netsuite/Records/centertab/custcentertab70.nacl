@@ -7,4 +7,5 @@ netsuite.centertab custcentertab70 {
   allvendors = false
   center = "SYSADMINCENTER"
   label = "Quick Start"
+  audslctrole = ""
 }

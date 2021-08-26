@@ -7,4 +7,5 @@ netsuite.centertab custcentertab59 {
   allvendors = false
   center = netsuite.center.instance.custcenter5.scriptid
   label = "Admin"
+  audslctrole = ""
 }

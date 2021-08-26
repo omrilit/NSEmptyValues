@@ -19,7 +19,12 @@ netsuite.suitelet customscript_oa_sso_help {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "OpenAir: Help module deployment"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

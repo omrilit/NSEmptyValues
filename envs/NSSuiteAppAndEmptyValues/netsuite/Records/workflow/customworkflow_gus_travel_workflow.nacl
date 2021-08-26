@@ -11,6 +11,7 @@ netsuite.workflow customworkflow_gus_travel_workflow {
   runasadmin = true
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowcustomfields = {
     workflowcustomfield = [
@@ -24,6 +25,13 @@ netsuite.workflow customworkflow_gus_travel_workflow {
         label = "Name of Controller"
         selectrecordtype = "-4"
         storevalue = true
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
       {
         scriptid = "custworkflow_gus_travel_sender"
@@ -34,6 +42,14 @@ netsuite.workflow customworkflow_gus_travel_workflow {
         label = "Email Sender"
         selectrecordtype = "-4"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
     ]
   }
@@ -69,6 +85,17 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
             ]
           },
@@ -93,6 +120,19 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                   formula = "{custrecord_gus_travel_employee.supervisor.id} is not null and {custrecord_gus_travel_employee.supervisor.email} is not null and INSTR({custrecord_gus_travel_employee.supervisor.email},'@netsuite.com',-1)>0"
                   type = "FORMULA"
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
           },
@@ -115,9 +155,18 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate8"
@@ -140,7 +189,18 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "FIELD"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valueformula = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
@@ -170,6 +230,9 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                     ]
                   }
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
               {
                 scriptid = "workflowaction5"
@@ -194,6 +257,9 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                     ]
                   }
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
             ]
           },
@@ -206,7 +272,16 @@ netsuite.workflow customworkflow_gus_travel_workflow {
               tostate = netsuite.workflow.instance.customworkflow_gus_travel_workflow.workflowstates.workflowstate.2.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition26"
@@ -214,10 +289,20 @@ netsuite.workflow customworkflow_gus_travel_workflow {
               tostate = netsuite.workflow.instance.customworkflow_gus_travel_workflow.workflowstates.workflowstate.3.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate6"
@@ -238,7 +323,20 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction21"
@@ -250,7 +348,19 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "DATE"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction20"
@@ -263,7 +373,18 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "FIELD"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valueformula = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
@@ -285,6 +406,15 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition18"
@@ -301,9 +431,19 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate5"
@@ -326,7 +466,18 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "FIELD"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valueformula = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction17"
@@ -338,7 +489,19 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "DATE"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
@@ -350,10 +513,21 @@ netsuite.workflow customworkflow_gus_travel_workflow {
               tostate = netsuite.workflow.instance.customworkflow_gus_travel_workflow.workflowstates.workflowstate.8.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate4"
@@ -382,6 +556,20 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                   formula = "{custworkflow_gus_travel_vp_name.email} is not null and INSTR({custworkflow_gus_travel_vp_name.email},'@netsuite.com',-1)>0"
                   type = "FORMULA"
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
             setfieldvalueaction = [
@@ -395,7 +583,19 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "FIELD"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
@@ -425,6 +625,9 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                     ]
                   }
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
               {
                 scriptid = "workflowaction18"
@@ -449,6 +652,9 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                     ]
                   }
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
             ]
           },
@@ -461,7 +667,16 @@ netsuite.workflow customworkflow_gus_travel_workflow {
               tostate = netsuite.workflow.instance.customworkflow_gus_travel_workflow.workflowstates.workflowstate.5.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition10"
@@ -469,10 +684,20 @@ netsuite.workflow customworkflow_gus_travel_workflow {
               tostate = netsuite.workflow.instance.customworkflow_gus_travel_workflow.workflowstates.workflowstate.6.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate3"
@@ -493,7 +718,20 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction10"
@@ -505,7 +743,19 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "DATE"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction8"
@@ -517,7 +767,19 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "FIELD"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
@@ -529,10 +791,21 @@ netsuite.workflow customworkflow_gus_travel_workflow {
               tostate = netsuite.workflow.instance.customworkflow_gus_travel_workflow.workflowstates.workflowstate.7.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate2"
@@ -555,7 +828,18 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction6"
@@ -567,7 +851,19 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "DATE"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
@@ -579,10 +875,21 @@ netsuite.workflow customworkflow_gus_travel_workflow {
               tostate = netsuite.workflow.instance.customworkflow_gus_travel_workflow.workflowstates.workflowstate.8.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate1"
@@ -611,6 +918,20 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                   formula = "{custrecord_gus_travel_employee.email} is not null and INSTR({custrecord_gus_travel_employee.email},'@netsuite.com',-1)>0"
                   type = "FORMULA"
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
               {
                 scriptid = "workflowaction1"
@@ -629,6 +950,20 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                   formula = "{custrecord_gus_travel_agency.id} is not null and {custrecord_gus_travel_agency.email} is not null and INSTR({custrecord_gus_travel_agency.email},-1)>0"
                   type = "FORMULA"
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
             setfieldvalueaction = [
@@ -642,11 +977,24 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
             ]
           },
         ]
+        description = ""
       },
       {
         scriptid = "workflowstate9"
@@ -668,7 +1016,19 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
             ]
             sendemailaction = [
@@ -689,11 +1049,32 @@ netsuite.workflow customworkflow_gus_travel_workflow {
                   formula = "{custrecord_gus_travel_employee.email} is not null and INSTR({custrecord_gus_travel_employee.email},'@netsuite.com',-1)>0"
                   type = "FORMULA"
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
           },
         ]
+        description = ""
       },
     ]
   }
+  description = ""
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
+  
 }

@@ -26,4 +26,5 @@ netsuite.customlist customlist_nsts_ci_date_opts {
       },
     ]
   }
+  description = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_74218_ns_check_png@dsduv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_74218@ds,
   ]
+  description = ""
 }

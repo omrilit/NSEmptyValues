@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_lib_Font_texgyreadventor_bolditalic_otf@
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_lib_Font@dsdd,
   ]
+  description = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_169224_src_resource_FAM_RegisterReport_Templat
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_169224_src_resource@dsdd,
   ]
+  description = ""
 }

@@ -10,72 +10,87 @@ netsuite.customlist customlist19_2 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Cold Call"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Direct Mail"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Email"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Friend/Associate/Accountant"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "Incoming Call"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "Keyword"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "Online Ad"
+        abbreviation = ""
       },
       {
         scriptid = "value_8_t1499227_127"
         isinactive = false
         value = "Partner"
+        abbreviation = ""
       },
       {
         scriptid = "value_9_t1499227_127"
         isinactive = false
         value = "Portal"
+        abbreviation = ""
       },
       {
         scriptid = "value_10_t1499227_127"
         isinactive = false
         value = "PR"
+        abbreviation = ""
       },
       {
         scriptid = "value_11_t1499227_127"
         isinactive = false
         value = "Print"
+        abbreviation = ""
       },
       {
         scriptid = "value_12_t1499227_127"
         isinactive = false
         value = "Radio"
+        abbreviation = ""
       },
       {
         scriptid = "value_13_t1499227_127"
         isinactive = false
         value = "Seminar"
+        abbreviation = ""
       },
       {
         scriptid = "value_14_t1499227_127"
         isinactive = false
         value = "Trade Show"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

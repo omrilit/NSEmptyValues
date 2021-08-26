@@ -19,7 +19,21 @@ netsuite.clientscript customscript_resourcefinder_event {
         isdeployed = true
         recordtype = "CALENDAREVENT"
         status = "RELEASED"
+        audslctrole = ""
+        
+        
       },
     ]
   }
+  description = ""
+  fieldchangedfunction = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

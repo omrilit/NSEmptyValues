@@ -8,74 +8,92 @@ netsuite.centercategory custcentercategory47 {
       {
         linkid = "LIST_CUSTLIST"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTENTITYFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTCOLUMNFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTEVENTFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTENTRYFORM"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "EDIT_CUSTADDRESSFORM"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTOMSUBLIST"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTFIELDTAB"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTBODYFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTFORM"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_ITEMOPTION"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTOTHERFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTLAYOUT"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTEMAILLAYOUT"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTCENTER"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTSECTION"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTCATEGORY"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "EDIT_CUSTTASKS"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

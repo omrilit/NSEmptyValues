@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_dunning_app_app_dunning_procedure_va
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_dunning_app@dsddd,
   ]
+  description = ""
 }

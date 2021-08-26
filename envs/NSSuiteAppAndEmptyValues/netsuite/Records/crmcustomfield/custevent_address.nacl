@@ -32,4 +32,20 @@ netsuite.crmcustomfield custevent_address {
   showissuechanges = true
   storevalue = true
   subtab = "CRMMAIN"
+  defaultselection = ""
+  defaultvalue = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

@@ -8,10 +8,12 @@ netsuite.centercategory custcentercategory141 {
       {
         linkid = "LIST_TRAN_EXPREPT"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_APPROVAL_EXPREPT"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

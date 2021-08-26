@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_src_reports_fr_adapter_FR_SAFT_AccountBa
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_src_reports_fr_adapter@dsdddd,
   ]
+  description = ""
 }

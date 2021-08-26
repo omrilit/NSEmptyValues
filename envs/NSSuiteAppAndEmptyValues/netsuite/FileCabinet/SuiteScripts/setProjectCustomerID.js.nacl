@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_setProjectCustomerID_js@dv {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

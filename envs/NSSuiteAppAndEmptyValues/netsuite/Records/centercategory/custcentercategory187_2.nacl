@@ -8,6 +8,7 @@ netsuite.centercategory custcentercategory187_2 {
       {
         linkid = "LIST_CUSTJOB"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_JOB"

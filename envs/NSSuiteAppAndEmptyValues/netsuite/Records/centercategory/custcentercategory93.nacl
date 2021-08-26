@@ -8,10 +8,12 @@ netsuite.centercategory custcentercategory93 {
       {
         linkid = "LIST_LEAD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_PROSPECT"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_IMPORTCSV"
@@ -27,10 +29,12 @@ netsuite.centercategory custcentercategory93 {
         linkobject = netsuite.centerlink.instance.custlink_12_t1740134_752.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_SALESCAMPAIGN"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

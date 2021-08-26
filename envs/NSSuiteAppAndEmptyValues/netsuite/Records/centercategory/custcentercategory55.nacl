@@ -8,55 +8,68 @@ netsuite.centercategory custcentercategory55 {
       {
         linkid = "REPO_39"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_53"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_NEG153"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_57"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_74"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_98"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_49"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_NEG151"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_147"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_NEG150"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_NEG155"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_NEG156"
         shortlist = false
+        linklabel = ""
       },
       {
         linkobject = netsuite.centerlink.instance.custlink_9_t1740134_626.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "View All Reports"

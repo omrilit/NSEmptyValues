@@ -33,4 +33,20 @@ netsuite.entitycustomfield custentity_internal_proj {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_1_t1499227_705.scriptid
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

@@ -40,4 +40,23 @@ netsuite.transactionbodycustomfield custbody_oa_pst_override {
   showinlist = false
   storevalue = true
   subtab = "TRANSACTIONMAIN"
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_164289_helpcenter_nl_topic_DOC_ProjectResource
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_164289@ds,
   ]
+  description = ""
 }

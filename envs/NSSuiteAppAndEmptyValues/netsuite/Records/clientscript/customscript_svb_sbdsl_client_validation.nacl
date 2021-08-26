@@ -32,6 +32,16 @@ subsidiary,department,class,location
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_svb_notintco_mandatory_flds"
@@ -53,6 +63,16 @@ department,class,location
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -69,6 +89,8 @@ department,class,location
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_svb_line_is_source_sub.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -79,4 +101,12 @@ department,class,location
       },
     ]
   }
+  description = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

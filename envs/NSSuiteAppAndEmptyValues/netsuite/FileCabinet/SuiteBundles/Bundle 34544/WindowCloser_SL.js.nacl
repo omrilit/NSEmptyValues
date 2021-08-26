@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_34544_WindowCloser_SL_js@dsduv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_34544@ds,
   ]
+  description = ""
 }

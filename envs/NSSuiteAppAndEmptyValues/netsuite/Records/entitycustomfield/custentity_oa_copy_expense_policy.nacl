@@ -32,4 +32,21 @@ netsuite.entitycustomfield custentity_oa_copy_expense_policy {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_5807_662377_921.scriptid
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

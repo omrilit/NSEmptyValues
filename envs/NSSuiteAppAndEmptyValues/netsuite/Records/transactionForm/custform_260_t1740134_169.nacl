@@ -3630,4 +3630,6 @@ netsuite.transactionForm custform_260_t1740134_169 {
       },
     ]
   }
+  disclaimer = ""
+  address = ""
 }

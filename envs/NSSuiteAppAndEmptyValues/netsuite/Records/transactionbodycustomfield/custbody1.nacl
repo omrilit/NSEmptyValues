@@ -42,4 +42,21 @@ netsuite.transactionbodycustomfield custbody1 {
   sourcelist = "STDBODYENTITY"
   storevalue = true
   subtab = "TRANSACTIONMAIN"
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
 }

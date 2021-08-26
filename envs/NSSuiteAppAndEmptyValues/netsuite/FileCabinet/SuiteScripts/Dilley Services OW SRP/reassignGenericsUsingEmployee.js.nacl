@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_Dilley_Services_OW_SRP_reassignGenericsUsingEmployee_
   _parent = [
     netsuite.folder.instance.SuiteScripts_Dilley_Services_OW_SRP@dsss,
   ]
+  description = ""
 }

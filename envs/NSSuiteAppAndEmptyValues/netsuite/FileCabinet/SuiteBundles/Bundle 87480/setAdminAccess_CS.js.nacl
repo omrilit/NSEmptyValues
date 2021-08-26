@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_87480_setAdminAccess_CS_js@dsduv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_87480@ds,
   ]
+  description = ""
 }

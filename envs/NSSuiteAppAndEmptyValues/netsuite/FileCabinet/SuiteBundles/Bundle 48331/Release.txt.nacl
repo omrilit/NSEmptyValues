@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_48331_Release_txt@dsdv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_48331@ds,
   ]
+  description = ""
 }

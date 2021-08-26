@@ -3472,6 +3472,7 @@ netsuite.transactionForm custform_257_t1612233_583 {
         {
           id = "ITEM_ADDPROJECTITEMS"
           visible = true
+          label = ""
         },
         {
           id = "REJECT"
@@ -4066,4 +4067,6 @@ netsuite.transactionForm custform_257_t1612233_583 {
       },
     ]
   }
+  disclaimer = ""
+  address = ""
 }

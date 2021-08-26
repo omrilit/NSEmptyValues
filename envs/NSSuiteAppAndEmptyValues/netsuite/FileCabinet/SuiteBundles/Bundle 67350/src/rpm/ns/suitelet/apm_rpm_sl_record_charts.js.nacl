@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_67350_src_rpm_ns_suitelet_apm_rpm_sl_record_ch
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src_rpm_ns_suitelet@dsdddd,
   ]
+  description = ""
 }

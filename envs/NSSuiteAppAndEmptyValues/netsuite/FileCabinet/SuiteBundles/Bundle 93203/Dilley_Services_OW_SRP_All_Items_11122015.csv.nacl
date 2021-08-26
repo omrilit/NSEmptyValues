@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_93203_Dilley_Services_OW_SRP_All_Items_1112201
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_93203@ds,
   ]
+  description = ""
 }

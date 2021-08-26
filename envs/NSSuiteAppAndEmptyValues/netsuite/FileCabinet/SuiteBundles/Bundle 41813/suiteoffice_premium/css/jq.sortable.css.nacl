@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41813_suiteoffice_premium_css_jq_sortable_css@
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41813_suiteoffice_premium_css@dsdud,
   ]
+  description = ""
 }

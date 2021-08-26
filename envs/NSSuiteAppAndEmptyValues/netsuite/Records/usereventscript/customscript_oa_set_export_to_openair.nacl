@@ -25,6 +25,16 @@ netsuite.usereventscript customscript_oa_set_export_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_export_job"
@@ -42,6 +52,16 @@ netsuite.usereventscript customscript_oa_set_export_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_export_employee"
@@ -59,6 +79,16 @@ netsuite.usereventscript customscript_oa_set_export_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_export_vendor"
@@ -76,6 +106,16 @@ netsuite.usereventscript customscript_oa_set_export_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_export_serviceitem"
@@ -92,6 +132,16 @@ netsuite.usereventscript customscript_oa_set_export_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -109,6 +159,8 @@ netsuite.usereventscript customscript_oa_set_export_to_openair {
         loglevel = "ERROR"
         recordtype = "CUSTOMER"
         status = "RELEASED"
+        audslctrole = ""
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_employee"
@@ -122,6 +174,8 @@ netsuite.usereventscript customscript_oa_set_export_to_openair {
         loglevel = "ERROR"
         recordtype = "EMPLOYEE"
         status = "RELEASED"
+        audslctrole = ""
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_project"
@@ -135,6 +189,8 @@ netsuite.usereventscript customscript_oa_set_export_to_openair {
         loglevel = "ERROR"
         recordtype = "JOB"
         status = "RELEASED"
+        audslctrole = ""
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_serviceitem"
@@ -148,6 +204,8 @@ netsuite.usereventscript customscript_oa_set_export_to_openair {
         loglevel = "ERROR"
         recordtype = "SERVICEITEM"
         status = "RELEASED"
+        audslctrole = ""
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_vendor"
@@ -161,7 +219,13 @@ netsuite.usereventscript customscript_oa_set_export_to_openair {
         loglevel = "ERROR"
         recordtype = "VENDOR"
         status = "RELEASED"
+        audslctrole = ""
+        runasrole = ""
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

@@ -20,7 +20,11 @@ netsuite.suitelet customscript_item_mass_field_selector {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "**Item Mass Field Selector"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_infrastructure_model_dao_task_list_j
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_infrastructure_model@dsddd,
   ]
+  description = ""
 }

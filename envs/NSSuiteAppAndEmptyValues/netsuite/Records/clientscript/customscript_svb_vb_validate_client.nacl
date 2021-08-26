@@ -24,6 +24,8 @@ netsuite.clientscript customscript_svb_vb_validate_client {
         loglevel = "DEBUG"
         recordtype = "VENDORBILL"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -34,4 +36,11 @@ netsuite.clientscript customscript_svb_vb_validate_client {
       },
     ]
   }
+  description = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validateinsertfunction = ""
 }

@@ -8,6 +8,7 @@ netsuite.centercategory custcentercategory137 {
       {
         linkid = "TRAN_BUDGET"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_TRAN_JOURNAL"
@@ -22,6 +23,7 @@ netsuite.centercategory custcentercategory137 {
       {
         linkid = "EDIT_MEMDOC"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

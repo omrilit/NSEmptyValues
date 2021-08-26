@@ -6,4 +6,5 @@ netsuite.advancedpdftemplate custtmpl_109_t1740134_175 {
   preferred = false
   title = "Invoice"
   content = file("netsuite/advancedpdftemplate/custtmpl_109_t1740134_175.xml")
+  description = ""
 }

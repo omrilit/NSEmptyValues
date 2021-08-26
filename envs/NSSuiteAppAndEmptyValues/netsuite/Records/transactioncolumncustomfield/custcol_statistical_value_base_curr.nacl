@@ -40,4 +40,18 @@ netsuite.transactioncolumncustomfield custcol_statistical_value_base_curr {
   searchlevel = "2"
   showhierarchy = false
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

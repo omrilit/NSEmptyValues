@@ -27,6 +27,15 @@ netsuite.portlet customscript_navigation_portlet_3_pt {
         selectrecordtype = netsuite.customlist.instance.customlist_nav_portlet_list.scriptid
         setting = "PORTLET"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
       },
       {
         scriptid = "custscript_nav_default_count"
@@ -47,6 +56,12 @@ netsuite.portlet customscript_navigation_portlet_3_pt {
         selectrecordtype = netsuite.customlist.instance.customlist_nav_portlet_column.scriptid
         setting = "PORTLET"
         storevalue = true
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
       },
     ]
   }
@@ -62,7 +77,9 @@ netsuite.portlet customscript_navigation_portlet_3_pt {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "-Navigation Portlet"
+        audslctrole = ""
       },
     ]
   }
+  description = ""
 }

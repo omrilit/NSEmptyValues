@@ -10,17 +10,21 @@ netsuite.customlist customlist_nsts_tex_return_type {
         scriptid = "value_1_t1221897_146"
         isinactive = false
         value = "Inline"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1221897_146"
         isinactive = false
         value = "Attachment (Download)"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1221897_146"
         isinactive = false
         value = "File Id"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

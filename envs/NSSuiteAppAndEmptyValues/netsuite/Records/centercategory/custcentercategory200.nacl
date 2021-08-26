@@ -8,22 +8,27 @@ netsuite.centercategory custcentercategory200 {
       {
         linkid = "LIST_MEDIAITEMFOLDER"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_IMAGE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTOMCODEFILES"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_RECVDFILES"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_SENTFILES"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Workspaces module"

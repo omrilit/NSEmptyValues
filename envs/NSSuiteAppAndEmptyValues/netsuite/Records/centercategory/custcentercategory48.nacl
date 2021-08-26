@@ -8,30 +8,37 @@ netsuite.centercategory custcentercategory48 {
       {
         linkid = "LIST_EMPLOYEE_RECORD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_DEPARTMENT"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CLASS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_USER"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_ROLE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_DIFFROLE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_LOGINAUDIT"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

@@ -11,6 +11,7 @@ netsuite.workflow customworkflow18 {
   runasadmin = false
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowstates = {
     workflowstate = [
@@ -35,12 +36,30 @@ netsuite.workflow customworkflow18 {
                 valuetype = "FIELD"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
         ]
+        description = ""
       },
     ]
   }
+  description = ""
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
+  
 }

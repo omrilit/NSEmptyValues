@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_38321_src_ui_css_images_racg_icon_delete_png@d
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_38321_src_ui_css_images_racg@dsddddd,
   ]
+  description = ""
 }

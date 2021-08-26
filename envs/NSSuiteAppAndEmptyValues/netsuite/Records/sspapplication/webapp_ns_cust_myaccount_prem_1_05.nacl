@@ -7,4 +7,5 @@ netsuite.sspapplication webapp_ns_cust_myaccount_prem_1_05 {
   rootpath = "/myaccountpremium-1-05-0"
   runtimeversion = "1"
   status = "RELEASED"
+  description = ""
 }

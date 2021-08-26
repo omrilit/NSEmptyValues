@@ -29,4 +29,21 @@ netsuite.crmcustomfield custevent_oa_project_task_name {
   showinlist = false
   showissuechanges = false
   storevalue = true
+  defaultselection = ""
+  defaultvalue = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
+  subtab = ""
 }

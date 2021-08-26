@@ -207,6 +207,23 @@ netsuite.publisheddashboard custpubdashboard_8_t1740134_860 {
               charttype = "AREA"
               hierarchylevel = "3"
               isminimized = false
+              color = ""
+              
+              
+              comparedranges = ""
+              
+              custom = ""
+              customsnapshot = ""
+              
+              
+              isgraph = ""
+              
+              
+              orderby = ""
+              orderdesc = ""
+              
+              
+              
             },
           ]
           list = [
@@ -236,6 +253,23 @@ netsuite.publisheddashboard custpubdashboard_8_t1740134_860 {
               charttype = "AREA"
               hierarchylevel = "3"
               isminimized = false
+              color = ""
+              
+              
+              comparedranges = ""
+              
+              custom = ""
+              customsnapshot = ""
+              
+              
+              isgraph = ""
+              
+              
+              orderby = ""
+              orderdesc = ""
+              
+              
+              
             },
           ]
           keyperformanceindicators = [

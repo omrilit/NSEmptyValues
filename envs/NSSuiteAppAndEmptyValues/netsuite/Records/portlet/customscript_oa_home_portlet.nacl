@@ -19,7 +19,11 @@ netsuite.portlet customscript_oa_home_portlet {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "OpenAir: Home module"
+        audslctrole = ""
+        runasrole = ""
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

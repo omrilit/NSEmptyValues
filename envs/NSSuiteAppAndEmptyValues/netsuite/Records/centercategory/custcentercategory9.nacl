@@ -8,10 +8,12 @@ netsuite.centercategory custcentercategory9 {
       {
         linkid = "LIST_MEDIAITEMFOLDER"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_EMAILTEMPLATE"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

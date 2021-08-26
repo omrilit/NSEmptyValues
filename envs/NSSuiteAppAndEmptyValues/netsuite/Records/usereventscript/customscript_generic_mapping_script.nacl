@@ -24,6 +24,18 @@ netsuite.usereventscript customscript_generic_mapping_script {
         label = "Custrecord Type"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
       {
         scriptid = "custscript_tran_rec_type"
@@ -39,6 +51,18 @@ netsuite.usereventscript customscript_generic_mapping_script {
         label = "Tranrecord Type"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
     ]
   }
@@ -55,6 +79,9 @@ netsuite.usereventscript customscript_generic_mapping_script {
         loglevel = "ERROR"
         recordtype = netsuite.customrecordtype.instance.customrecord_collection_notes.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_note"
@@ -67,6 +94,9 @@ netsuite.usereventscript customscript_generic_mapping_script {
         loglevel = "DEBUG"
         recordtype = "NOTE"
         status = "TESTING"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_test_so_update_table"
@@ -79,7 +109,13 @@ netsuite.usereventscript customscript_generic_mapping_script {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_test_so_update_table.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  notifyemails = ""
 }

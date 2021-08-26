@@ -20,7 +20,14 @@ netsuite.usereventscript customscript_resourcefinder_btn {
         loglevel = "DEBUG"
         recordtype = "SUPPORTCASE"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

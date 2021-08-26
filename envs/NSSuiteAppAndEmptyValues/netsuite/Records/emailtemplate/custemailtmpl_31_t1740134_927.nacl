@@ -8,4 +8,7 @@ netsuite.emailtemplate custemailtmpl_31_t1740134_927 {
   subject = "Collections Notice - 1st Past Due!"
   usesmedia = false
   content = file("netsuite/emailtemplate/custemailtmpl_31_t1740134_927.html")
+  description = ""
+  mediaitem = ""
+  
 }

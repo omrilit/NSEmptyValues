@@ -8,15 +8,18 @@ netsuite.centercategory custcentercategory58 {
       {
         linkid = "LIST_CUSTJOB"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_PARTNER"
         shortlist = false
+        linklabel = ""
       },
       {
         linkobject = netsuite.centerlink.instance.custlink_7_t1740134_498.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "View Customer Groups"
@@ -38,10 +41,12 @@ netsuite.centercategory custcentercategory58 {
         linkobject = netsuite.centerlink.instance.custlink_6_t1740134_125.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_PRINT"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

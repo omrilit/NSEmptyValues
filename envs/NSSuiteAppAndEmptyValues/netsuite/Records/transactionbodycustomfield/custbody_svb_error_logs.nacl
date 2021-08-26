@@ -40,4 +40,23 @@ netsuite.transactionbodycustomfield custbody_svb_error_logs {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_213_t1499227_705.scriptid
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

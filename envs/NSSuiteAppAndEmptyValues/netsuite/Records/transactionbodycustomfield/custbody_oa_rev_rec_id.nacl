@@ -42,4 +42,21 @@ netsuite.transactionbodycustomfield custbody_oa_rev_rec_id {
   showinlist = false
   storevalue = true
   subtab = "TRANSACTIONMAIN"
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  
+  fldsizelabel = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

@@ -8,70 +8,87 @@ netsuite.centercategory custcentercategory72 {
       {
         linkid = "REPO_197"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_196"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_191"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_44"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_43"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_194"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_193"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_188"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_185"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_184"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_183"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_91"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_90"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_85"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_55"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_54"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_NEG114"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

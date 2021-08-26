@@ -19,6 +19,9 @@ netsuite.suitelet customscript_svb_adj_distr_suitelet {
         loglevel = "DEBUG"
         status = "RELEASED"
         title = "NSTS - SVB Adjust Distribution -Suitelet"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
@@ -29,4 +32,6 @@ netsuite.suitelet customscript_svb_adj_distr_suitelet {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

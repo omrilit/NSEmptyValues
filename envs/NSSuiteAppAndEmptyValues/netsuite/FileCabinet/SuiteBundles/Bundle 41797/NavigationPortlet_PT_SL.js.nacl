@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41797_NavigationPortlet_PT_SL_js@dsduuv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41797@ds,
   ]
+  description = ""
 }

@@ -20,7 +20,11 @@ netsuite.suitelet customscript_item_mass_csv_generator {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "**Item Mass CSV Generator"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

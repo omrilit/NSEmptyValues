@@ -33,4 +33,20 @@ netsuite.entitycustomfield custentity_oa_pco_date {
   showinlist = false
   storevalue = true
   subtab = "ENTITYFINANCIAL"
+  defaultselection = ""
+  defaultvalue = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

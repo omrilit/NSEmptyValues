@@ -10,37 +10,45 @@ netsuite.customlist customlist_collection_notes_activities {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "1. Call"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "2. Call Received"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "3. Left Message"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "4. Email Sent"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "5. Email Received"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "6. Physical Letter"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "7. Delivered"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

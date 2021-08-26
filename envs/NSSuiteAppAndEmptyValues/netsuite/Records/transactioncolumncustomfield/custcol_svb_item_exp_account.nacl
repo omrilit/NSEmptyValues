@@ -43,4 +43,15 @@ netsuite.transactioncolumncustomfield custcol_svb_item_exp_account {
   sourcefrom = "STDITEMEXPENSEACCOUNT"
   sourcelist = "STDCOLITEM"
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  sourcefilterby = ""
 }

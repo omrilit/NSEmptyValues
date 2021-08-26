@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_amd_lib_dao_TaxCacheDetailDAO_js@dsd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_amd_lib_dao@dsdddd,
   ]
+  description = ""
 }

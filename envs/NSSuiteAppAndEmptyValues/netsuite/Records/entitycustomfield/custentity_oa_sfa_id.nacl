@@ -34,4 +34,19 @@ netsuite.entitycustomfield custentity_oa_sfa_id {
   showinlist = false
   storevalue = true
   subtab = "ENTITYMAIN"
+  defaultselection = ""
+  defaultvalue = ""
+  
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

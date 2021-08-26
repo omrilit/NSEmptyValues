@@ -41,4 +41,22 @@ netsuite.transactionbodycustomfield custbody_sale_billexpdetail {
   showinlist = false
   storevalue = false
   subtab = "TRANSACTIONBILLING"
+  bodycustomtransactions = ""
+  defaultselection = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

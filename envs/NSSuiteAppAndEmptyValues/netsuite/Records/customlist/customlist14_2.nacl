@@ -56,4 +56,5 @@ netsuite.customlist customlist14_2 {
       },
     ]
   }
+  description = ""
 }

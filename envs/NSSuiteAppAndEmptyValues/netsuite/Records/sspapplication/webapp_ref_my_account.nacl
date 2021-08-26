@@ -37,7 +37,9 @@ netsuite.sspapplication webapp_ref_my_account {
       {
         entryitem = "[/Web Site Hosting Files/Dilley Hosting Files/SSP Applications/Dilley Reference My Account/Reference My Account/index.ssp]"
         entrytype = "CUSTCENTER"
+        entryparameter = ""
       },
     ]
   }
+  description = ""
 }

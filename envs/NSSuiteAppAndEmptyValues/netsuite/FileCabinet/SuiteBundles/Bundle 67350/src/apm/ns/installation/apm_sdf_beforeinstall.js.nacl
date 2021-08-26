@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_67350_src_apm_ns_installation_apm_sdf_beforein
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src_apm_ns_installation@dsdddd,
   ]
+  description = ""
 }

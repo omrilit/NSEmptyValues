@@ -8,18 +8,22 @@ netsuite.centercategory custcentercategory201 {
       {
         linkid = "LIST_EMAILTEMPLATE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_PDFTEMPLATE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CRMTEMPLATE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_TEMPLATEFILES"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

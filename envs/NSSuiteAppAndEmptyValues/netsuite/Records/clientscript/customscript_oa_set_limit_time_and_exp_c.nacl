@@ -20,7 +20,20 @@ netsuite.clientscript customscript_oa_set_limit_time_and_exp_c {
         isdeployed = true
         recordtype = "JOB"
         status = "RELEASED"
+        audslctrole = ""
+        
+        
       },
     ]
   }
+  description = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

@@ -8,18 +8,22 @@ netsuite.centercategory custcentercategory139 {
       {
         linkid = "ADMI_IMPORTCSV"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_IMPORTCSV_LOG"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_SAVEDIMPORTS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_CSVIMPORTPREF"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

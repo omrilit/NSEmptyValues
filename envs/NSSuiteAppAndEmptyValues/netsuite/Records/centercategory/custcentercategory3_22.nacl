@@ -45,6 +45,7 @@ netsuite.centercategory custcentercategory3_22 {
         linkobject = "[scriptid=customscript_3805_dunning_queue]"
         linktasktype = "LIST"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Dunning Configurations"

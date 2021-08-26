@@ -9,18 +9,22 @@ netsuite.centercategory custcentercategory145 {
         linkobject = netsuite.centerlink.instance.custlink_16_t1740134_436.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_EMPLOYEE_RECORD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_VENDOR"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_GENERICRESOURCE"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Project Resource Management"

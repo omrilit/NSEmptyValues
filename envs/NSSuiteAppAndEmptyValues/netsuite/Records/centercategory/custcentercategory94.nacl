@@ -8,11 +8,13 @@ netsuite.centercategory custcentercategory94 {
       {
         linkid = "LIST_TRAN_ESTIMATE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkobject = netsuite.centerlink.instance.custlink_8_t1740134_548.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

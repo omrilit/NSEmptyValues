@@ -10,17 +10,21 @@ netsuite.customlist customlist38 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "1 - Not at All Likely"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "2 - Slightly Likely"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "3 - Very Likely"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

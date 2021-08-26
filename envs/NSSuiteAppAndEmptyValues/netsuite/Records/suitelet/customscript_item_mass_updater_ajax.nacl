@@ -20,7 +20,11 @@ netsuite.suitelet customscript_item_mass_updater_ajax {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "**Item Mass Updater AJAX"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

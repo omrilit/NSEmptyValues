@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_67350_src_apm_ns_lib_apm_abstraction_ss2_js@ds
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src_apm_ns_lib@dsdddd,
   ]
+  description = ""
 }

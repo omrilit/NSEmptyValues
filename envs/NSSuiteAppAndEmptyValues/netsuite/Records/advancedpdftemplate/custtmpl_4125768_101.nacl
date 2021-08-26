@@ -6,4 +6,5 @@ netsuite.advancedpdftemplate custtmpl_4125768_101 {
   preferred = false
   title = "NSTS | CI Statement Template"
   content = file("netsuite/advancedpdftemplate/custtmpl_4125768_101.xml")
+  description = ""
 }

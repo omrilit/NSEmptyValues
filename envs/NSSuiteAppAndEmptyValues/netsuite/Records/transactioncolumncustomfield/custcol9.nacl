@@ -41,4 +41,17 @@ netsuite.transactioncolumncustomfield custcol9 {
   sourcefrom = "STDITEMDISPLAYNAME"
   sourcelist = "STDCOLITEM"
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  selectrecordtype = ""
+  sourcefilterby = ""
 }

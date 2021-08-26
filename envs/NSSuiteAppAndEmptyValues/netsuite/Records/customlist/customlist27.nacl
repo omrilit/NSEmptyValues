@@ -10,17 +10,21 @@ netsuite.customlist customlist27 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Committed"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Rejected"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Tentative"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

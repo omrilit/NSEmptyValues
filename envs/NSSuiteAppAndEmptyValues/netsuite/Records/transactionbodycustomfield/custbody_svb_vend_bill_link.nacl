@@ -50,7 +50,26 @@ netsuite.transactionbodycustomfield custbody_svb_vend_bill_link {
         fldfilternotnull = false
         fldfilternull = false
         fldfiltersel = "VENDORBILL"
+        fldcomparefield = ""
+        fldfilterval = ""
       },
     ]
   }
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

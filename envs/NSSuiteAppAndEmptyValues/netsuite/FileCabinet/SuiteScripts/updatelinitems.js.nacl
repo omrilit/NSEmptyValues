@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_updatelinitems_js@dv {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

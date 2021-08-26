@@ -38,4 +38,5 @@ netsuite.customlist customlist_nsts_ci_task_status {
       },
     ]
   }
+  description = ""
 }

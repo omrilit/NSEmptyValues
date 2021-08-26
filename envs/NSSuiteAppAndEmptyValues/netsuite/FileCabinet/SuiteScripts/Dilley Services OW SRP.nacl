@@ -6,4 +6,5 @@ netsuite.folder SuiteScripts_Dilley_Services_OW_SRP@dsss {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_Templates_PDF_Templates_header_dunninghe
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_Templates_PDF_Templates_header@dsddsd,
   ]
+  description = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_lib_3127_cultureInfo_js@dsddvv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_lib@dsd,
   ]
+  description = ""
 }

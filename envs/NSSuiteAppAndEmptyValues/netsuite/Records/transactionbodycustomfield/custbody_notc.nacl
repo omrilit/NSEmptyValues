@@ -46,4 +46,17 @@ netsuite.transactionbodycustomfield custbody_notc {
   sourcelist = "[scriptid=custbody_nexus_notc]"
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_16_3776644_208.scriptid
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  
+  fldsizelabel = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
 }

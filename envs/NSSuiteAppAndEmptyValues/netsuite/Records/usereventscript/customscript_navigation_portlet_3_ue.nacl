@@ -16,4 +16,9 @@ netsuite.usereventscript customscript_navigation_portlet_3_ue {
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

@@ -8,6 +8,7 @@ netsuite.centercategory custcentercategory50 {
       {
         linkid = "ADMI_WEBSERVICEPREFS"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

@@ -10,22 +10,27 @@ netsuite.customlist customlist18 {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Other"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Redhat Linux"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Sun Solaris"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Windows 2003 Server"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

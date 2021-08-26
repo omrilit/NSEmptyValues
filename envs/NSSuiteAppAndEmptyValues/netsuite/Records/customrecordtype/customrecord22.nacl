@@ -55,6 +55,23 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord17"
@@ -76,6 +93,23 @@ netsuite.customrecordtype customrecord22 {
         showinlist = true
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord18"
@@ -99,6 +133,21 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord19"
@@ -122,6 +171,21 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord20"
@@ -145,6 +209,21 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord21"
@@ -168,6 +247,21 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord22"
@@ -191,6 +285,21 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord23"
@@ -214,6 +323,21 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord24"
@@ -235,6 +359,23 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord25"
@@ -256,6 +397,23 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord26"
@@ -277,6 +435,23 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord27"
@@ -298,6 +473,23 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord28"
@@ -319,6 +511,23 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord29"
@@ -340,6 +549,23 @@ netsuite.customrecordtype customrecord22 {
         showinlist = true
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord30"
@@ -361,6 +587,23 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord31"
@@ -382,6 +625,23 @@ netsuite.customrecordtype customrecord22 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord22.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
     ]
   }
@@ -390,6 +650,7 @@ netsuite.customrecordtype customrecord22 {
       {
         linkcategory = "BASICLISTSCUSTOM"
         linktasktype = "LIST"
+        linklabel = ""
       },
     ]
   }
@@ -398,23 +659,36 @@ netsuite.customrecordtype customrecord22 {
       {
         scriptid = "tab_15_t1499227_470"
         tabtitle = "Main"
+        tabparent = ""
       },
       {
         scriptid = "tab_16_t1499227_470"
         tabtitle = "Financial"
+        tabparent = ""
       },
       {
         scriptid = "tab_17_t1499227_470"
         tabtitle = "Timeline"
+        tabparent = ""
       },
       {
         scriptid = "tab_18_t1499227_470"
         tabtitle = "Features"
+        tabparent = ""
       },
       {
         scriptid = "tab_19_t1499227_470"
         tabtitle = "Issues"
+        tabparent = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

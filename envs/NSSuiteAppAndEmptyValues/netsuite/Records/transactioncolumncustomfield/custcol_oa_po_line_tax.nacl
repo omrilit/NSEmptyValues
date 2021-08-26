@@ -39,4 +39,19 @@ netsuite.transactioncolumncustomfield custcol_oa_po_line_tax {
   searchlevel = "2"
   showhierarchy = false
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

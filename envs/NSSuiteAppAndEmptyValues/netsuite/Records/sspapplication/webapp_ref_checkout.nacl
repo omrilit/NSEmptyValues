@@ -37,19 +37,24 @@ netsuite.sspapplication webapp_ref_checkout {
       {
         entryitem = "[/Web Site Hosting Files/Dilley Hosting Files/SSP Applications/Dilley Reference Checkout/Reference Checkout/index.ssp]"
         entrytype = "LOGIN"
+        entryparameter = ""
       },
       {
         entryitem = "[/Web Site Hosting Files/Dilley Hosting Files/SSP Applications/Dilley Reference Checkout/Reference Checkout/index.ssp]"
         entrytype = "REGISTER"
+        entryparameter = ""
       },
       {
         entryitem = "[/Web Site Hosting Files/Dilley Hosting Files/SSP Applications/Dilley Reference Checkout/Reference Checkout/index.ssp]"
         entrytype = "CHECKOUT"
+        entryparameter = ""
       },
       {
         entryitem = "[/Web Site Hosting Files/Dilley Hosting Files/SSP Applications/Dilley Reference Checkout/Reference Checkout/cart.ssp]"
         entrytype = "CART"
+        entryparameter = ""
       },
     ]
   }
+  description = ""
 }

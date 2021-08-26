@@ -9,6 +9,7 @@ netsuite.centercategory custcentercategory_tax_audit_files {
         linkobject = "[scriptid=customscript_scoa_s.customdeploy_scoa_s]"
         linktasktype = "SCRIPT"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Audit Files Field Mapping"

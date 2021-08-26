@@ -29,4 +29,21 @@ netsuite.crmcustomfield custevent5 {
   showissuechanges = false
   storevalue = true
   subtab = "CRMMAIN"
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

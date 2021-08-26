@@ -21,6 +21,8 @@ netsuite.usereventscript customscript_build_je_lines_before_load {
         recordtype = "JOURNALENTRY"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -31,4 +33,8 @@ netsuite.usereventscript customscript_build_je_lines_before_load {
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

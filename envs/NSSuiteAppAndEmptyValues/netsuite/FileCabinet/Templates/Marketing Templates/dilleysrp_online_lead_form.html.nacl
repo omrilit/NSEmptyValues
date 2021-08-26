@@ -9,4 +9,5 @@ netsuite.file Templates_Marketing_Templates_dilleysrp_online_lead_form_html@dsdu
   _parent = [
     netsuite.folder.instance.Templates_Marketing_Templates@ds,
   ]
+  description = ""
 }

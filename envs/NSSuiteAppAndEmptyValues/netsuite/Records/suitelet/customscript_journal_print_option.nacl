@@ -20,7 +20,11 @@ netsuite.suitelet customscript_journal_print_option {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "Journal Print Option Output Page"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

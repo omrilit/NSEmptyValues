@@ -62,4 +62,5 @@ netsuite.customlist customlist_wd_position_list {
       },
     ]
   }
+  description = ""
 }

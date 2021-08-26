@@ -19,6 +19,9 @@ netsuite.clientscript customscript_oa_set_dflt_billing_rule {
         isdeployed = true
         recordtype = "SERVICEITEM"
         status = "RELEASED"
+        audslctrole = ""
+        
+        
       },
       {
         scriptid = "customdeploy2"
@@ -30,6 +33,9 @@ netsuite.clientscript customscript_oa_set_dflt_billing_rule {
         isdeployed = true
         recordtype = "INVENTORYITEM"
         status = "RELEASED"
+        audslctrole = ""
+        
+        
       },
       {
         scriptid = "customdeploy3"
@@ -41,6 +47,9 @@ netsuite.clientscript customscript_oa_set_dflt_billing_rule {
         isdeployed = true
         recordtype = "NONINVENTORYITEM"
         status = "RELEASED"
+        audslctrole = ""
+        
+        
       },
       {
         scriptid = "customdeploy4"
@@ -52,7 +61,21 @@ netsuite.clientscript customscript_oa_set_dflt_billing_rule {
         isdeployed = true
         recordtype = "OTHERCHARGEITEM"
         status = "RELEASED"
+        audslctrole = ""
+        
+        
       },
     ]
   }
+  description = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

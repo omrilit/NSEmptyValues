@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_PSA_Metrics_Portlet_js@dssv {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

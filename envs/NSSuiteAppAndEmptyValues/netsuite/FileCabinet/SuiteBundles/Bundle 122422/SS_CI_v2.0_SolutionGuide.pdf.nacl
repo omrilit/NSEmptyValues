@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_122422_SS_CI_v2_0_SolutionGuide_pdf@dsduuvuv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_122422@ds,
   ]
+  description = ""
 }

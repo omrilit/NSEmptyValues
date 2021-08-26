@@ -54,6 +54,16 @@ JASON SCHEMA
         label = "Keys to generate (JSON format:online CI)"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
       {
         scriptid = "custscript_nsts_ci_filters_to_generate"
@@ -114,6 +124,16 @@ filter : {
         label = "Ci Filters (JSON Format:online CI)"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
       {
         scriptid = "custscript_nsts_ci_task_id"
@@ -130,6 +150,16 @@ filter : {
         label = "CI Task ID"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
     ]
   }
@@ -145,6 +175,7 @@ filter : {
           single = {
             startdate = "2014-12-09"
             starttime = "02:00:00Z"
+            
           }
         }
       },
@@ -158,6 +189,7 @@ filter : {
           single = {
             startdate = "2014-12-09"
             starttime = "02:00:00Z"
+            
           }
         }
       },
@@ -171,6 +203,7 @@ filter : {
           single = {
             startdate = "2014-12-09"
             starttime = "02:00:00Z"
+            
           }
         }
       },
@@ -184,6 +217,7 @@ filter : {
           single = {
             startdate = "2014-12-09"
             starttime = "02:00:00Z"
+            
           }
         }
       },
@@ -197,6 +231,7 @@ filter : {
           single = {
             startdate = "2014-12-09"
             starttime = "02:00:00Z"
+            
           }
         }
       },
@@ -215,4 +250,5 @@ filter : {
       },
     ]
   }
+  notifyemails = ""
 }

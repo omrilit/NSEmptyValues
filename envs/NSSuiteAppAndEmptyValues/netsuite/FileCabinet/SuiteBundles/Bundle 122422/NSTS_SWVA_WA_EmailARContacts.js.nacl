@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_122422_NSTS_SWVA_WA_EmailARContacts_js@dsduuuv
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_122422@ds,
   ]
+  description = ""
 }

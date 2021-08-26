@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_dunning_component_wf_wf_dunning_proc
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_dunning_component_wf@dsdddd,
   ]
+  description = ""
 }

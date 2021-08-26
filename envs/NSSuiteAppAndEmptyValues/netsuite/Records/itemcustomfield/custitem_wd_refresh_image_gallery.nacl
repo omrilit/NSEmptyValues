@@ -29,4 +29,21 @@ netsuite.itemcustomfield custitem_wd_refresh_image_gallery {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_244_t1499227_705.scriptid
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

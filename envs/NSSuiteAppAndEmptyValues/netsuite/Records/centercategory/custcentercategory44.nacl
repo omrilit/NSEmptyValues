@@ -8,14 +8,17 @@ netsuite.centercategory custcentercategory44 {
       {
         linkid = "LIST_EVENT"
         shortlist = true
+        linklabel = ""
       },
       {
         linkid = "LIST_TASK"
         shortlist = true
+        linklabel = ""
       },
       {
         linkid = "LIST_CALL"
         shortlist = true
+        linklabel = ""
       },
       {
         linkid = "LIST_ACTIVITY"
@@ -25,6 +28,7 @@ netsuite.centercategory custcentercategory44 {
       {
         linkid = "LIST_PROJECTTASK"
         shortlist = true
+        linklabel = ""
       },
     ]
   }

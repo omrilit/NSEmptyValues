@@ -9,4 +9,6 @@ netsuite.emailtemplate custemailtmpl_32_t1740134_927 {
   subject = "Your Invoice (#\${customrecord.name}) is due on \${customrecord.custrecord_nsts_ci_tran_duedate}"
   usesmedia = false
   content = file("netsuite/emailtemplate/custemailtmpl_32_t1740134_927.html")
+  description = ""
+  mediaitem = ""
 }

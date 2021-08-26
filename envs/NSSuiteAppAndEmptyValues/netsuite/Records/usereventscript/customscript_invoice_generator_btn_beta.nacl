@@ -20,7 +20,14 @@ netsuite.usereventscript customscript_invoice_generator_btn_beta {
         loglevel = "ERROR"
         recordtype = "INVOICE"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_src_reports_ph_crgrpt_ph_generalledger_j
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_src_reports_ph@dsddd,
   ]
+  description = ""
 }

@@ -20,4 +20,5 @@ netsuite.customlist customlist_nav_portlet_labels {
       },
     ]
   }
+  description = ""
 }

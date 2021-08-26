@@ -20,7 +20,14 @@ netsuite.usereventscript customscript_reset_allocations {
         loglevel = "DEBUG"
         recordtype = "JOB"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

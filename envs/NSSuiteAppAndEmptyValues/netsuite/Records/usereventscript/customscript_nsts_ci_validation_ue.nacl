@@ -22,6 +22,8 @@ netsuite.usereventscript customscript_nsts_ci_validation_ue {
         loglevel = "DEBUG"
         recordtype = "INVOICE"
         status = "RELEASED"
+        
+        runasrole = ""
       },
     ]
   }
@@ -35,4 +37,7 @@ netsuite.usereventscript customscript_nsts_ci_validation_ue {
       },
     ]
   }
+  aftersubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

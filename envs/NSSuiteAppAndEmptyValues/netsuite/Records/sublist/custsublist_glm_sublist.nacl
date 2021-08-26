@@ -19,4 +19,6 @@ netsuite.sublist custsublist_glm_sublist {
   sublisttype = "TRANSACTION"
   tab = netsuite.subtab.instance.custtab_glm_matching.scriptid
   vendorpayment = true
+  customtransactions = ""
+  field = ""
 }

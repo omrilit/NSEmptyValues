@@ -24,6 +24,15 @@ netsuite.scheduledscript customscript_ie_sample_runner_ss {
         selectrecordtype = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.scriptid
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
       },
     ]
   }
@@ -39,9 +48,12 @@ netsuite.scheduledscript customscript_ie_sample_runner_ss {
           single = {
             startdate = "2014-01-27"
             starttime = "02:00:00Z"
+            
           }
         }
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

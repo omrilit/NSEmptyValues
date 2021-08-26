@@ -23,6 +23,16 @@ netsuite.scheduledscript customscript_oa_forex_rate {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_forex_prev_day"
@@ -48,6 +58,15 @@ This preference should not be enabled if the OpenAir exchange rate synchronizati
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -63,9 +82,12 @@ This preference should not be enabled if the OpenAir exchange rate synchronizati
           single = {
             startdate = "2010-11-20"
             starttime = "02:00:00Z"
+            
           }
         }
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

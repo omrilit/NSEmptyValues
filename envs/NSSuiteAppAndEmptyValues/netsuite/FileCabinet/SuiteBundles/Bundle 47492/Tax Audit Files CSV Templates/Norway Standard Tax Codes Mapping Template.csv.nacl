@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_Tax_Audit_Files_CSV_Templates_Norway_Sta
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_Tax_Audit_Files_CSV_Templates@dsdssss,
   ]
+  description = ""
 }

@@ -21,6 +21,8 @@ netsuite.clientscript customscript_oa_export_to_openair_case {
         loglevel = "ERROR"
         recordtype = "SUPPORTCASE"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -31,4 +33,14 @@ netsuite.clientscript customscript_oa_export_to_openair_case {
       },
     ]
   }
+  lineinitfunction = ""
+  notifyemails = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

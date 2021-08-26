@@ -8,10 +8,12 @@ netsuite.centercategory custcentercategory102 {
       {
         linkid = "EDIT_MAILMERGE"
         shortlist = true
+        linklabel = ""
       },
       {
         linkid = "LIST_MAILMERGE"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

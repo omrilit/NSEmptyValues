@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_infrastructure_comp_cs_cs_queue_filt
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_infrastructure_comp_cs@dsdddd,
   ]
+  description = ""
 }

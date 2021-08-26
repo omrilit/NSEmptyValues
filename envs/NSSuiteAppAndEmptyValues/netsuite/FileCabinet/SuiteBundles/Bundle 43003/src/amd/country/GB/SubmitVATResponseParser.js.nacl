@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_amd_country_GB_SubmitVATResponsePars
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_amd_country_GB@dsdddd,
   ]
+  description = ""
 }

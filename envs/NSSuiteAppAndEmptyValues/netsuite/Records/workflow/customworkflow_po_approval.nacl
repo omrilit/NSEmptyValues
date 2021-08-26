@@ -12,6 +12,7 @@ netsuite.workflow customworkflow_po_approval {
   runasadmin = true
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowcustomfields = {
     workflowcustomfield = [
@@ -23,6 +24,15 @@ netsuite.workflow customworkflow_po_approval {
         fieldtype = "TEXT"
         label = "State"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
+        selectrecordtype = ""
       },
       {
         scriptid = "custworkflow_approver1"
@@ -34,6 +44,13 @@ netsuite.workflow customworkflow_po_approval {
         label = "Approver 1 (Project Manager)"
         selectrecordtype = "-118"
         storevalue = true
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
       {
         scriptid = "custworkflow_approver2"
@@ -45,6 +62,13 @@ netsuite.workflow customworkflow_po_approval {
         label = "Approver 2 (Controller)"
         selectrecordtype = "-118"
         storevalue = true
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
       {
         scriptid = "custworkflow_is_inventory"
@@ -54,6 +78,15 @@ netsuite.workflow customworkflow_po_approval {
         fieldtype = "TEXT"
         label = "Is Inventory Item"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
+        selectrecordtype = ""
       },
     ]
   }
@@ -79,7 +112,19 @@ netsuite.workflow customworkflow_po_approval {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
               },
             ]
           },
@@ -91,10 +136,21 @@ netsuite.workflow customworkflow_po_approval {
               tostate = netsuite.workflow.instance.customworkflow_po_approval.workflowstates.workflowstate.1.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate40"
@@ -119,6 +175,9 @@ netsuite.workflow customworkflow_po_approval {
 '''
                   type = "FORMULA"
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
               {
                 scriptid = "workflowaction118"
@@ -133,6 +192,9 @@ netsuite.workflow customworkflow_po_approval {
 '''
                   type = "FORMULA"
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
             ]
           },
@@ -145,7 +207,16 @@ netsuite.workflow customworkflow_po_approval {
               tostate = netsuite.workflow.instance.customworkflow_po_approval.workflowstates.workflowstate.2.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition116"
@@ -153,10 +224,20 @@ netsuite.workflow customworkflow_po_approval {
               tostate = netsuite.workflow.instance.customworkflow_po_approval.workflowstates.workflowstate.4.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate41"
@@ -188,6 +269,17 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction107"
@@ -208,6 +300,18 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction109"
@@ -229,6 +333,17 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction110"
@@ -250,6 +365,17 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction111"
@@ -270,6 +396,18 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction112"
@@ -291,6 +429,17 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction105"
@@ -312,6 +461,17 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
               },
               {
                 scriptid = "workflowaction106"
@@ -333,6 +493,17 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
               },
             ]
           },
@@ -354,6 +525,15 @@ netsuite.workflow customworkflow_po_approval {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition113"
@@ -370,9 +550,19 @@ netsuite.workflow customworkflow_po_approval {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate42"
@@ -394,7 +584,19 @@ netsuite.workflow customworkflow_po_approval {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
             ]
             sendemailaction = [
@@ -424,10 +626,26 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
           },
         ]
+        description = ""
       },
       {
         scriptid = "workflowstate43"
@@ -449,7 +667,19 @@ netsuite.workflow customworkflow_po_approval {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction120"
@@ -471,6 +701,17 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction121"
@@ -491,6 +732,18 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction122"
@@ -512,6 +765,17 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction117"
@@ -533,6 +797,17 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction126"
@@ -553,6 +828,18 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction119"
@@ -574,6 +861,17 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction127"
@@ -585,7 +883,19 @@ netsuite.workflow customworkflow_po_approval {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
               },
             ]
             sendemailaction = [
@@ -615,11 +925,32 @@ netsuite.workflow customworkflow_po_approval {
                     ]
                   }
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
           },
         ]
+        description = ""
       },
     ]
   }
+  description = ""
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_34544_tile_icon_tasklist_png@dsduuv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_34544@ds,
   ]
+  description = ""
 }

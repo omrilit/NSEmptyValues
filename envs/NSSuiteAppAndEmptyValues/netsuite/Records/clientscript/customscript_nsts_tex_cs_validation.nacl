@@ -22,6 +22,8 @@ netsuite.clientscript customscript_nsts_tex_cs_validation {
         loglevel = "ERROR"
         recordtype = netsuite.customrecordtype.instance.customrecord_nsts_tex_html_template.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -32,4 +34,13 @@ netsuite.clientscript customscript_nsts_tex_cs_validation {
       },
     ]
   }
+  description = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

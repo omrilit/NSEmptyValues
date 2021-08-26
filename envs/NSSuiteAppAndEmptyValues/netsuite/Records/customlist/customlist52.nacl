@@ -80,4 +80,5 @@ netsuite.customlist customlist52 {
       },
     ]
   }
+  description = ""
 }

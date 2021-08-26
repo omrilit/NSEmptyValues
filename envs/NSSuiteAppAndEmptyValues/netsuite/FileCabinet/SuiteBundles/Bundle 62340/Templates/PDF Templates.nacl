@@ -6,4 +6,5 @@ netsuite.folder SuiteBundles_Bundle_62340_Templates_PDF_Templates@dsdds {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_Templates@dsd,
   ]
+  description = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_38321_src_ui_modules_field_large_data_ra_cs_si
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_38321_src_ui_modules_field_large_data@dsdddddu,
   ]
+  description = ""
 }

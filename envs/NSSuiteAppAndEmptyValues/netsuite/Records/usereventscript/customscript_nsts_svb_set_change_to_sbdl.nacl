@@ -21,6 +21,8 @@ netsuite.usereventscript customscript_nsts_svb_set_change_to_sbdl {
         recordtype = netsuite.customrecordtype.instance.customrecord_svb_bill_dist_sched.scriptid
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -31,4 +33,8 @@ netsuite.usereventscript customscript_nsts_svb_set_change_to_sbdl {
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforeloadfunction = ""
+  description = ""
+  notifyemails = ""
 }

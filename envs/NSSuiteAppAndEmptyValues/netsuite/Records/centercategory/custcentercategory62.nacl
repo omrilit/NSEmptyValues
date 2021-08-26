@@ -8,82 +8,102 @@ netsuite.centercategory custcentercategory62 {
       {
         linkid = "REPO_131"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_51"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_128"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_11"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_10"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_100"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_9"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_8"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_126"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_94"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_68"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_69"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_105"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_104"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_96"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_256"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_257"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_134"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_106"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_NEG116"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

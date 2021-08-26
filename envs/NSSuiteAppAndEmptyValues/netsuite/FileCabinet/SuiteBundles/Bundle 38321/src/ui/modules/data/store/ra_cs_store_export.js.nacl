@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_38321_src_ui_modules_data_store_ra_cs_store_ex
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_38321_src_ui_modules_data_store@dsddddd,
   ]
+  description = ""
 }

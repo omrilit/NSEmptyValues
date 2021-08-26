@@ -20,7 +20,20 @@ netsuite.clientscript customscript_fmt_set_admin_role {
         loglevel = "DEBUG"
         recordtype = "EMPLOYEE"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  fieldchangedfunction = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_updatelinitemsOrder_js@dv {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

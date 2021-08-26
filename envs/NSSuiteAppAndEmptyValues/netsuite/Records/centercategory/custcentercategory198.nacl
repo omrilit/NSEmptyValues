@@ -8,42 +8,52 @@ netsuite.centercategory custcentercategory198 {
       {
         linkid = "LIST_ITEM"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_EXPCATEGORY"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_BILLINGCLASS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_BILLINGSCHEDULE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_REVRECSCHEDS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_REVRECSCHEDULE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_PROJECTEXPENSETYPE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_AMORTIZATIONSCHEDULE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_AMORTIZATION"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "EDIT_ALLOCATION"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Cost centers"

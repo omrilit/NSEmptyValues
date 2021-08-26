@@ -43,7 +43,24 @@ netsuite.entitycustomfield custentity_projectmanager {
         fldfiltercomparetype = "EQ"
         fldfilternotnull = false
         fldfilternull = false
+        fldcomparefield = ""
+        fldfiltersel = ""
+        fldfilterval = ""
       },
     ]
   }
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_Templates_Sample_CSV_Import_Invoice_Invo
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_Templates_Sample_CSV_Import_Invoice@dsddssd,
   ]
+  description = ""
 }

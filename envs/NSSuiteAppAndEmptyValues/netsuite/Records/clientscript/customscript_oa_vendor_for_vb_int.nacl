@@ -22,7 +22,18 @@ netsuite.clientscript customscript_oa_vendor_for_vb_int {
         isdeployed = true
         recordtype = "VENDOR"
         status = "RELEASED"
+        audslctrole = ""
+        
+        
       },
     ]
   }
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

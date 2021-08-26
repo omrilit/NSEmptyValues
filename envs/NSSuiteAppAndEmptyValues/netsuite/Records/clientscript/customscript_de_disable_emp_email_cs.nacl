@@ -20,7 +20,20 @@ netsuite.clientscript customscript_de_disable_emp_email_cs {
         loglevel = "ERROR"
         recordtype = "EMPLOYEE"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  fieldchangedfunction = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

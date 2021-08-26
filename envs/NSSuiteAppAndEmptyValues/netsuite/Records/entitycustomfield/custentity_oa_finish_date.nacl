@@ -32,4 +32,21 @@ netsuite.entitycustomfield custentity_oa_finish_date {
   showinlist = false
   storevalue = true
   subtab = "ENTITYMAIN"
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_67350_src_wsod_ui_apm_wsod_cs_main_js@dsdddduu
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src_wsod_ui@dsddd,
   ]
+  description = ""
 }

@@ -6,4 +6,16 @@ netsuite.clientscript customscript_journal_print_range_client {
   notifyowner = true
   notifyuser = false
   scriptfile = netsuite.file.instance.SuiteBundles_Bundle_8443_journalprintform_js@dsdv.path
+  description = ""
+  fieldchangedfunction = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

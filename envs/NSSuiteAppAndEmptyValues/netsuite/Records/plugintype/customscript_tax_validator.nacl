@@ -22,4 +22,7 @@ netsuite.plugintype customscript_tax_validator {
       },
     ]
   }
+  description = ""
+  documentationfile = ""
+  notifyemails = ""
 }

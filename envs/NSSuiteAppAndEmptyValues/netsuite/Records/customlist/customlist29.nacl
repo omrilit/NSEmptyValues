@@ -10,17 +10,21 @@ netsuite.customlist customlist29 {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Complete"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "In Progress"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Not Started"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

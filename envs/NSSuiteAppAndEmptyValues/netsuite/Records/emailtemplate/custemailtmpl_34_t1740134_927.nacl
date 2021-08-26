@@ -9,4 +9,6 @@ netsuite.emailtemplate custemailtmpl_34_t1740134_927 {
   subject = "IMMEDIATE ACTION REQUIRED: Your Invoice (#\${customrecord.name}) is past due"
   usesmedia = false
   content = file("netsuite/emailtemplate/custemailtmpl_34_t1740134_927.html")
+  description = ""
+  mediaitem = ""
 }

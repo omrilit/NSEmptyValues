@@ -10,162 +10,195 @@ netsuite.customlist customlist1 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "(GMT-07:00) Pacific Time"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "(GMT-06:00) Mountain Time"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "(GMT-05:00) Central Time"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "(GMT-04:00) Eastern Time"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "(GMT+00:00) Greenwich Mean Time"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "(GMT+01:00) London, Dublin"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "(GMT+02:00) Paris, Madrid, Berlin, Rome, Amsterdam"
+        abbreviation = ""
       },
       {
         scriptid = "value_8_t1499227_127"
         isinactive = false
         value = "(GMT+03:00) Athens, Helsinki, Cairo"
+        abbreviation = ""
       },
       {
         scriptid = "value_9_t1499227_127"
         isinactive = false
         value = "(GMT+04:00) Abu Dhabi, Muscat"
+        abbreviation = ""
       },
       {
         scriptid = "value_10_t1499227_127"
         isinactive = false
         value = "(GMT+04:00) Moscow, Baghdad, Nairobi, Kuwait"
+        abbreviation = ""
       },
       {
         scriptid = "value_11_t1499227_127"
         isinactive = false
         value = "(GMT+04:30) Tehran"
+        abbreviation = ""
       },
       {
         scriptid = "value_12_t1499227_127"
         isinactive = false
         value = "(GMT+05:00) Islamabad, Karachi"
+        abbreviation = ""
       },
       {
         scriptid = "value_13_t1499227_127"
         isinactive = false
         value = "(GMT+05:30) New Delhi, Chennai, Kolkata"
+        abbreviation = ""
       },
       {
         scriptid = "value_14_t1499227_127"
         isinactive = false
         value = "(GMT+06:00) Almaty, Dhaka, Astana"
+        abbreviation = ""
       },
       {
         scriptid = "value_15_t1499227_127"
         isinactive = false
         value = "(GMT+07:00) Bangkok, Hanoi, Jakarta"
+        abbreviation = ""
       },
       {
         scriptid = "value_16_t1499227_127"
         isinactive = false
         value = "(GMT+08:00) Perth, Beijing, Hong Kong, Kuala Lumpur, Singapore"
+        abbreviation = ""
       },
       {
         scriptid = "value_17_t1499227_127"
         isinactive = false
         value = "(GMT+09:00) Tokyo, Osaka, Sapporo, Seoul"
+        abbreviation = ""
       },
       {
         scriptid = "value_18_t1499227_127"
         isinactive = false
         value = "(GMT+09:30) Adelaide, Darwin"
+        abbreviation = ""
       },
       {
         scriptid = "value_19_t1499227_127"
         isinactive = false
         value = "(GMT+10:00) Sydney, Melbourne, Canberra, Brisbane"
+        abbreviation = ""
       },
       {
         scriptid = "value_20_t1499227_127"
         isinactive = false
         value = "(GMT+11:00) Solomon Islands, New Caledonia"
+        abbreviation = ""
       },
       {
         scriptid = "value_21_t1499227_127"
         isinactive = false
         value = "(GMT+12:00) Auckland, Wellington"
+        abbreviation = ""
       },
       {
         scriptid = "value_22_t1499227_127"
         isinactive = false
         value = "(GMT+12:00) Kwajalein, Fiji"
+        abbreviation = ""
       },
       {
         scriptid = "value_23_t1499227_127"
         isinactive = false
         value = "(GMT-01:00) Azores"
+        abbreviation = ""
       },
       {
         scriptid = "value_24_t1499227_127"
         isinactive = false
         value = "(GMT-02:30) Newfoundland"
+        abbreviation = ""
       },
       {
         scriptid = "value_25_t1499227_127"
         isinactive = false
         value = "(GMT-03:00) Atlantic Time"
+        abbreviation = ""
       },
       {
         scriptid = "value_26_t1499227_127"
         isinactive = false
         value = "(GMT-03:00) Brasilia, Buenos Aires"
+        abbreviation = ""
       },
       {
         scriptid = "value_27_t1499227_127"
         isinactive = false
         value = "(GMT-05:00) Indiana (East)"
+        abbreviation = ""
       },
       {
         scriptid = "value_28_t1499227_127"
         isinactive = false
         value = "(GMT-07:00) Arizona"
+        abbreviation = ""
       },
       {
         scriptid = "value_29_t1499227_127"
         isinactive = false
         value = "(GMT-08:00) Alaska"
+        abbreviation = ""
       },
       {
         scriptid = "value_30_t1499227_127"
         isinactive = false
         value = "(GMT-10:00) Hawaii"
+        abbreviation = ""
       },
       {
         scriptid = "value_31_t1499227_127"
         isinactive = false
         value = "(GMT-11:00) Midway Island, Samoa"
+        abbreviation = ""
       },
       {
         scriptid = "value_32_t1499227_127"
         isinactive = false
         value = "(GMT-12:00) International Date Line West"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

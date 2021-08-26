@@ -19,7 +19,12 @@ netsuite.suitelet customscript_invoice_generator_beta {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "**Invoice PDF Generator (Beta)"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

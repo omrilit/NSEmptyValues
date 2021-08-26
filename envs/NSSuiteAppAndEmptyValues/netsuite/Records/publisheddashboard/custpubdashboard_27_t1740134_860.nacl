@@ -200,6 +200,8 @@ netsuite.publisheddashboard custpubdashboard_27_t1740134_860 {
                     headline = false
                     kpi = "CUSTOM"
                     savedsearch = netsuite.savedsearch.instance.customsearch_chargebillingforecast.scriptid
+                    
+                    
                   },
                   {
                     compare = true

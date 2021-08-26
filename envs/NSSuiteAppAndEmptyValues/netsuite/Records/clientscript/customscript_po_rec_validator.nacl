@@ -9,4 +9,13 @@ netsuite.clientscript customscript_po_rec_validator {
   notifyuser = false
   saverecordfunction = "automation_saveRecord"
   scriptfile = netsuite.file.instance.SuiteBundles_Bundle_74218_Procure2Pay_Automation_js@dsduv.path
+  description = ""
+  lineinitfunction = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

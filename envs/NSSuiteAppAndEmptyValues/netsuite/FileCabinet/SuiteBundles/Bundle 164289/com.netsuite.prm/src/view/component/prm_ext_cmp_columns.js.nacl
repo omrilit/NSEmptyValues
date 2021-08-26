@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_164289_com_netsuite_prm_src_view_component_prm
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_164289_com_netsuite_prm_src_view_component@dsdvvddd,
   ]
+  description = ""
 }

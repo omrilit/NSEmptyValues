@@ -24,6 +24,16 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
         label = "OpenAir: Journal Entry Error Email"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
       {
         scriptid = "custscript_oa_je_from_time_error_from"
@@ -42,6 +52,14 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
         searchlevel = "2"
         selectrecordtype = "-4"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_oa_je_from_time_level"
@@ -60,6 +78,14 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
         searchlevel = "2"
         selectrecordtype = netsuite.customlist.instance.customlist_oa_je_from_time_cost_level.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_oa_je_from_time_location"
@@ -78,6 +104,14 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
         searchlevel = "2"
         selectrecordtype = netsuite.customlist.instance.customlist_oa_je_from_time_classes.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_oa_je_from_time_dept"
@@ -96,6 +130,14 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
         searchlevel = "2"
         selectrecordtype = netsuite.customlist.instance.customlist_oa_je_from_time_classes.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_oa_je_from_time_class"
@@ -112,6 +154,16 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
         searchlevel = "2"
         selectrecordtype = netsuite.customlist.instance.customlist_oa_je_from_time_classes.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_oa_je_from_time_ow"
@@ -128,6 +180,16 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
         label = "OpenAir: This is a OneWorld Account"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
       {
         scriptid = "custscript_oa_je_from_time_use_date"
@@ -144,6 +206,16 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
         searchlevel = "2"
         selectrecordtype = netsuite.customlist.instance.customlist_oa_je_from_time_use_date.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_oa_je_from_time_credit_proj"
@@ -160,6 +232,16 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
         label = "OpenAir: Include Project on Credit Line"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
     ]
   }
@@ -175,6 +257,7 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
           single = {
             startdate = "2012-07-03"
             starttime = "01:00:00Z"
+            
           }
         }
       },
@@ -187,4 +270,5 @@ netsuite.scheduledscript customscript_oa_create_je_from_time {
       },
     ]
   }
+  notifyemails = ""
 }

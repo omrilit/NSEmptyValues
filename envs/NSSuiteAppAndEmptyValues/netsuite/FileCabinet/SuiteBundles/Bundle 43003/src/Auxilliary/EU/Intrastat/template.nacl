@@ -6,4 +6,5 @@ netsuite.folder SuiteBundles_Bundle_43003_src_Auxilliary_EU_Intrastat_template@d
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_Auxilliary_EU_Intrastat@dsdddd,
   ]
+  description = ""
 }

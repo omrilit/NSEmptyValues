@@ -10,42 +10,51 @@ netsuite.customlist customlist21 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Ad-Hoc Queries"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Automatic Notifications"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Clause and Template Library"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Import/Export"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "Reporting"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "Search"
+        abbreviation = ""
       },
       {
         scriptid = "value_8_t1499227_127"
         isinactive = false
         value = "Self-Help"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "Workflow"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

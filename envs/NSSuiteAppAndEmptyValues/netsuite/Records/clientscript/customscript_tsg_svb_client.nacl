@@ -20,7 +20,20 @@ netsuite.clientscript customscript_tsg_svb_client {
         loglevel = "DEBUG"
         recordtype = "VENDORBILL"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  fieldchangedfunction = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

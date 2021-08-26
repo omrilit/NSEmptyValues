@@ -21,6 +21,8 @@ netsuite.usereventscript customscript_wd_generate_item_code {
         recordtype = "INVENTORYITEM"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy7"
@@ -34,7 +36,13 @@ netsuite.usereventscript customscript_wd_generate_item_code {
         recordtype = "NONINVENTORYITEM"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

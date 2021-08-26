@@ -39,4 +39,19 @@ netsuite.transactioncolumncustomfield custcol_svb_vend_bill_lineno {
   searchlevel = "2"
   showhierarchy = false
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

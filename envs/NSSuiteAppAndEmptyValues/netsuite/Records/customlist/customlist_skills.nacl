@@ -10,87 +10,105 @@ netsuite.customlist customlist_skills {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Programming"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Database Administration"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Network Administration"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Systems Administration"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "Quality Assurance"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "Product Marketing"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "Professional Services"
+        abbreviation = ""
       },
       {
         scriptid = "value_8_t1499227_127"
         isinactive = false
         value = "Finance"
+        abbreviation = ""
       },
       {
         scriptid = "value_9_t1499227_127"
         isinactive = false
         value = "Accounting"
+        abbreviation = ""
       },
       {
         scriptid = "value_10_t1499227_127"
         isinactive = false
         value = "Marketing"
+        abbreviation = ""
       },
       {
         scriptid = "value_11_t1499227_127"
         isinactive = false
         value = "Sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_12_t1499227_127"
         isinactive = false
         value = "Business Development"
+        abbreviation = ""
       },
       {
         scriptid = "value_13_t1499227_127"
         isinactive = false
         value = "Product Management"
+        abbreviation = ""
       },
       {
         scriptid = "value_14_t1499227_127"
         isinactive = false
         value = "Training"
+        abbreviation = ""
       },
       {
         scriptid = "value_15_t1499227_127"
         isinactive = false
         value = "Technical Writing"
+        abbreviation = ""
       },
       {
         scriptid = "value_16_t1499227_127"
         isinactive = false
         value = "User Experience"
+        abbreviation = ""
       },
       {
         scriptid = "value_17_t1499227_127"
         isinactive = false
         value = "Design"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

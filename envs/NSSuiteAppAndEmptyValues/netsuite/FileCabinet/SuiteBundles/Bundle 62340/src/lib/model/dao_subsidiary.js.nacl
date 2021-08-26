@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_lib_model_dao_subsidiary_js@dsdddduv
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_lib_model@dsddd,
   ]
+  description = ""
 }

@@ -32,4 +32,21 @@ netsuite.entitycustomfield custentity_zms_wac {
   showinlist = true
   storevalue = true
   subtab = "ENTITYMAIN"
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

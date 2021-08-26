@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_48331_src_ui_css_images_box_tb_blue_gif@dsdddd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_48331_src_ui_css_images_box@dsddddd,
   ]
+  description = ""
 }

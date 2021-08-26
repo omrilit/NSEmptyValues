@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_2851_oa_cost_je_from_time_js@dsduuuuv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_2851@ds,
   ]
+  description = ""
 }

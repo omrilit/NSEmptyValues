@@ -25,4 +25,6 @@ netsuite.scheduledscript customscript_wd_generate_hash_stores {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

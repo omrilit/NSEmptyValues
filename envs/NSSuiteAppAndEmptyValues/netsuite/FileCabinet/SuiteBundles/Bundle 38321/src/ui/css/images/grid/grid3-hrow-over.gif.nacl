@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_38321_src_ui_css_images_grid_grid3_hrow_over_g
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_38321_src_ui_css_images_grid@dsddddd,
   ]
+  description = ""
 }

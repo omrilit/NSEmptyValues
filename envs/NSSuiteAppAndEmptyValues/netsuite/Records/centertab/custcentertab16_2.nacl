@@ -7,4 +7,5 @@ netsuite.centertab custcentertab16_2 {
   allvendors = false
   center = "BASIC"
   label = "OpenAir"
+  audslctrole = ""
 }

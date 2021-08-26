@@ -31,4 +31,22 @@ netsuite.entitycustomfield custentity32 {
   showhierarchy = false
   showinlist = false
   storevalue = true
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
+  subtab = ""
 }

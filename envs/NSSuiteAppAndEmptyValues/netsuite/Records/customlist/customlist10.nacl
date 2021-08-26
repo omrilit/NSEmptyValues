@@ -10,22 +10,27 @@ netsuite.customlist customlist10 {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "$101 million - $499 million"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "$6 million - $100 million"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Less than $5 million"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "More than $500 million"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

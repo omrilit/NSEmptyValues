@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_infra_service_comp_rs_rs_suite_l10n_
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_infra_service_comp_rs@dsddudd,
   ]
+  description = ""
 }

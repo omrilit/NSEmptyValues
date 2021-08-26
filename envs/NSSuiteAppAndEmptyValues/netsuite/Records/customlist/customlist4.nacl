@@ -10,17 +10,21 @@ netsuite.customlist customlist4 {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "In Customer Application Only"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "In Sample Application"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Not Reproduced"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

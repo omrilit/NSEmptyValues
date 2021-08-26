@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_suitesocial_script_active_status_txt@duuuv {
   _parent = [
     netsuite.folder.instance.SuiteBundles,
   ]
+  description = ""
 }

@@ -17,4 +17,6 @@ netsuite.bundleinstallationscript customscript_glm_bi_script {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

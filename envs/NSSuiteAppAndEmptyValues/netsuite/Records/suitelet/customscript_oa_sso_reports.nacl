@@ -19,7 +19,12 @@ netsuite.suitelet customscript_oa_sso_reports {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "OpenAir: Reports module deployments"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

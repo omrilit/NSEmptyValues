@@ -21,6 +21,8 @@ netsuite.usereventscript customscript_svb_check_alloc_wt {
         recordtype = netsuite.customrecordtype.instance.customrecord_svb_line_is_source_sub.scriptid
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -31,4 +33,8 @@ netsuite.usereventscript customscript_svb_check_alloc_wt {
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

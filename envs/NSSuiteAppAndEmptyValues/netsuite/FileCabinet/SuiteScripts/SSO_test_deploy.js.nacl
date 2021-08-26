@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_SSO_test_deploy_js@duuv {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

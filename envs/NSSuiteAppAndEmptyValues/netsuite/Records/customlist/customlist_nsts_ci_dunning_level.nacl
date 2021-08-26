@@ -10,27 +10,33 @@ netsuite.customlist customlist_nsts_ci_dunning_level {
         scriptid = "value_1_4453644_734"
         isinactive = false
         value = "Dunning Level 1"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_4453644_734"
         isinactive = false
         value = "Dunning Level 2"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_4453644_734"
         isinactive = false
         value = "Dunning Level 3"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_4453644_734"
         isinactive = false
         value = "Dunning Level 4"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_4453644_734"
         isinactive = false
         value = "Phone Call Created"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

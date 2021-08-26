@@ -21,7 +21,13 @@ netsuite.usereventscript customscript_wd_generate_latlon_stores {
         recordtype = netsuite.customrecordtype.instance.customrecord_wd_store_locator.scriptid
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

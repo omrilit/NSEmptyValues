@@ -8,26 +8,32 @@ netsuite.centercategory custcentercategory185 {
       {
         linkid = "LIST_CRMGROUP"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CRMTEMPLATE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CAMPAIGN"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTOMERFORM"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_UPSELLWIZARD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_UPSELLSETUP"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

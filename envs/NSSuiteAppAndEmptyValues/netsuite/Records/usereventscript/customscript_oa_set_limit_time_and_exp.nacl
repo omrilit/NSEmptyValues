@@ -20,7 +20,14 @@ netsuite.usereventscript customscript_oa_set_limit_time_and_exp {
         loglevel = "ERROR"
         recordtype = "JOB"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforeloadfunction = ""
+  description = ""
+  notifyemails = ""
 }

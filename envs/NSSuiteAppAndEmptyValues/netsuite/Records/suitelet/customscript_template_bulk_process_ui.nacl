@@ -27,6 +27,9 @@ netsuite.suitelet customscript_template_bulk_process_ui {
             },
           ]
         }
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
@@ -43,4 +46,6 @@ netsuite.suitelet customscript_template_bulk_process_ui {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

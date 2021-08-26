@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_GB__ECSales_ukaudittrailockscript_js
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_GB__ECSales@dsdddv,
   ]
+  description = ""
 }

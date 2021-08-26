@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_34939_icon_purchase_acctg_mgmt_new_png@dsdbbbb
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_34939@ds,
   ]
+  description = ""
 }

@@ -20,7 +20,14 @@ netsuite.usereventscript customscript_set_project_customerid {
         loglevel = "ERROR"
         recordtype = "JOB"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

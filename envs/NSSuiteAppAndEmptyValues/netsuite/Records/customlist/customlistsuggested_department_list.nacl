@@ -26,4 +26,5 @@ netsuite.customlist customlistsuggested_department_list {
       },
     ]
   }
+  description = ""
 }

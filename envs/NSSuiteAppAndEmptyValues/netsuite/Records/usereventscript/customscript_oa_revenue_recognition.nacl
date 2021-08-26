@@ -21,7 +21,13 @@ netsuite.usereventscript customscript_oa_revenue_recognition {
         loglevel = "ERROR"
         recordtype = "JOURNALENTRY"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforesubmitfunction = ""
+  notifyemails = ""
 }

@@ -8,6 +8,7 @@ netsuite.centercategory custcentercategory37 {
       {
         linkid = "EXTL_12"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

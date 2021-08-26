@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_Auxilliary_EU_EUSales_ecsl_report_li
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_Auxilliary_EU_EUSales@dsdddd,
   ]
+  description = ""
 }

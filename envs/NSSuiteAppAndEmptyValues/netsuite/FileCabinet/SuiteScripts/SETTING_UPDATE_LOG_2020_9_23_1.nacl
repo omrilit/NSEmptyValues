@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_SETTING_UPDATE_LOG_2020_9_23_1@duuuuuu {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

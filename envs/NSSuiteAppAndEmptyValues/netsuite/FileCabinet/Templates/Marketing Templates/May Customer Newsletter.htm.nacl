@@ -9,4 +9,5 @@ netsuite.file Templates_Marketing_Templates_May_Customer_Newsletter_htm@dsdssv {
   _parent = [
     netsuite.folder.instance.Templates_Marketing_Templates@ds,
   ]
+  description = ""
 }

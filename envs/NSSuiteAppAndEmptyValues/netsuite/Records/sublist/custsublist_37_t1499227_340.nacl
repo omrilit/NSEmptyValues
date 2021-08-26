@@ -10,4 +10,5 @@ netsuite.sublist custsublist_37_t1499227_340 {
   sublisttype = "ENTITY"
   tab = "ENTITYFINANCIAL"
   vendor = false
+  field = ""
 }

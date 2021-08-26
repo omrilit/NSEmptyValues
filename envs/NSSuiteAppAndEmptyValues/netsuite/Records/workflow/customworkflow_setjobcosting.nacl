@@ -12,6 +12,7 @@ netsuite.workflow customworkflow_setjobcosting {
   runasadmin = true
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowstates = {
     workflowstate = [
@@ -29,10 +30,20 @@ netsuite.workflow customworkflow_setjobcosting {
               triggertype = "ONENTRY"
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate88"
@@ -64,6 +75,17 @@ netsuite.workflow customworkflow_setjobcosting {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction239"
@@ -74,7 +96,20 @@ netsuite.workflow customworkflow_setjobcosting {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction246"
@@ -96,6 +131,17 @@ netsuite.workflow customworkflow_setjobcosting {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
             ]
           },
@@ -108,10 +154,20 @@ netsuite.workflow customworkflow_setjobcosting {
               triggertype = "BEFORESUBMIT"
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate89"
@@ -119,7 +175,13 @@ netsuite.workflow customworkflow_setjobcosting {
         name = "Leave Form"
         positionx = 200
         positiony = 230
+        description = ""
       },
     ]
   }
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
+  
 }

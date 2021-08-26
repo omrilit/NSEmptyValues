@@ -32,4 +32,21 @@ netsuite.entitycustomfield custentity18 {
   showinlist = false
   storevalue = true
   subtab = "ENTITYINFO"
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

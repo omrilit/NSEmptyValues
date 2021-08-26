@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_2851_ping_js@dsdv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_2851@ds,
   ]
+  description = ""
 }

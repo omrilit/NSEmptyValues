@@ -2,4 +2,5 @@ netsuite.subtab custtab_15_4453644_498 {
   scriptid = "custtab_15_4453644_498"
   tabtype = "ENTITY"
   title = "Collections"
+  parent = ""
 }

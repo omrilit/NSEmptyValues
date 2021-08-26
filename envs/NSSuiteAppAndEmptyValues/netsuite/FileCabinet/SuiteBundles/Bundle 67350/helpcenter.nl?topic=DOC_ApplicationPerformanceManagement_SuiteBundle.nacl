@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_67350_helpcenter_nl_topic_DOC_ApplicationPerfo
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350@ds,
   ]
+  description = ""
 }

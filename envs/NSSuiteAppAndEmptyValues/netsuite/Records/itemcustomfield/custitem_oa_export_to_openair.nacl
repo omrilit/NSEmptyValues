@@ -31,4 +31,19 @@ netsuite.itemcustomfield custitem_oa_export_to_openair {
   showinlist = true
   storevalue = true
   subtab = "ITEMMAIN"
+  defaultselection = ""
+  defaultvalue = ""
+  
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

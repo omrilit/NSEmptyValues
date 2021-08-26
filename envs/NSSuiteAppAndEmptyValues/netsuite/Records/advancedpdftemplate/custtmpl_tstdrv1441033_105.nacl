@@ -6,4 +6,5 @@ netsuite.advancedpdftemplate custtmpl_tstdrv1441033_105 {
   preferred = false
   title = "Default Invoice PDF/HTML Template - Australia"
   content = file("netsuite/advancedpdftemplate/custtmpl_tstdrv1441033_105.xml")
+  description = ""
 }

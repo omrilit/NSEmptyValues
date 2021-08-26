@@ -1290,126 +1290,157 @@ netsuite.role customrole1036 {
       {
         permkey = "[scriptid=customrecord_bg_procinstance]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_bg_proclog]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_bg_queueinstance]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_bg_summaryrecord]"
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord31.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_altdepreciation]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_altmethods]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_asset]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_assetproposal]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_transferaccounts]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_assettype]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_assetusage]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_altdeprdef]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_deprhistory]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_deprmethod]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_expenseincome]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_proposaldates]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_assetlifetimes]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_altdepr_proposal]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_repairmaintcategory]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_repairmaintsubcategory]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_repairmaintsubcategoryb]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_ncfar_systemsetup]"
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord16.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord_svb_line_is_source_sub.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord_svb_bill_dist_details.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord_svb_bill_dist_sched.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skill]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_category]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skill_level]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skillset]"
         permlevel = "FULL"
+        
       },
     ]
   }

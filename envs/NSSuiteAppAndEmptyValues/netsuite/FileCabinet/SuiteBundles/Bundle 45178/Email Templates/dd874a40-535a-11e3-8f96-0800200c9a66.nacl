@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_45178_Email_Templates_dd874a40_535a_11e3_8f96_
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_45178_Email_Templates@dsds,
   ]
+  description = ""
 }

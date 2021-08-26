@@ -6,4 +6,5 @@ netsuite.folder SuiteBundles_Bundle_43003_MTD_CSV@dsds {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003@ds,
   ]
+  description = ""
 }

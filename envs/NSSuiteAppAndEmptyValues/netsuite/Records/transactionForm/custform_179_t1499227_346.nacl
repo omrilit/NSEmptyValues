@@ -3510,6 +3510,7 @@ netsuite.transactionForm custform_179_t1499227_346 {
         {
           id = "ITEM_ADDPROJECTITEMS"
           visible = true
+          label = ""
         },
         {
           id = "REJECT"
@@ -4104,4 +4105,6 @@ netsuite.transactionForm custform_179_t1499227_346 {
       },
     ]
   }
+  disclaimer = ""
+  address = ""
 }

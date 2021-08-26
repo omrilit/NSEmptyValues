@@ -26,6 +26,15 @@ netsuite.usereventscript customscript_oa_invoice_tax {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -42,6 +51,9 @@ netsuite.usereventscript customscript_oa_invoice_tax {
         loglevel = "ERROR"
         recordtype = "INVOICE"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy2"
@@ -54,7 +66,13 @@ netsuite.usereventscript customscript_oa_invoice_tax {
         loglevel = "ERROR"
         recordtype = "CREDITMEMO"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  aftersubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

@@ -54,6 +54,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord64"
@@ -74,6 +92,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord65"
@@ -94,6 +130,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord67"
@@ -114,6 +168,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord68"
@@ -134,6 +206,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord70"
@@ -156,6 +246,22 @@ netsuite.customrecordtype customrecord31 {
         selectrecordtype = netsuite.customlist.instance.customlist36.scriptid
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord71"
@@ -176,6 +282,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord72"
@@ -198,6 +322,22 @@ netsuite.customrecordtype customrecord31 {
         selectrecordtype = netsuite.customlist.instance.customlist37.scriptid
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord73"
@@ -220,6 +360,22 @@ netsuite.customrecordtype customrecord31 {
         selectrecordtype = netsuite.customlist.instance.customlist34.scriptid
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord74"
@@ -240,6 +396,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord75"
@@ -260,6 +434,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord76"
@@ -280,6 +472,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord77"
@@ -300,6 +510,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord78"
@@ -320,6 +548,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord79"
@@ -340,6 +586,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord80"
@@ -360,6 +624,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord81"
@@ -380,6 +662,24 @@ netsuite.customrecordtype customrecord31 {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord83"
@@ -403,6 +703,21 @@ netsuite.customrecordtype customrecord31 {
         selectrecordtype = "-2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord84"
@@ -426,6 +741,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord112"
@@ -449,6 +779,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord86"
@@ -472,6 +817,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord87"
@@ -495,6 +855,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord88"
@@ -518,6 +893,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord106"
@@ -540,6 +930,22 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord90"
@@ -563,6 +969,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord91"
@@ -586,6 +1007,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord92"
@@ -609,6 +1045,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord93"
@@ -632,6 +1083,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord94"
@@ -655,6 +1121,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord95"
@@ -678,6 +1159,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord96"
@@ -701,6 +1197,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord97"
@@ -724,6 +1235,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord107"
@@ -746,6 +1272,22 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord108"
@@ -769,6 +1311,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord109"
@@ -792,6 +1349,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord110"
@@ -815,6 +1387,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord111"
@@ -838,6 +1425,21 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord98"
@@ -860,6 +1462,22 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord101"
@@ -881,6 +1499,23 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord102"
@@ -902,6 +1537,23 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord103"
@@ -923,6 +1575,23 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord104"
@@ -944,6 +1613,23 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord105"
@@ -965,6 +1651,23 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord100"
@@ -986,6 +1689,23 @@ netsuite.customrecordtype customrecord31 {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord31.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
     ]
   }
@@ -994,166 +1714,207 @@ netsuite.customrecordtype customrecord31 {
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1103.scriptid
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = netsuite.role.instance.customrole1005.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1111.scriptid
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = netsuite.role.instance.customrole1113.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1101.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1036.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1106.scriptid
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = netsuite.role.instance.customrole1107.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "ADMINISTRATOR"
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = "CEO"
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = netsuite.role.instance.customrole1019.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1010.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "FULL_ACCESS"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "MARKETING_ADMINISTRATOR"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "MARKETING_ASSISTANT"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "MARKETING_MANAGER"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1068.scriptid
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = "PM_MANAGER"
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = "PRODUCT_MANAGER"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1052.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1053.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1065.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1001.scriptid
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = netsuite.role.instance.customrole1012.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1058.scriptid
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = "SALES_ADMINISTRATOR"
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = netsuite.role.instance.customrole1004.scriptid
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = netsuite.role.instance.customrole1003.scriptid
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = "SALES_MANAGER"
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = "SALES_PERSON"
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = netsuite.role.instance.customrole1018.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "SUPPORT_MANAGER"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "SUPPORT_PERSON"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1009.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1007.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1054.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1059.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1069.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1070.scriptid
+        
       },
       {
         permittedlevel = "VIEW"
         permittedrole = netsuite.role.instance.customrole1000.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1013.scriptid
+        
       },
     ]
   }
@@ -1162,6 +1923,7 @@ netsuite.customrecordtype customrecord31 {
       {
         linkcategory = "BASICLISTSCUSTOM"
         linktasktype = "LIST"
+        linklabel = ""
       },
     ]
   }
@@ -1170,15 +1932,26 @@ netsuite.customrecordtype customrecord31 {
       {
         scriptid = "tab_27_t1499227_470"
         tabtitle = "General Product Questions"
+        tabparent = ""
       },
       {
         scriptid = "tab_28_t1499227_470"
         tabtitle = "Detailed Product Questions"
+        tabparent = ""
       },
       {
         scriptid = "tab_29_t1499227_470"
         tabtitle = "Feature Requests/Exec Feedback"
+        tabparent = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

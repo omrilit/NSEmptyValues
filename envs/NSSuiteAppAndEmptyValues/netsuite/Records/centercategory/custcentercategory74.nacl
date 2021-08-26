@@ -8,42 +8,52 @@ netsuite.centercategory custcentercategory74 {
       {
         linkid = "REPO_174"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_176"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_162"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_266"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_203"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_274"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_262"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_22"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_21"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_NEG187"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

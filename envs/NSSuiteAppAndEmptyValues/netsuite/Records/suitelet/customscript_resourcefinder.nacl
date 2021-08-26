@@ -20,7 +20,11 @@ netsuite.suitelet customscript_resourcefinder {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "Support Scheduler Suitelet (gus)"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

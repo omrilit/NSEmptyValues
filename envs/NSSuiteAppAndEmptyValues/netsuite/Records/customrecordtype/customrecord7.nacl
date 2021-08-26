@@ -55,6 +55,23 @@ netsuite.customrecordtype customrecord7 {
         showinlist = true
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord7.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord117"
@@ -76,6 +93,23 @@ netsuite.customrecordtype customrecord7 {
         showinlist = true
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord7.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord11"
@@ -97,6 +131,23 @@ netsuite.customrecordtype customrecord7 {
         showinlist = true
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord7.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord12"
@@ -121,6 +172,20 @@ netsuite.customrecordtype customrecord7 {
         showinlist = true
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord7.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
     ]
   }
@@ -129,7 +194,16 @@ netsuite.customrecordtype customrecord7 {
       {
         scriptid = "tab_7_t1499227_470"
         tabtitle = "Usage Data"
+        tabparent = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

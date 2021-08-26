@@ -34,4 +34,19 @@ netsuite.entitycustomfield custentity12 {
   showinlist = false
   storevalue = true
   subtab = "ENTITYFINANCIAL"
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

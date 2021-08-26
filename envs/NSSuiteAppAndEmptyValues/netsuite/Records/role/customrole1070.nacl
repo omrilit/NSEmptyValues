@@ -369,11 +369,14 @@ netsuite.role customrole1070 {
       {
         permkey = netsuite.customrecordtype.instance.customrecord31.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord2.scriptid
         permlevel = "FULL"
+        
       },
     ]
   }
+  issuerole = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_67350_src_spd_ui_modules_apm_spd_cs_highcharts
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src_spd_ui_modules@dsdddd,
   ]
+  description = ""
 }

@@ -10,12 +10,15 @@ netsuite.customlist customlist_nsts_swva_col_phone_call_fo {
         scriptid = "value_1_4453644_734"
         isinactive = false
         value = "Sales Rep"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_4453644_734"
         isinactive = false
         value = "Collections Rep"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

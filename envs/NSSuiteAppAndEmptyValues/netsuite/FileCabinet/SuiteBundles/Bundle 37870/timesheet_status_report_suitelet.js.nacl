@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_37870_timesheet_status_report_suitelet_js@dsdu
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_37870@ds,
   ]
+  description = ""
 }

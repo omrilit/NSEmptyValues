@@ -20,6 +20,9 @@ netsuite.usereventscript customscript_oa_hide_billing_rule {
         loglevel = "ERROR"
         recordtype = "INVOICE"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy2"
@@ -32,6 +35,9 @@ netsuite.usereventscript customscript_oa_hide_billing_rule {
         loglevel = "ERROR"
         recordtype = "CASHSALE"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy_oa_rev_rec_rule"
@@ -45,7 +51,13 @@ netsuite.usereventscript customscript_oa_hide_billing_rule {
         recordtype = "SALESORDER"
         runasrole = netsuite.role.instance.customrole1015_2.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

@@ -8,15 +8,18 @@ netsuite.centercategory custcentercategory147 {
       {
         linkid = "EDIT_CHARGE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkobject = netsuite.centerlink.instance.custlink_14_t1740134_735.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_BILLINGCLASS"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Rate Cards"
@@ -27,30 +30,37 @@ netsuite.centercategory custcentercategory147 {
       {
         linkid = "LIST_BILLINGSCHEDULE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_REVRECSCHEDS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_REVRECSCHEDULE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_SALESORDCOMMITREVENUE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_CREATEREVRECJE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_TIMEPOST"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_TIMEVOID"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

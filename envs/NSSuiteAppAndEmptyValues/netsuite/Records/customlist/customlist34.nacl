@@ -10,27 +10,33 @@ netsuite.customlist customlist34 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "0 months - 6 months"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "6 months - 1 year"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "1 year - 2 years"
+        abbreviation = ""
       },
       {
         scriptid = "value_8_t1499227_127"
         isinactive = false
         value = "2 years - 5 years"
+        abbreviation = ""
       },
       {
         scriptid = "value_9_t1499227_127"
         isinactive = false
         value = "5 years +"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

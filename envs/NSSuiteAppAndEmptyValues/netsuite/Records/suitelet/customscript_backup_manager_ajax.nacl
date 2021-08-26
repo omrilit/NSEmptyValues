@@ -20,7 +20,11 @@ netsuite.suitelet customscript_backup_manager_ajax {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "**Backup Manager AJAX"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

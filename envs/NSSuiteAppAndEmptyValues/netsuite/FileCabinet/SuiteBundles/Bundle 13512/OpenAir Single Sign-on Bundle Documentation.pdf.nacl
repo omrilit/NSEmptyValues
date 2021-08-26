@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_13512_OpenAir_Single_Sign_on_Bundle_Documentat
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_13512@ds,
   ]
+  description = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_src_userevent_account_hide_ue_js@dsddduu
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_src_userevent@dsdd,
   ]
+  description = ""
 }

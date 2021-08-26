@@ -34,4 +34,19 @@ netsuite.entitycustomfield custentity_projectclass {
   showinlist = false
   storevalue = true
   subtab = "ENTITYMAIN"
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_populateAllocationResource_js@dv {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

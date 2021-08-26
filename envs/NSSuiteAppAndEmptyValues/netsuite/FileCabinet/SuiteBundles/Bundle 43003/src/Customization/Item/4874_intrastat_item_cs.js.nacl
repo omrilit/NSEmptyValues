@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_Customization_Item_4874_intrastat_it
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_Customization_Item@dsddd,
   ]
+  description = ""
 }

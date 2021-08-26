@@ -11,16 +11,19 @@ netsuite.customlist customlist_oa_je_from_time_cost_level {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Primary"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Secondary"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Tertiary"
+        abbreviation = ""
       },
     ]
   }

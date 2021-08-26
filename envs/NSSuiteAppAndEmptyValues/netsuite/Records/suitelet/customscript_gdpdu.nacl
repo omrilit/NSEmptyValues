@@ -28,6 +28,8 @@ netsuite.suitelet customscript_gdpdu {
             },
           ]
         }
+        audslctrole = ""
+        
       },
     ]
   }
@@ -44,4 +46,6 @@ netsuite.suitelet customscript_gdpdu {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

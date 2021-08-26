@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_amd_lib_module_environmentChecker_js
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_amd_lib_module@dsdddd,
   ]
+  description = ""
 }

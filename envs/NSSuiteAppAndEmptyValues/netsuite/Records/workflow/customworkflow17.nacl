@@ -12,6 +12,7 @@ netsuite.workflow customworkflow17 {
   runasadmin = true
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowstates = {
     workflowstate = [
@@ -29,10 +30,20 @@ netsuite.workflow customworkflow17 {
               triggertype = "BEFORELOAD"
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate73"
@@ -55,7 +66,18 @@ netsuite.workflow customworkflow17 {
                 valuetype = "FIELD"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valueformula = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
@@ -73,7 +95,18 @@ netsuite.workflow customworkflow17 {
                 valuetype = "FIELD"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valueformula = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
@@ -92,7 +125,17 @@ netsuite.workflow customworkflow17 {
                 valuetype = "FIELD"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valueformula = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
@@ -105,10 +148,20 @@ netsuite.workflow customworkflow17 {
               triggertype = "AFTERSUBMIT"
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate76"
@@ -116,7 +169,13 @@ netsuite.workflow customworkflow17 {
         name = "Exit State"
         positionx = 203
         positiony = 233
+        description = ""
       },
     ]
   }
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
+  
 }

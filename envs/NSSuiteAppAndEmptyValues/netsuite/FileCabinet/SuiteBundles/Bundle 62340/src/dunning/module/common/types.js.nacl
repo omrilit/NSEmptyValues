@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_dunning_module_common_types_js@dsddd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_dunning_module_common@dsdddd,
   ]
+  description = ""
 }

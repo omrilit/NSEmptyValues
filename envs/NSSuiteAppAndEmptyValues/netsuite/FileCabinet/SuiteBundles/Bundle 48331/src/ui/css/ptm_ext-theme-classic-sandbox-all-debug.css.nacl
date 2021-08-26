@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_48331_src_ui_css_ptm_ext_theme_classic_sandbox
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_48331_src_ui_css@dsddd,
   ]
+  description = ""
 }

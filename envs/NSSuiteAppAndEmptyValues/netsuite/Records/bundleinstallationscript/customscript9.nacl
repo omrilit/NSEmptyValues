@@ -23,6 +23,18 @@ netsuite.bundleinstallationscript customscript9 {
         label = "NS RC Root Folder"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
       {
         scriptid = "custscript_ns_rc_scast_folders"
@@ -38,6 +50,18 @@ netsuite.bundleinstallationscript customscript9 {
         label = "NS RC SC Advanced Site Templates Folders"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
     ]
   }
@@ -53,4 +77,9 @@ netsuite.bundleinstallationscript customscript9 {
       },
     ]
   }
+  beforeinstallfunction = ""
+  beforeuninstallfunction = ""
+  beforeupdatefunction = ""
+  description = ""
+  notifyemails = ""
 }

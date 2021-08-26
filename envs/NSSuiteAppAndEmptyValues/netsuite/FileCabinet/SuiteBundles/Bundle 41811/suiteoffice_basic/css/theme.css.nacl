@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41811_suiteoffice_basic_css_theme_css@dsduddv 
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41811_suiteoffice_basic_css@dsdud,
   ]
+  description = ""
 }

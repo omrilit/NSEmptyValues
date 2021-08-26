@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_38321_src_ui_css_images_sizer_e_handle_dark_gi
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_38321_src_ui_css_images_sizer@dsddddd,
   ]
+  description = ""
 }

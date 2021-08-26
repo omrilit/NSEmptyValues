@@ -21,7 +21,19 @@ netsuite.clientscript customscript_svb_make_copy_defaulting {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_svb_bill_dist_sched.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  fieldchangedfunction = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

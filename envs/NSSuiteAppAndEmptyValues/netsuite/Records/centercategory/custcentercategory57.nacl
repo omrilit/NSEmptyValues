@@ -8,11 +8,13 @@ netsuite.centercategory custcentercategory57 {
       {
         linkid = "LIST_ITEM"
         shortlist = false
+        linklabel = ""
       },
       {
         linkobject = netsuite.centerlink.instance.custlink_5_t1740134_248.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_PRINT_PRICELIST"

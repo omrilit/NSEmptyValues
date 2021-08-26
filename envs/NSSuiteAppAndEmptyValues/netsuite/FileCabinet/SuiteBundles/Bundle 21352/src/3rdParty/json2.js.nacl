@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_21352_src_3rdParty_json2_js@dsdddv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_21352_src_3rdParty@dsdd,
   ]
+  description = ""
 }

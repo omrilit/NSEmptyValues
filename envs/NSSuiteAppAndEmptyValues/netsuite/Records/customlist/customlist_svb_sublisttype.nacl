@@ -20,4 +20,5 @@ netsuite.customlist customlist_svb_sublisttype {
       },
     ]
   }
+  description = ""
 }

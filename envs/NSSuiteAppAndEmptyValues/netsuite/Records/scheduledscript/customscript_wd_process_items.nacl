@@ -33,9 +33,12 @@ netsuite.scheduledscript customscript_wd_process_items {
           single = {
             startdate = "2014-10-24"
             starttime = "01:00:00Z"
+            
           }
         }
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

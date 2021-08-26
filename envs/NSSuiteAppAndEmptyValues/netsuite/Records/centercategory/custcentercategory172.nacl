@@ -9,10 +9,12 @@ netsuite.centercategory custcentercategory172 {
         linkobject = netsuite.centerlink.instance.custlink_20_t1740134_475.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_SAVEDSEARCH"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

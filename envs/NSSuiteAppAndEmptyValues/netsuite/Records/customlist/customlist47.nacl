@@ -10,17 +10,21 @@ netsuite.customlist customlist47 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Harish Menapace"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Imane Murphy"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Mini Suanders"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

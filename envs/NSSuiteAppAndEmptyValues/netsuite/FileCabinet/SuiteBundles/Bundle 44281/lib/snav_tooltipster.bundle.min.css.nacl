@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_44281_lib_snav_tooltipster_bundle_min_css@dsdd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_44281_lib@dsd,
   ]
+  description = ""
 }

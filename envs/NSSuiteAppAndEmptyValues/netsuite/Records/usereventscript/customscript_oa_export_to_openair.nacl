@@ -23,6 +23,17 @@ netsuite.usereventscript customscript_oa_export_to_openair {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -40,7 +51,13 @@ netsuite.usereventscript customscript_oa_export_to_openair {
         recordtype = "PROJECTTASK"
         runasrole = netsuite.role.instance.customrole1015_2.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforeloadfunction = ""
+  description = ""
+  notifyemails = ""
 }

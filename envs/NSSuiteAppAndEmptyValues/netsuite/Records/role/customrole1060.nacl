@@ -510,18 +510,22 @@ netsuite.role customrole1060 {
       {
         permkey = "[scriptid=customrecord_rss_skill]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_category]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skill_level]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skillset]"
         permlevel = "FULL"
+        
       },
     ]
   }

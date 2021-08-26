@@ -11,6 +11,7 @@ netsuite.workflow customworkflow_reassign_generic_dates {
   runasadmin = true
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowstates = {
     workflowstate = [
@@ -28,10 +29,20 @@ netsuite.workflow customworkflow_reassign_generic_dates {
               triggertype = "ONENTRY"
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate91"
@@ -60,11 +71,20 @@ netsuite.workflow customworkflow_reassign_generic_dates {
                     ]
                   }
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
               },
             ]
           },
         ]
+        description = ""
       },
     ]
   }
+  description = ""
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
+  
 }

@@ -31,6 +31,7 @@ netsuite.sspapplication webapp_ns_checkout_2_04_0 {
       {
         entryitem = "[/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - Checkout 2.04.0/Reference Checkout/cart.ssp]"
         entrytype = "CART"
+        entryparameter = ""
       },
       {
         entryitem = "[/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - Checkout 2.04.0/Reference Checkout/index.ssp]"
@@ -49,4 +50,5 @@ netsuite.sspapplication webapp_ns_checkout_2_04_0 {
       },
     ]
   }
+  description = ""
 }

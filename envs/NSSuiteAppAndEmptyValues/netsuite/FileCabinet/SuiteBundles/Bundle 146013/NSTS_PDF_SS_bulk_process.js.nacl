@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_146013_NSTS_PDF_SS_bulk_process_js@dsduuuuv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_146013@ds,
   ]
+  description = ""
 }

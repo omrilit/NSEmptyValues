@@ -23,6 +23,18 @@ netsuite.bundleinstallationscript customscript_reference_implementations {
         label = "NS CC Root Folder"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
       {
         scriptid = "custscript_ignite_folders"
@@ -38,6 +50,18 @@ netsuite.bundleinstallationscript customscript_reference_implementations {
         label = "NS CC SC Advanced Site Templates Folders"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
     ]
   }
@@ -53,4 +77,9 @@ netsuite.bundleinstallationscript customscript_reference_implementations {
       },
     ]
   }
+  beforeinstallfunction = ""
+  beforeuninstallfunction = ""
+  beforeupdatefunction = ""
+  description = ""
+  notifyemails = ""
 }

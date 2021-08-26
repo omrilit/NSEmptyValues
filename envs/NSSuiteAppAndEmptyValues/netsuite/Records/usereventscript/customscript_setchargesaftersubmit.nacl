@@ -21,7 +21,13 @@ netsuite.usereventscript customscript_setchargesaftersubmit {
         loglevel = "DEBUG"
         recordtype = "INVOICE"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  notifyemails = ""
 }

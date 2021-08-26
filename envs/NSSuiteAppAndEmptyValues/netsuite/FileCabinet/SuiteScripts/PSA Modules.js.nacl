@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_PSA_Modules_js@dsv {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

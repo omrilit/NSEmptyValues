@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_169224_src_lib_fam_lib_depreciation_js@dsddduu
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_169224_src_lib@dsdd,
   ]
+  description = ""
 }

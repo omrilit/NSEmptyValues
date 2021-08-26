@@ -8,18 +8,22 @@ netsuite.centercategory custcentercategory194 {
       {
         linkid = "REPO_223"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_222"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_221"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_211"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Reports module"

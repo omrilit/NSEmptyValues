@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_Auxilliary_EU_esl_view_FormViewCS_js
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_Auxilliary_EU_esl_view@dsddddd,
   ]
+  description = ""
 }

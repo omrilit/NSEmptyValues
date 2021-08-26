@@ -40,4 +40,18 @@ netsuite.transactioncolumncustomfield custcol_oa_lc_2 {
   searchlevel = "2"
   showhierarchy = false
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

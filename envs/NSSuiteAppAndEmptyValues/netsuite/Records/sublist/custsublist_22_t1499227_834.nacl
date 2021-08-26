@@ -10,4 +10,5 @@ netsuite.sublist custsublist_22_t1499227_834 {
   sublisttype = "ENTITY"
   tab = "ENTITYRELATEDRECORDS"
   vendor = false
+  field = ""
 }

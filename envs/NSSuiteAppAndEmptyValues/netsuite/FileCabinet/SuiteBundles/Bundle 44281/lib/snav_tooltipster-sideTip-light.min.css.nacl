@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_44281_lib_snav_tooltipster_sideTip_light_min_c
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_44281_lib@dsd,
   ]
+  description = ""
 }

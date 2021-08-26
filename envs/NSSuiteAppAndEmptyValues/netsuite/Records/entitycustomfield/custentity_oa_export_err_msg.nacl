@@ -33,4 +33,20 @@ netsuite.entitycustomfield custentity_oa_export_err_msg {
   showhierarchy = false
   showinlist = false
   storevalue = true
+  defaultselection = ""
+  defaultvalue = ""
+  
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
+  subtab = ""
 }

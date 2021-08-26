@@ -54,6 +54,24 @@ netsuite.customrecordtype customrecord_wd_configuration {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_wd_config_website"
@@ -76,6 +94,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         selectrecordtype = "-268"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_wd_config_gl_header"
@@ -96,6 +130,24 @@ netsuite.customrecordtype customrecord_wd_configuration {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_wd_config_mc_header"
@@ -118,6 +170,24 @@ netsuite.customrecordtype customrecord_wd_configuration {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_wd_config_gl_footer"
@@ -138,6 +208,24 @@ netsuite.customrecordtype customrecord_wd_configuration {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_wd_config_mc_footer"
@@ -158,6 +246,24 @@ netsuite.customrecordtype customrecord_wd_configuration {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_wd_config_def_subsidiary"
@@ -180,6 +286,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         selectrecordtype = "-117"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_wd_config_ac_duplicates"
@@ -200,6 +322,24 @@ netsuite.customrecordtype customrecord_wd_configuration {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_wd_config_hs_available"
@@ -221,6 +361,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_gs_records"
@@ -244,6 +401,21 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_fi_available"
@@ -265,6 +437,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_fi_showcell"
@@ -289,6 +478,20 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_mrkting_zone"
@@ -311,6 +514,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_gen_companyinfo"
@@ -332,6 +551,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_gs_available"
@@ -353,6 +589,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_gs_limitresult"
@@ -377,6 +630,20 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_search_category"
@@ -400,6 +667,21 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_qo_available"
@@ -421,6 +703,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.3.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_qo_maxrows"
@@ -445,6 +744,20 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.3.scriptid
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cq_confirmmsg"
@@ -466,6 +779,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.4.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cq_sender"
@@ -489,6 +819,21 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.4.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_internalrecive"
@@ -512,6 +857,21 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.4.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cq_templateemail"
@@ -535,6 +895,21 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.4.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cq_subjectemail"
@@ -556,6 +931,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.4.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cq_available"
@@ -577,6 +969,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.4.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_gralback"
@@ -599,6 +1008,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_fontcolor"
@@ -622,6 +1048,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_linkcolor"
@@ -645,6 +1087,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_linkcoloractive"
@@ -667,6 +1125,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgheadtop"
@@ -689,6 +1164,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_fontheadtopcolor"
@@ -711,6 +1203,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgheadmiddle"
@@ -734,6 +1243,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgnav"
@@ -757,6 +1282,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgnavactive"
@@ -780,6 +1321,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_color1"
@@ -803,6 +1360,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_color2"
@@ -826,6 +1399,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_btndefault"
@@ -849,6 +1438,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_btndefaultborder"
@@ -872,6 +1477,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_btndefaultfont"
@@ -895,6 +1516,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_foinnerlinkscact"
@@ -917,6 +1554,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgfooter"
@@ -940,6 +1594,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgfooterinner"
@@ -963,6 +1633,22 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colorheadusrlink"
@@ -985,6 +1671,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colorheadcart"
@@ -1007,6 +1710,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgformtext"
@@ -1029,6 +1749,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colorformtxtico"
@@ -1051,6 +1788,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgformtextactive"
@@ -1073,6 +1827,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colorformtext"
@@ -1095,6 +1866,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colformtxticoact"
@@ -1117,6 +1905,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgdefformtext"
@@ -1139,6 +1944,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgdefformtextact"
@@ -1161,6 +1983,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_coldefformtxtico"
@@ -1183,6 +2022,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_coldeformtxticoa"
@@ -1205,6 +2061,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colorformdeftext"
@@ -1227,6 +2100,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colheadusrlinkac"
@@ -1249,6 +2139,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colheadcartact"
@@ -1271,6 +2178,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colornav"
@@ -1293,6 +2217,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_btnprimary"
@@ -1315,6 +2256,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_btnprimaryborder"
@@ -1337,6 +2295,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_btnprimaryfont"
@@ -1359,6 +2334,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_btnprimaryactive"
@@ -1381,6 +2373,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_btnprimaryboract"
@@ -1403,6 +2412,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_btnprimaryfontac"
@@ -1425,6 +2451,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_bgimgfooter"
@@ -1446,6 +2489,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_footbotlinkscol"
@@ -1468,6 +2528,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgsocialfooterto"
@@ -1490,6 +2567,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgsocialfooterbo"
@@ -1512,6 +2606,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colfooterundertx"
@@ -1534,6 +2645,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgsocialfooticon"
@@ -1556,6 +2684,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_fooinnerlinkscol"
@@ -1578,6 +2723,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgsocfooticonact"
@@ -1600,6 +2762,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_footbotfontcol"
@@ -1622,6 +2801,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_fobotlinkscolact"
@@ -1644,6 +2840,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_bgfooterbottom"
@@ -1666,6 +2879,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_homemiddlebg"
@@ -1688,6 +2918,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_tabbgactive"
@@ -1710,6 +2957,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_tabcoloractive"
@@ -1732,6 +2996,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_headtxtcolor"
@@ -1754,6 +3035,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_prodhtxtcolor"
@@ -1776,6 +3074,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_socboxheadcolor"
@@ -1798,6 +3113,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_prodlishtxtcolor"
@@ -1820,6 +3152,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_sidebarhtxtcolor"
@@ -1842,6 +3191,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_sldrtitletxtcol"
@@ -1864,6 +3230,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_sldrwordtxtcol"
@@ -1886,6 +3269,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colornavactive"
@@ -1908,6 +3308,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_footheadingcolor"
@@ -1930,6 +3347,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_colorprice"
@@ -1952,6 +3386,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cp_qbbgcolor"
@@ -1974,6 +3425,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.5.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_sm_livechat"
@@ -1995,6 +3463,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.6.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_sm_sharelinks"
@@ -2016,6 +3501,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.6.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_sm_facebook"
@@ -2037,6 +3539,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.6.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_sm_google"
@@ -2058,6 +3577,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.6.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_sm_youtube"
@@ -2079,6 +3615,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.6.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_sm_linkedin"
@@ -2100,6 +3653,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.6.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_sm_pinterest"
@@ -2121,6 +3691,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.6.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_sm_twitter"
@@ -2142,6 +3729,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.6.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_compare_products"
@@ -2165,6 +3769,21 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.7.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_comparep_avilable"
@@ -2186,6 +3805,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.7.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_wl_templateemail"
@@ -2209,6 +3845,21 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.8.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_wl_subjectemail"
@@ -2230,6 +3881,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.8.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_wl_notification"
@@ -2251,6 +3919,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.8.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_wl_sender"
@@ -2274,6 +3959,21 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.8.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_wl_url"
@@ -2295,6 +3995,23 @@ netsuite.customrecordtype customrecord_wd_configuration {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.8.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_wd_config_cq_emailbcc"
@@ -2318,6 +4035,21 @@ netsuite.customrecordtype customrecord_wd_configuration {
         sourcelist = netsuite.customrecordtype.instance.customrecord_wd_configuration.customrecordcustomfields.customrecordcustomfield.21.scriptid
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_wd_configuration.subtabs.subtab.4.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
       },
     ]
   }
@@ -2326,39 +4058,56 @@ netsuite.customrecordtype customrecord_wd_configuration {
       {
         scriptid = "tab_237_t1499227_470"
         tabtitle = "Home page"
+        tabparent = ""
       },
       {
         scriptid = "tab_235_t1499227_470"
         tabtitle = "Global Search"
+        tabparent = ""
       },
       {
         scriptid = "tab_234_t1499227_470"
         tabtitle = "Featured Items"
+        tabparent = ""
       },
       {
         scriptid = "tab_240_t1499227_470"
         tabtitle = "Quick Order"
+        tabparent = ""
       },
       {
         scriptid = "tab_236_t1499227_470"
         tabtitle = "Create a Quote"
+        tabparent = ""
       },
       {
         scriptid = "tab_241_t1499227_470"
         tabtitle = "Colors Preferences"
+        tabparent = ""
       },
       {
         scriptid = "tab_238_t1499227_470"
         tabtitle = "Social Media"
+        tabparent = ""
       },
       {
         scriptid = "tab_242_t1499227_470"
         tabtitle = "Compare Products"
+        tabparent = ""
       },
       {
         scriptid = "tab_239_t1499227_470"
         tabtitle = "Wish List"
+        tabparent = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

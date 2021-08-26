@@ -41,4 +41,17 @@ netsuite.transactioncolumncustomfield custcol_oa_lc_timesheet_date {
   searchlevel = "2"
   showhierarchy = false
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

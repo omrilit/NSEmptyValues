@@ -32,4 +32,18 @@ netsuite.itemcustomfield custitem_nature_of_transaction_codes {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_15_3776644_208.scriptid
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

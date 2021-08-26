@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_48331_src_ui_modules_ptm_cs_toolbars_js@dsdddd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_48331_src_ui_modules@dsddd,
   ]
+  description = ""
 }

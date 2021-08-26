@@ -9,4 +9,5 @@ netsuite.file Templates_Marketing_Templates_Canada_Launch_Invite_041205__Convert
   _parent = [
     netsuite.folder.instance.Templates_Marketing_Templates@ds,
   ]
+  description = ""
 }

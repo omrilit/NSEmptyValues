@@ -32,4 +32,21 @@ netsuite.entitycustomfield custentity2 {
   showinlist = false
   storevalue = true
   subtab = "ENTITYHUMANRESOURCES"
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

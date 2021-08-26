@@ -11,11 +11,13 @@ netsuite.customlist customlist_oa_je_from_time_use_date {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Time Entry Date"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Timesheet Start Date"
+        abbreviation = ""
       },
     ]
   }

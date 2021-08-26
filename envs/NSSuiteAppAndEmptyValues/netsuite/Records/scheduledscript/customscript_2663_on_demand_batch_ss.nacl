@@ -23,6 +23,16 @@ netsuite.scheduledscript customscript_2663_on_demand_batch_ss {
         searchlevel = "2"
         selectrecordtype = "[scriptid=customrecord_2663_file_admin]"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_2663_process"
@@ -39,6 +49,16 @@ netsuite.scheduledscript customscript_2663_on_demand_batch_ss {
         searchlevel = "2"
         selectrecordtype = "[scriptid=customlist_2663_ep_process]"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
       {
         scriptid = "custscript_2663_batch_state"
@@ -53,6 +73,18 @@ netsuite.scheduledscript customscript_2663_on_demand_batch_ss {
         label = "State"
         searchlevel = "2"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
+        
       },
     ]
   }
@@ -68,6 +100,7 @@ netsuite.scheduledscript customscript_2663_on_demand_batch_ss {
           single = {
             startdate = "2014-07-07"
             starttime = "01:00:00Z"
+            
           }
         }
       },
@@ -98,4 +131,6 @@ netsuite.scheduledscript customscript_2663_on_demand_batch_ss {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

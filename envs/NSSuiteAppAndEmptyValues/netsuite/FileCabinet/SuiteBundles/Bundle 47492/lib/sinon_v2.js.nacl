@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_lib_sinon_v2_js@dsdduv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_lib@dsd,
   ]
+  description = ""
 }

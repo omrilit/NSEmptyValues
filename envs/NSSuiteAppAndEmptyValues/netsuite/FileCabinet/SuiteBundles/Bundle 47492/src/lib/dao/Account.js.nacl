@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_src_lib_dao_Account_js@dsddddv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_src_lib_dao@dsddd,
   ]
+  description = ""
 }

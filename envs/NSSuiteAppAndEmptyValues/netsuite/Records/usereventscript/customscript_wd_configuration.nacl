@@ -21,7 +21,13 @@ netsuite.usereventscript customscript_wd_configuration {
         recordtype = netsuite.customrecordtype.instance.customrecord_wd_configuration.scriptid
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

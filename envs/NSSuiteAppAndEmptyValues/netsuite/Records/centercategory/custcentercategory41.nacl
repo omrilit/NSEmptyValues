@@ -9,11 +9,13 @@ netsuite.centercategory custcentercategory41 {
         linkobject = netsuite.centertab.instance.custcentertab37.scriptid
         linktasktype = "CARD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkobject = netsuite.centertab.instance.custcentertab45.scriptid
         linktasktype = "CARD"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

@@ -9,4 +9,5 @@ netsuite.file Templates_E_mail_Templates_Thank_You_Email_Template_doc@dbsdsssv {
   _parent = [
     netsuite.folder.instance.Templates_E_mail_Templates@dbs,
   ]
+  description = ""
 }

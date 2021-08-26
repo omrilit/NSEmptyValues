@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_187035_Grant_SDGU_Access_CS_js@dsdsssv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_187035@ds,
   ]
+  description = ""
 }

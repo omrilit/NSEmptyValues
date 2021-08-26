@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_Commons_Image_ie3986_logo_gif@dsdddd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_Commons_Image@dsddd,
   ]
+  description = ""
 }

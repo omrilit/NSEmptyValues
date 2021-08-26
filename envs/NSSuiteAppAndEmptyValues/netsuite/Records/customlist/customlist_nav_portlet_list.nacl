@@ -10,122 +10,147 @@ netsuite.customlist customlist_nav_portlet_list {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Cash Management"
+        abbreviation = ""
       },
       {
         scriptid = "value_23_t1499227_127"
         isinactive = false
         value = "CFO"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Controller"
+        abbreviation = ""
       },
       {
         scriptid = "value_19_t1499227_127"
         isinactive = false
         value = "Controller Fixed Assets"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Credit To Cash"
+        abbreviation = ""
       },
       {
         scriptid = "value_20_t1499227_127"
         isinactive = false
         value = "Demo Prep"
+        abbreviation = ""
       },
       {
         scriptid = "value_21_t1499227_127"
         isinactive = false
         value = "Demo Support & Prep Tools"
+        abbreviation = ""
       },
       {
         scriptid = "value_16_t1499227_127"
         isinactive = false
         value = "Dunning Links"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Employee"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "Financial Report"
+        abbreviation = ""
       },
       {
         scriptid = "value_22_t1499227_127"
         isinactive = false
         value = "General Accounting"
+        abbreviation = ""
       },
       {
         scriptid = "value_18_t1499227_127"
         isinactive = false
         value = "Letters"
+        abbreviation = ""
       },
       {
         scriptid = "value_25_t1499227_127"
         isinactive = false
         value = "OpenAir"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "Payables Clerk"
+        abbreviation = ""
       },
       {
         scriptid = "value_8_t1499227_127"
         isinactive = false
         value = "Period Close"
+        abbreviation = ""
       },
       {
         scriptid = "value_9_t1499227_127"
         isinactive = false
         value = "Procure To Pay"
+        abbreviation = ""
       },
       {
         scriptid = "value_10_t1499227_127"
         isinactive = false
         value = "Receivables Clerk"
+        abbreviation = ""
       },
       {
         scriptid = "value_17_t1499227_127"
         isinactive = false
         value = "Receivables Management"
+        abbreviation = ""
       },
       {
         scriptid = "value_11_t1499227_127"
         isinactive = false
         value = "Revenue Management"
+        abbreviation = ""
       },
       {
         scriptid = "value_12_t1499227_127"
         isinactive = false
         value = "Sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_13_t1499227_127"
         isinactive = false
         value = "Services"
+        abbreviation = ""
       },
       {
         scriptid = "value_24_t1499227_127"
         isinactive = false
         value = "SuiteCommerce"
+        abbreviation = ""
       },
       {
         scriptid = "value_14_t1499227_127"
         isinactive = false
         value = "System Administration"
+        abbreviation = ""
       },
       {
         scriptid = "value_15_t1499227_127"
         isinactive = false
         value = "Warehouse Manager"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

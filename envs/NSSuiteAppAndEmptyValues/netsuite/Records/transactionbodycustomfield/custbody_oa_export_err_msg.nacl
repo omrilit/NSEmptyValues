@@ -40,4 +40,23 @@ netsuite.transactionbodycustomfield custbody_oa_export_err_msg {
   showhierarchy = false
   showinlist = false
   storevalue = true
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
+  subtab = ""
 }

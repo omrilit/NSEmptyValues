@@ -54,6 +54,24 @@ netsuite.customrecordtype customrecord45 {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord114"
@@ -74,6 +92,24 @@ netsuite.customrecordtype customrecord45 {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord115"
@@ -94,6 +130,24 @@ netsuite.customrecordtype customrecord45 {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord116"
@@ -114,6 +168,24 @@ netsuite.customrecordtype customrecord45 {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
     ]
   }
@@ -122,39 +194,56 @@ netsuite.customrecordtype customrecord45 {
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1103.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1111.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1106.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "ADMINISTRATOR"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1010.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1012.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1058.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1059.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1000.scriptid
+        
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

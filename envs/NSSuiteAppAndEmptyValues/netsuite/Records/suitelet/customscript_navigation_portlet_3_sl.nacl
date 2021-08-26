@@ -21,7 +21,10 @@ netsuite.suitelet customscript_navigation_portlet_3_sl {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "-Navigation_Portlet_3_SL"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
 }

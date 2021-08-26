@@ -38,10 +38,12 @@ netsuite.customrecordtype customrecord_oa_project_rate_card {
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1120_2.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1015_2.scriptid
+        
       },
     ]
   }
@@ -50,7 +52,16 @@ netsuite.customrecordtype customrecord_oa_project_rate_card {
       {
         scriptid = "tab_12_660883_163"
         tabtitle = "OpenAir: Project Rate Card"
+        tabparent = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_169224_src_FAM_DeprScheduleReport_CSV_SS_js@ds
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_169224_src@dsd,
   ]
+  description = ""
 }

@@ -25,6 +25,16 @@ netsuite.portlet customscript_ie_dashboard_tiles_pl {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_ie_auto_refresh"
@@ -40,6 +50,17 @@ netsuite.portlet customscript_ie_dashboard_tiles_pl {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_ie_portlet_identifier"
@@ -56,6 +77,16 @@ netsuite.portlet customscript_ie_dashboard_tiles_pl {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_ie_refresh_interval"
@@ -72,6 +103,16 @@ netsuite.portlet customscript_ie_dashboard_tiles_pl {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_ie_blink_delay"
@@ -87,6 +128,17 @@ netsuite.portlet customscript_ie_dashboard_tiles_pl {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_ie_number_font_size"
@@ -102,6 +154,17 @@ netsuite.portlet customscript_ie_dashboard_tiles_pl {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_ie_detail_line_font_size"
@@ -117,6 +180,17 @@ netsuite.portlet customscript_ie_dashboard_tiles_pl {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -131,7 +205,11 @@ netsuite.portlet customscript_ie_dashboard_tiles_pl {
         loglevel = "DEBUG"
         status = "RELEASED"
         title = "= Dashboard Tiles Portlet"
+        audslctrole = ""
+        runasrole = ""
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

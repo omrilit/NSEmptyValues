@@ -19,7 +19,12 @@ netsuite.suitelet customscript_timesheet_status {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "Timesheet Status Report"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

@@ -9,4 +9,13 @@ netsuite.clientscript customscript_order_cash_validator {
   notifyuser = false
   saverecordfunction = "automation_saveRecord"
   scriptfile = netsuite.file.instance.SuiteBundles_Bundle_74218_Order2Cash_Automation_js@dsduv.path
+  description = ""
+  lineinitfunction = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

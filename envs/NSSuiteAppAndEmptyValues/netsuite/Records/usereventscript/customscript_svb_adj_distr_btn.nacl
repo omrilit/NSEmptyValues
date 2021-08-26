@@ -21,7 +21,13 @@ netsuite.usereventscript customscript_svb_adj_distr_btn {
         recordtype = "VENDORBILL"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

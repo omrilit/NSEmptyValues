@@ -21,6 +21,8 @@ netsuite.usereventscript customscript_oa_po_integration_save {
         recordtype = "PURCHASEORDER"
         runasrole = netsuite.role.instance.customrole1015_2.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy_oa_vb_integration_save"
@@ -34,6 +36,8 @@ netsuite.usereventscript customscript_oa_po_integration_save {
         recordtype = "VENDORBILL"
         runasrole = netsuite.role.instance.customrole1015_2.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -44,4 +48,8 @@ netsuite.usereventscript customscript_oa_po_integration_save {
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforeloadfunction = ""
+  description = ""
+  notifyemails = ""
 }

@@ -23,6 +23,16 @@ netsuite.suitelet customscript_3805_su_dunning_queue_ss2 {
         searchlevel = "2"
         selectrecordtype = "[scriptid=customrecord_suite_l10n_variable]"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
     ]
   }
@@ -40,6 +50,7 @@ netsuite.suitelet customscript_3805_su_dunning_queue_ss2 {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "Dunning Queue (SS2) - Email"
+        
       },
       {
         scriptid = "customdeploy_3805_dunning_queue_pdf"
@@ -53,7 +64,10 @@ netsuite.suitelet customscript_3805_su_dunning_queue_ss2 {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "Dunning Queue (SS2) - PDF"
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

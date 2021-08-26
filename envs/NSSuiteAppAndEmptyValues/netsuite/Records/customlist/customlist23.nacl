@@ -10,22 +10,27 @@ netsuite.customlist customlist23 {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Gathering Complete"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "To Scope Freeze"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "Development Complete"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "QA Complete"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

@@ -818,4 +818,5 @@ netsuite.customlist customlist_fmt_standard_item_fields {
       },
     ]
   }
+  description = ""
 }

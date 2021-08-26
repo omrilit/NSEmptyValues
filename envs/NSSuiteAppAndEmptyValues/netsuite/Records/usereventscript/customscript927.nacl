@@ -23,7 +23,11 @@ netsuite.usereventscript customscript927 {
         loglevel = "DEBUG"
         recordtype = "OPPORTUNITY"
         status = "RELEASED"
+        
+        runasrole = ""
       },
     ]
   }
+  beforesubmitfunction = ""
+  notifyemails = ""
 }

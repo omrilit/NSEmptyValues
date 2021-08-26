@@ -20,6 +20,8 @@ netsuite.suitelet customscript_wd_applications {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "SuiteOffice - Applications"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -33,4 +35,6 @@ netsuite.suitelet customscript_wd_applications {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

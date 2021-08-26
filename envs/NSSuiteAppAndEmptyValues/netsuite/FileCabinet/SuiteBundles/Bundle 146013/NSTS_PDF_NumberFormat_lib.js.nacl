@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_146013_NSTS_PDF_NumberFormat_lib_js@dsduuuv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_146013@ds,
   ]
+  description = ""
 }

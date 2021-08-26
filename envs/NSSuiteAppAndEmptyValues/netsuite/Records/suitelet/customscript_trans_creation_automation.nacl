@@ -29,7 +29,10 @@ netsuite.suitelet customscript_trans_creation_automation {
             },
           ]
         }
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
 }

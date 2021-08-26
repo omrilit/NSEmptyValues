@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_Commons_vat_report_formatter_js@dsdd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_Commons@dsdd,
   ]
+  description = ""
 }

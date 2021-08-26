@@ -19,7 +19,11 @@ netsuite.clientscript customscript_de_grant_de_access_2_cs {
         loglevel = "ERROR"
         recordtype = "EMPLOYEE"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

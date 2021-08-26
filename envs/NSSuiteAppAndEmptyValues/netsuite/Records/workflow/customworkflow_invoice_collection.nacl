@@ -12,6 +12,7 @@ netsuite.workflow customworkflow_invoice_collection {
   runasadmin = true
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowcustomfields = {
     workflowcustomfield = [
@@ -24,6 +25,14 @@ netsuite.workflow customworkflow_invoice_collection {
         label = "Phone Call"
         selectrecordtype = "-22"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
       {
         scriptid = "custworkflow_is_processed"
@@ -33,6 +42,15 @@ netsuite.workflow customworkflow_invoice_collection {
         fieldtype = "CHECKBOX"
         label = "Is Processed"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
+        selectrecordtype = ""
       },
       {
         scriptid = "custworkflow_inv_record"
@@ -43,6 +61,14 @@ netsuite.workflow customworkflow_invoice_collection {
         label = "Current Record"
         selectrecordtype = "-30"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
     ]
   }
@@ -68,7 +94,19 @@ netsuite.workflow customworkflow_invoice_collection {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
             ]
           },
@@ -82,9 +120,19 @@ netsuite.workflow customworkflow_invoice_collection {
                 formula = "({today}-{duedate}) > 30"
                 type = "FORMULA"
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate39"
@@ -109,6 +157,15 @@ netsuite.workflow customworkflow_invoice_collection {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition97"
@@ -125,9 +182,19 @@ netsuite.workflow customworkflow_invoice_collection {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate33"
@@ -152,6 +219,15 @@ netsuite.workflow customworkflow_invoice_collection {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition89"
@@ -168,9 +244,19 @@ netsuite.workflow customworkflow_invoice_collection {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate32"
@@ -208,6 +294,21 @@ Holdings Finance<br>&nbsp;
                   formula = "{entity.email} is not null and INSTR({entity.email},'@netsuite.com',-1)>0"
                   type = "FORMULA"
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
           },
@@ -229,9 +330,19 @@ Holdings Finance<br>&nbsp;
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate38"
@@ -252,7 +363,20 @@ Holdings Finance<br>&nbsp;
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
@@ -264,10 +388,21 @@ Holdings Finance<br>&nbsp;
               tostate = netsuite.workflow.instance.customworkflow_invoice_collection.workflowstates.workflowstate.1.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate37"
@@ -311,6 +446,21 @@ Nelson Holdings Finance
                   formula = "{entity.email} is not null and INSTR({entity.email},'@netsuite.com',-1)>0"
                   type = "FORMULA"
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
           },
@@ -322,10 +472,21 @@ Nelson Holdings Finance
               tostate = netsuite.workflow.instance.customworkflow_invoice_collection.workflowstates.workflowstate.6.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate36"
@@ -360,33 +521,73 @@ Nelson Holdings Finance
                     {
                       targetfield = "STDEVENTTITLE"
                       valueformula = "CONCAT('Follow Up On Overdue Invoice #', {tranid})"
+                      
+                      valuefield = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDEVENTCOMPANY"
                       valuefield = "STDBODYCUSTOMER"
+                      
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDEVENTASSIGNED"
                       valueformula = "{salesrep.id}"
+                      
+                      valuefield = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDEVENTSTARTDATE"
                       valuedate = "DFN5"
+                      valuefield = ""
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDEVENTORGANIZER"
                       valueformula = "{salesrep.id}"
+                      
+                      valuefield = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDEVENTPHONE"
                       valueformula = "{entity.phone}"
+                      
+                      valuefield = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDEVENTOPPORTUNITY"
                       valueformula = "{custworkflow_inv_record.id}"
+                      
+                      valuefield = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                   ]
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
               },
             ]
           },
@@ -408,9 +609,19 @@ Nelson Holdings Finance
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate35"
@@ -429,20 +640,38 @@ Nelson Holdings Finance
                 scripttype = netsuite.workflowactionscript.instance.customscript_hold_cust_credit.scriptid
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
                 parametersettings = {
                   parametersetting = [
                     {
                       targetparameter = netsuite.workflowactionscript.instance.customscript_hold_cust_credit.scriptcustomfields.scriptcustomfield.0.scriptid
                       valuefield = "STDBODYENTITY"
+                      
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                   ]
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                resultfield = ""
+                scheduletimeofday = ""
+                
               },
             ]
           },
         ]
+        description = ""
       },
     ]
   }
+  description = ""
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
 }

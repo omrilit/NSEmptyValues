@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_164289_com_netsuite_prm_src_css_images_grid_ce
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_164289_com_netsuite_prm_src_css_images_grid@dsdvvdddd,
   ]
+  description = ""
 }

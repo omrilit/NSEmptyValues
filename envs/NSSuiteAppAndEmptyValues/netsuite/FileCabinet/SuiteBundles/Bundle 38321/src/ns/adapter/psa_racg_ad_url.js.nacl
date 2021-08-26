@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_38321_src_ns_adapter_psa_racg_ad_url_js@dsdddd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_38321_src_ns_adapter@dsddd,
   ]
+  description = ""
 }

@@ -41,4 +41,22 @@ netsuite.transactionbodycustomfield custbody_cash_register {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_16_3776644_208.scriptid
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

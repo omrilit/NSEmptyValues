@@ -20,7 +20,11 @@ netsuite.suitelet customscript_ie_window_closer_sl {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "= DT Window Closer SL"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

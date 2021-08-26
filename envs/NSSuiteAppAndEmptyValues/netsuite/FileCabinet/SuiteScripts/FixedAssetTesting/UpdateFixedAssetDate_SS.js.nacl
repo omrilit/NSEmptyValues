@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_FixedAssetTesting_UpdateFixedAssetDate_SS_js@dduv {
   _parent = [
     netsuite.folder.instance.SuiteScripts_FixedAssetTesting@d,
   ]
+  description = ""
 }

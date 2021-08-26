@@ -512,6 +512,7 @@ netsuite.entryForm custform_116_t1499227_346 {
                     displayType = "NORMAL"
                     columnBreak = false
                     sameRowAsPrevious = false
+                    label = ""
                   },
                 ]
               },

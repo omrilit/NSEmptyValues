@@ -32,4 +32,18 @@ netsuite.crmcustomfield custevent2 {
   showissuechanges = false
   storevalue = true
   subtab = "CRMMAIN"
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

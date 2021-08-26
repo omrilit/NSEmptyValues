@@ -8,6 +8,7 @@ netsuite.centercategory custcentercategory43 {
       {
         linkid = "LIST_CRMGROUP"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Contact Groups"
@@ -25,6 +26,7 @@ netsuite.centercategory custcentercategory43 {
         linkobject = netsuite.centerlink.instance.custlink_4_t1740134_844.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

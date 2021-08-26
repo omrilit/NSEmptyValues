@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41811_suiteoffice_basic_colorpicker_css_colorp
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41811_suiteoffice_basic_colorpicker_css@dsdudd,
   ]
+  description = ""
 }

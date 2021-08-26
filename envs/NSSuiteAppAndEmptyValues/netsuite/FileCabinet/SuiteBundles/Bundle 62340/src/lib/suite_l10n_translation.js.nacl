@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_lib_suite_l10n_translation_js@dsdddu
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_lib@dsdd,
   ]
+  description = ""
 }

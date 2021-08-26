@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_75223_setUKForm_CS_js@dsduv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_75223@ds,
   ]
+  description = ""
 }

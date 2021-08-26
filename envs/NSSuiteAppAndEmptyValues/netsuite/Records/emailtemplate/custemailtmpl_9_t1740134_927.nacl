@@ -8,4 +8,7 @@ netsuite.emailtemplate custemailtmpl_9_t1740134_927 {
   subject = "Vergangene Fällige Rechnung"
   usesmedia = false
   content = file("netsuite/emailtemplate/custemailtmpl_9_t1740134_927.html")
+  description = ""
+  mediaitem = ""
+  
 }

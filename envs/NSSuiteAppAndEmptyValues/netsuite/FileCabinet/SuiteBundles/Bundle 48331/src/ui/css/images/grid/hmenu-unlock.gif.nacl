@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_48331_src_ui_css_images_grid_hmenu_unlock_gif@
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_48331_src_ui_css_images_grid@dsddddd,
   ]
+  description = ""
 }

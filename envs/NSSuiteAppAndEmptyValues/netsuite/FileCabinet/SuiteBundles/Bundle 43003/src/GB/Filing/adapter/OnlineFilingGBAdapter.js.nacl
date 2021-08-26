@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_GB_Filing_adapter_OnlineFilingGBAdap
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_GB_Filing_adapter@dsdddd,
   ]
+  description = ""
 }

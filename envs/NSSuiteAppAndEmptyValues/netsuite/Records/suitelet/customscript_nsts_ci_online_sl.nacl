@@ -30,6 +30,7 @@ netsuite.suitelet customscript_nsts_ci_online_sl {
             },
           ]
         }
+        
       },
     ]
   }
@@ -46,4 +47,5 @@ netsuite.suitelet customscript_nsts_ci_online_sl {
       },
     ]
   }
+  notifyemails = ""
 }

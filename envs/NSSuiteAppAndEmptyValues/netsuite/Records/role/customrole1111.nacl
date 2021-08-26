@@ -1302,34 +1302,42 @@ netsuite.role customrole1111 {
       {
         permkey = netsuite.customrecordtype.instance.customrecord31.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord2.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord16.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord45.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skill]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_category]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skill_level]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skillset]"
         permlevel = "FULL"
+        
       },
     ]
   }

@@ -33,4 +33,17 @@ netsuite.itemcustomfield custitem_code_of_supply {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_15_3776644_208.scriptid
+  defaultselection = ""
+  defaultvalue = ""
+  
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

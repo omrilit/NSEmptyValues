@@ -25,6 +25,15 @@ netsuite.usereventscript customscript_oa_set_vendor_fields {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_expense_vb_tax"
@@ -40,6 +49,17 @@ netsuite.usereventscript customscript_oa_set_vendor_fields {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -56,7 +76,14 @@ netsuite.usereventscript customscript_oa_set_vendor_fields {
         loglevel = "ERROR"
         recordtype = "VENDOR"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforeloadfunction = ""
+  description = ""
+  notifyemails = ""
 }

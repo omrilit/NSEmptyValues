@@ -40,4 +40,23 @@ netsuite.transactionbodycustomfield custbody_create_oa_project_from_opp {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_157_t1499227_705.scriptid
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

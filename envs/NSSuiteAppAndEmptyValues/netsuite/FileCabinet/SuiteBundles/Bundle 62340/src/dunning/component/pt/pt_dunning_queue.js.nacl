@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_dunning_component_pt_pt_dunning_queu
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_dunning_component_pt@dsdddd,
   ]
+  description = ""
 }

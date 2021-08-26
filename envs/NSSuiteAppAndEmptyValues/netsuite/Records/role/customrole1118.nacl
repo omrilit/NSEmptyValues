@@ -289,46 +289,57 @@ netsuite.role customrole1118 {
       {
         permkey = "[scriptid=customrecord_3805_dunning_config]"
         permlevel = "VIEW"
+        
       },
       {
         permkey = "[scriptid=customrecord_3805_dunning_eval_result]"
         permlevel = "VIEW"
+        
       },
       {
         permkey = "[scriptid=customrecord_3805_dunning_level]"
         permlevel = "VIEW"
+        
       },
       {
         permkey = "[scriptid=customrecord_3805_dunning_eval_rule]"
         permlevel = "VIEW"
+        
       },
       {
         permkey = "[scriptid=customrecord_3805_der_amount]"
         permlevel = "VIEW"
+        
       },
       {
         permkey = "[scriptid=customrecord_3805_dunning_status]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_3805_dunning_substatus]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_3805_dunning_procedure]"
         permlevel = "VIEW"
+        
       },
       {
         permkey = "[scriptid=customrecord_3805_dunning_proc_priority]"
         permlevel = "VIEW"
+        
       },
       {
         permkey = "[scriptid=customrecord_3805_dunning_recipient]"
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_3805_dunning_template]"
         permlevel = "EDIT"
+        
       },
       {
         permkey = "[scriptid=customrecord_ecsl_audit_trail_dtl]"
@@ -343,7 +354,9 @@ netsuite.role customrole1118 {
       {
         permkey = "[scriptid=customrecord_suite_l10n_variable]"
         permlevel = "VIEW"
+        
       },
     ]
   }
+  issuerole = ""
 }

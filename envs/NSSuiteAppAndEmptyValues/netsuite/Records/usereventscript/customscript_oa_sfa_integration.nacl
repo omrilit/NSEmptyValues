@@ -25,6 +25,16 @@ netsuite.usereventscript customscript_oa_sfa_integration {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -41,6 +51,9 @@ netsuite.usereventscript customscript_oa_sfa_integration {
         loglevel = "ERROR"
         recordtype = "CUSTOMER"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy2"
@@ -53,6 +66,9 @@ netsuite.usereventscript customscript_oa_sfa_integration {
         loglevel = "ERROR"
         recordtype = "JOB"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy3"
@@ -65,6 +81,9 @@ netsuite.usereventscript customscript_oa_sfa_integration {
         loglevel = "ERROR"
         recordtype = "LEAD"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
       {
         scriptid = "customdeploy4"
@@ -77,7 +96,14 @@ netsuite.usereventscript customscript_oa_sfa_integration {
         loglevel = "ERROR"
         recordtype = "PROSPECT"
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

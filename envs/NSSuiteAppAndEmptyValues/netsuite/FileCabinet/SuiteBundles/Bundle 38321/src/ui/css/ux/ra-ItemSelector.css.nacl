@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_38321_src_ui_css_ux_ra_ItemSelector_css@dsdddd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_38321_src_ui_css_ux@dsdddd,
   ]
+  description = ""
 }

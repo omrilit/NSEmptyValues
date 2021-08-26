@@ -26,4 +26,5 @@ netsuite.customlist customlist_gus_travel_approval_list {
       },
     ]
   }
+  description = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41797_Nav__Arrow_Forward_png@dsdbssv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41797@ds,
   ]
+  description = ""
 }

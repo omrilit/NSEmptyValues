@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_RR_Start_End_Dates_js@dsssv {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

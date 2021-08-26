@@ -21,7 +21,13 @@ netsuite.usereventscript customscript_oa_features_and_preferences {
         loglevel = "ERROR"
         recordtype = netsuite.customrecordtype.instance.customrecord_oa_features_and_preferences.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforesubmitfunction = ""
+  notifyemails = ""
 }

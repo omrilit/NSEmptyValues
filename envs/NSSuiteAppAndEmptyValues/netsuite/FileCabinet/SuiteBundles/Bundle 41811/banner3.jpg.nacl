@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41811_banner3_jpg@dsdv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41811@ds,
   ]
+  description = ""
 }

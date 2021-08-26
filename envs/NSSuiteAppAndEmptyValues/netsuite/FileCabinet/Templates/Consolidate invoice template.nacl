@@ -6,4 +6,5 @@ netsuite.folder Templates_Consolidate_invoice_template@dss {
   _parent = [
     netsuite.folder.instance.Templates,
   ]
+  description = ""
 }

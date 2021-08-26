@@ -9,4 +9,5 @@ netsuite.file SuiteScripts__Opp_SSO_subtab_js@dbssv {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

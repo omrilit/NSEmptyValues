@@ -8,30 +8,37 @@ netsuite.centercategory custcentercategory52 {
       {
         linkid = "ADMI_COMPANY"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_GENERAL"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_PRINTING"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_NAMING"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_NUMBERING"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_DUPLICATESETUP"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "ADMI_SHIPPING"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

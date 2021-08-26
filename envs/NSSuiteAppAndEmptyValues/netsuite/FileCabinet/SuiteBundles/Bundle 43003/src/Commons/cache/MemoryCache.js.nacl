@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_Commons_cache_MemoryCache_js@dsddddv
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_Commons_cache@dsddd,
   ]
+  description = ""
 }

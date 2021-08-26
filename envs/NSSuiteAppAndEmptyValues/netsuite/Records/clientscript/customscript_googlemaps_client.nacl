@@ -21,7 +21,19 @@ netsuite.clientscript customscript_googlemaps_client {
         isdeployed = true
         recordtype = "CALENDAREVENT"
         status = "RELEASED"
+        audslctrole = ""
+        
+        
       },
     ]
   }
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

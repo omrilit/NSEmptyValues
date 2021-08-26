@@ -19,6 +19,9 @@ netsuite.suitelet customscript_template_generate_pdf {
         loglevel = "DEBUG"
         status = "RELEASED"
         title = "Template HTML Generate PDF"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
@@ -47,4 +50,6 @@ netsuite.suitelet customscript_template_generate_pdf {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

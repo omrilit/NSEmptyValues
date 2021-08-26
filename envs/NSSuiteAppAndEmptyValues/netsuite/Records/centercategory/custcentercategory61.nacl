@@ -8,10 +8,12 @@ netsuite.centercategory custcentercategory61 {
       {
         linkid = "LIST_REPORESULT"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_REPOSCHEDULE"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

@@ -57,6 +57,22 @@ netsuite.customrecordtype customrecord_nsts_ci_setup {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_enable_for"
@@ -89,6 +105,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         selectrecordtype = netsuite.customlist.instance.customlist_nsts_ci_enable_for.scriptid
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_create_online"
@@ -111,6 +141,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_schedule"
@@ -133,6 +179,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_customer_screen"
@@ -155,6 +217,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_include_subcust"
@@ -177,6 +255,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_currency"
@@ -199,6 +293,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_filters_note"
@@ -220,6 +330,23 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = false
         storevalue = false
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_billingaddress"
@@ -242,6 +369,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_location"
@@ -264,6 +407,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_duedate"
@@ -286,6 +445,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_contract"
@@ -308,6 +483,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_project"
@@ -330,6 +521,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_source"
@@ -352,6 +559,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_type"
@@ -372,6 +595,24 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_custom_field1"
@@ -404,6 +645,8 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
               fldfilternotnull = false
               fldfilternull = false
               fldfiltersel = "6|4|8|1|10|28|12"
+              fldcomparefield = ""
+              fldfilterval = ""
             },
             {
               fldfilter = "STDRECORDFIELDTYPE"
@@ -411,9 +654,25 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
               fldfilternotnull = false
               fldfilternull = false
               fldfilterval = "BODY"
+              fldcomparefield = ""
+              fldfiltersel = ""
             },
           ]
         }
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_custom_field2"
@@ -446,6 +705,8 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
               fldfilternotnull = false
               fldfilternull = false
               fldfiltersel = "6|4|8|1|10|28|12"
+              fldcomparefield = ""
+              fldfilterval = ""
             },
             {
               fldfilter = "STDRECORDFIELDTYPE"
@@ -453,9 +714,25 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
               fldfilternotnull = false
               fldfilternull = false
               fldfilterval = "BODY"
+              fldcomparefield = ""
+              fldfiltersel = ""
             },
           ]
         }
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_custom_field2_src"
@@ -480,6 +757,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         sourcefrom = "STDRECORDFIELDLISTRECORD"
         sourcelist = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.customrecordcustomfields.customrecordcustomfield.16.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_custom_field3"
@@ -512,6 +803,8 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
               fldfilternotnull = false
               fldfilternull = false
               fldfiltersel = "6|4|8|1|10|28|12"
+              fldcomparefield = ""
+              fldfilterval = ""
             },
             {
               fldfilter = "STDRECORDFIELDTYPE"
@@ -519,9 +812,25 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
               fldfilternotnull = false
               fldfilternull = false
               fldfilterval = "BODY"
+              fldcomparefield = ""
+              fldfiltersel = ""
             },
           ]
         }
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_custom_field1_id"
@@ -546,6 +855,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         sourcefrom = "STDRECORDFIELDSCRIPTID"
         sourcelist = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.customrecordcustomfields.customrecordcustomfield.15.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_custom_field2_id"
@@ -570,6 +893,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         sourcefrom = "STDRECORDFIELDSCRIPTID"
         sourcelist = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.customrecordcustomfields.customrecordcustomfield.16.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_custom_field3_id"
@@ -594,6 +931,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         sourcefrom = "STDRECORDFIELDSCRIPTID"
         sourcelist = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.customrecordcustomfields.customrecordcustomfield.18.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_custom_field1_type"
@@ -618,6 +969,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         sourcefrom = "STDRECORDFIELDDATATYPENAME"
         sourcelist = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.customrecordcustomfields.customrecordcustomfield.15.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_custom_field2_type"
@@ -642,6 +1007,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         sourcefrom = "STDRECORDFIELDDATATYPENAME"
         sourcelist = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.customrecordcustomfields.customrecordcustomfield.16.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_custom_field3_type"
@@ -666,6 +1045,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         sourcefrom = "STDRECORDFIELDDATATYPENAME"
         sourcelist = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.customrecordcustomfields.customrecordcustomfield.18.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_custom_field1_src"
@@ -690,6 +1083,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         sourcefrom = "STDRECORDFIELDLISTRECORD"
         sourcelist = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.customrecordcustomfields.customrecordcustomfield.15.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_custom_field3_src"
@@ -714,6 +1121,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         sourcefrom = "STDRECORDFIELDLISTRECORD"
         sourcelist = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.customrecordcustomfields.customrecordcustomfield.18.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_search"
@@ -746,9 +1167,25 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
               fldfilternotnull = false
               fldfilternull = false
               fldfiltersel = "-30"
+              fldcomparefield = ""
+              fldfilterval = ""
             },
           ]
         }
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_search_dtl"
@@ -781,9 +1218,25 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
               fldfilternotnull = false
               fldfilternull = false
               fldfiltersel = "-30"
+              fldcomparefield = ""
+              fldfilterval = ""
             },
           ]
         }
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_layout"
@@ -808,6 +1261,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         selectrecordtype = netsuite.customrecordtype.instance.customrecord_nsts_ci_layout.scriptid
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_per_page"
@@ -833,6 +1300,19 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_min_no"
@@ -858,6 +1338,19 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_max_no"
@@ -882,6 +1375,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_as_file_in_folder"
@@ -904,6 +1411,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_send_via_field_note"
@@ -925,6 +1448,23 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = false
         storevalue = false
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_email_attachment"
@@ -947,6 +1487,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_email_sender"
@@ -972,6 +1528,19 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         selectrecordtype = "-4"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_email_template"
@@ -996,6 +1565,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         selectrecordtype = "-120"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_fax_attachment"
@@ -1018,6 +1601,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_fax_sender"
@@ -1042,6 +1641,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         selectrecordtype = "-4"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_fax_template"
@@ -1066,6 +1679,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         selectrecordtype = "-120"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_admin_email"
@@ -1088,6 +1715,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_contact_category"
@@ -1112,6 +1755,20 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         selectrecordtype = "-157"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_update_duedate"
@@ -1134,6 +1791,22 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
     ]
   }
@@ -1155,4 +1828,11 @@ If ‘Selected Customers’ is selected, use the Exclude from Consolidated Invoi
       },
     ]
   }
+  customsegment = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

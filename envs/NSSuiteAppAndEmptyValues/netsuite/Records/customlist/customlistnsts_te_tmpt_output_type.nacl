@@ -10,17 +10,21 @@ netsuite.customlist customlistnsts_te_tmpt_output_type {
         scriptid = "value_1_t1221897_146"
         isinactive = false
         value = "PDF"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1221897_146"
         isinactive = false
         value = "CSV"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1221897_146"
         isinactive = false
         value = "XML"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

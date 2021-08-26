@@ -7,6 +7,12 @@ netsuite.kpiscorecard kpiscorecard_11_t1740134_426 {
     kpi2 = netsuite.savedsearch.instance.customsearch205_2.scriptid
     kpi3 = netsuite.savedsearch.instance.customsearch200.scriptid
     kpi4 = netsuite.savedsearch.instance.customsearch209.scriptid
+    kpi10 = ""
+    kpi5 = ""
+    kpi6 = ""
+    kpi7 = ""
+    kpi8 = ""
+    kpi9 = ""
   }
   audience = {
     allemployees = true
@@ -21,6 +27,8 @@ netsuite.kpiscorecard kpiscorecard_11_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM"
         label = "New Hires"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -28,6 +36,8 @@ netsuite.kpiscorecard kpiscorecard_11_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM2"
         label = "Termed Employees"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -35,6 +45,8 @@ netsuite.kpiscorecard kpiscorecard_11_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM3"
         label = "Total Employees"
+        comparevalueto = ""
+        
       },
       {
         formula = "{2}/{3}*4"
@@ -49,6 +61,8 @@ netsuite.kpiscorecard kpiscorecard_11_t1740134_426 {
         invertcomparison = false
         kpi = "REVENUE"
         label = "Revenue"
+        comparevalueto = ""
+        
       },
       {
         formula = "{5}/{3}"
@@ -63,6 +77,8 @@ netsuite.kpiscorecard kpiscorecard_11_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM4"
         label = "Sq footage"
+        comparevalueto = ""
+        
       },
       {
         formula = "{7}/{3}"
@@ -80,25 +96,34 @@ netsuite.kpiscorecard kpiscorecard_11_t1740134_426 {
         invertcomparison = false
         label = "Q1"
         range = "FIRST_FISCAL_QUARTER_THIS_FISCAL_YEAR"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
         invertcomparison = false
         label = "Q2"
         range = "SECOND_FISCAL_QUARTER_THIS_FISCAL_YEAR"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
         invertcomparison = false
         label = "Q3"
         range = "THIRD_FISCAL_QUARTER_THIS_FISCAL_YEAR"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
         invertcomparison = false
         label = "Q4"
         range = "FOURTH_FISCAL_QUARTER_THIS_FISCAL_YEAR"
+        comparevalueto = ""
+        
       },
     ]
   }
+  description = ""
 }

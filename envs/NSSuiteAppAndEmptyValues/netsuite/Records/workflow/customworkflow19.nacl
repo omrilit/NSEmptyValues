@@ -11,6 +11,7 @@ netsuite.workflow customworkflow19 {
   runasadmin = false
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowstates = {
     workflowstate = [
@@ -20,7 +21,14 @@ netsuite.workflow customworkflow19 {
         name = "State 1"
         positionx = 243
         positiony = 133
+        description = ""
       },
     ]
   }
+  description = ""
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
+  
 }

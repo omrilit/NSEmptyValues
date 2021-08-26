@@ -24,6 +24,16 @@ netsuite.suitelet customscript_oa_sso_expenses {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -39,7 +49,12 @@ netsuite.suitelet customscript_oa_sso_expenses {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "OpenAir: Expenses module deployment"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

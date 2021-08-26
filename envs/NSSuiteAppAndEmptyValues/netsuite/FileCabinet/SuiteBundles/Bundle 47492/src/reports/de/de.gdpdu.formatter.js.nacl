@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_src_reports_de_de_gdpdu_formatter_js@dsd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_src_reports_de@dsddd,
   ]
+  description = ""
 }

@@ -469,27 +469,34 @@ netsuite.role customrole1113 {
       {
         permkey = netsuite.customrecordtype.instance.customrecord31.scriptid
         permlevel = "VIEW"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord2.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skill]"
         permlevel = "CREATE"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_category]"
         permlevel = "CREATE"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skill_level]"
         permlevel = "CREATE"
+        
       },
       {
         permkey = "[scriptid=customrecord_rss_skillset]"
         permlevel = "FULL"
+        
       },
     ]
   }
+  issuerole = ""
 }

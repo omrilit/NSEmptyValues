@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_80303_1437406599869_csv@dsdv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_80303@ds,
   ]
+  description = ""
 }

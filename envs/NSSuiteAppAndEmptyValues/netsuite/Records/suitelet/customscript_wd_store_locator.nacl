@@ -20,7 +20,11 @@ netsuite.suitelet customscript_wd_store_locator {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "[WD][Suitlet] Get Stores"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

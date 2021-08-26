@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_localization_translation_itr_de_DE_j
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_localization_translation@dsddd,
   ]
+  description = ""
 }

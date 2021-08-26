@@ -10,27 +10,33 @@ netsuite.customlist customlist6 {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "Customer Input"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Dev Assigned"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "PS Assigned"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "QA Assigned"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Scrub"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

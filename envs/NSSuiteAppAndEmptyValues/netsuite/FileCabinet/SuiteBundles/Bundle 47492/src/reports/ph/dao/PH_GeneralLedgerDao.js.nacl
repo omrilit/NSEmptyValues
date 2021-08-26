@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_src_reports_ph_dao_PH_GeneralLedgerDao_j
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_src_reports_ph_dao@dsdddd,
   ]
+  description = ""
 }

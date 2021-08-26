@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_38321_src_ui_modules_field_ra_cs_checkbox_js@d
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_38321_src_ui_modules_field@dsdddd,
   ]
+  description = ""
 }

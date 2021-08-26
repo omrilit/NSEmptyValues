@@ -26,4 +26,5 @@ netsuite.customlist customlist_esc_ratings {
       },
     ]
   }
+  description = ""
 }

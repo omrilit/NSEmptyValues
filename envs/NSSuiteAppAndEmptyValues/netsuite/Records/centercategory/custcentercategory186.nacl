@@ -8,14 +8,17 @@ netsuite.centercategory custcentercategory186 {
       {
         linkid = "REPO_131"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_512"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_39"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

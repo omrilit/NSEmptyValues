@@ -24,6 +24,16 @@ netsuite.workflowactionscript customscript_nsts_swva_emailarcontact_ci {
         searchlevel = "2"
         selectrecordtype = "-157"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
       },
     ]
   }
@@ -38,6 +48,8 @@ netsuite.workflowactionscript customscript_nsts_swva_emailarcontact_ci {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_nsts_ci_consolidate_invoice.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        runasrole = ""
       },
     ]
   }
@@ -51,4 +63,8 @@ netsuite.workflowactionscript customscript_nsts_swva_emailarcontact_ci {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
+  returnrecordtype = ""
+  
 }

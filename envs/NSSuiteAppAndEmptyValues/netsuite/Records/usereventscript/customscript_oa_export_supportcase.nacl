@@ -25,6 +25,16 @@ netsuite.usereventscript customscript_oa_export_supportcase {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -42,6 +52,8 @@ netsuite.usereventscript customscript_oa_export_supportcase {
         recordtype = "SUPPORTCASE"
         runasrole = netsuite.role.instance.customrole1015_2.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -52,4 +64,7 @@ netsuite.usereventscript customscript_oa_export_supportcase {
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforeloadfunction = ""
+  notifyemails = ""
 }

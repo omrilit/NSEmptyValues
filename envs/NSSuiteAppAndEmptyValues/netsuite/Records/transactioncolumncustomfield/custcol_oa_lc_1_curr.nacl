@@ -42,4 +42,16 @@ netsuite.transactioncolumncustomfield custcol_oa_lc_1_curr {
   selectrecordtype = "-122"
   showhierarchy = false
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

@@ -18,7 +18,13 @@ netsuite.restlet customscript_oa_ping {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "oa_ping"
+        audslctrole = ""
       },
     ]
   }
+  deletefunction = ""
+  description = ""
+  notifyemails = ""
+  postfunction = ""
+  putfunction = ""
 }

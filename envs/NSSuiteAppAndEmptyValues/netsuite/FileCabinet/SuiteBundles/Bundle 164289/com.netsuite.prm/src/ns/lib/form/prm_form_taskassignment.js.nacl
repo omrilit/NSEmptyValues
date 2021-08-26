@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_164289_com_netsuite_prm_src_ns_lib_form_prm_fo
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_164289_com_netsuite_prm_src_ns_lib_form@dsdvvdddd,
   ]
+  description = ""
 }

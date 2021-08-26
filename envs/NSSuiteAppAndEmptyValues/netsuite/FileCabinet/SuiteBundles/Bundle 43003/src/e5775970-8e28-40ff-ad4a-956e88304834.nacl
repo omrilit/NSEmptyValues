@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_e5775970_8e28_40ff_ad4a_956e88304834
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src@dsd,
   ]
+  description = ""
 }

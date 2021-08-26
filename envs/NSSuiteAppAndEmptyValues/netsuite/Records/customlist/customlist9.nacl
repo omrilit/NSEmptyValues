@@ -10,22 +10,27 @@ netsuite.customlist customlist9 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "1 - 99 Employees"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "100 - 499 Employees"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "500 - 999 Employees"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Greater than 1,000"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

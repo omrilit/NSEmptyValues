@@ -10,22 +10,27 @@ netsuite.customlist customlist41 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "1 - Difficult"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "2 - Somewhat Difficult"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "3 - Somewhat Easy"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "4 - Easy"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

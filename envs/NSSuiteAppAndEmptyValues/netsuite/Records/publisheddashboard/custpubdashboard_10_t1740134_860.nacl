@@ -125,6 +125,23 @@ netsuite.publisheddashboard custpubdashboard_10_t1740134_860 {
               charttype = "AREA"
               hierarchylevel = "3"
               isminimized = false
+              color = ""
+              
+              
+              comparedranges = ""
+              
+              custom = ""
+              customsnapshot = ""
+              
+              
+              isgraph = ""
+              
+              
+              orderby = ""
+              orderdesc = ""
+              
+              
+              
             },
           ]
         }
@@ -141,6 +158,23 @@ netsuite.publisheddashboard custpubdashboard_10_t1740134_860 {
               charttype = "AREA"
               hierarchylevel = "3"
               isminimized = false
+              color = ""
+              
+              
+              comparedranges = ""
+              
+              custom = ""
+              customsnapshot = ""
+              
+              
+              isgraph = ""
+              
+              
+              orderby = ""
+              orderdesc = ""
+              
+              
+              
             },
             {
               backgroundtype = "GLOBAL_BACKGROUND"
@@ -148,6 +182,23 @@ netsuite.publisheddashboard custpubdashboard_10_t1740134_860 {
               charttype = "AREA"
               hierarchylevel = "3"
               isminimized = false
+              color = ""
+              
+              
+              comparedranges = ""
+              
+              custom = ""
+              customsnapshot = ""
+              
+              
+              isgraph = ""
+              
+              
+              orderby = ""
+              orderdesc = ""
+              
+              
+              
             },
           ]
         }

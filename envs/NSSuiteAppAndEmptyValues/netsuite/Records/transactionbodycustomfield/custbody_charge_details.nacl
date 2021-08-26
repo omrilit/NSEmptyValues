@@ -42,4 +42,21 @@ netsuite.transactionbodycustomfield custbody_charge_details {
   showinlist = false
   storevalue = true
   subtab = "TRANSACTIONBILLING"
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_169224_src_adapter_fam_adapter_redirect_js@dsd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_169224_src_adapter@dsdd,
   ]
+  description = ""
 }

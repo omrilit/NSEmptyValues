@@ -61,6 +61,20 @@ netsuite.customrecordtype customrecord_nsts_ci_task {
         selectrecordtype = netsuite.customlist.instance.customlist_nsts_ci_task_type.scriptid
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_initiated_by"
@@ -93,6 +107,20 @@ When CI is generated via scheduled script, this is empty.
         selectrecordtype = "-4"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_task_start"
@@ -115,6 +143,22 @@ When CI is generated via scheduled script, this is empty.
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_task_ended"
@@ -137,6 +181,22 @@ When CI is generated via scheduled script, this is empty.
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_task_status"
@@ -161,6 +221,20 @@ When CI is generated via scheduled script, this is empty.
         selectrecordtype = netsuite.customlist.instance.customlist_nsts_ci_task_status.scriptid
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_error_details"
@@ -183,6 +257,22 @@ When CI is generated via scheduled script, this is empty.
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_records"
@@ -205,6 +295,22 @@ When CI is generated via scheduled script, this is empty.
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_records_created"
@@ -227,6 +333,22 @@ When CI is generated via scheduled script, this is empty.
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_customers"
@@ -251,6 +373,20 @@ When CI is generated via scheduled script, this is empty.
         selectrecordtype = "-2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_numbers"
@@ -275,6 +411,20 @@ When CI is generated via scheduled script, this is empty.
         selectrecordtype = netsuite.customrecordtype.instance.customrecord_nsts_ci_consolidate_invoice.scriptid
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
     ]
   }
@@ -283,6 +433,7 @@ When CI is generated via scheduled script, this is empty.
       {
         permittedlevel = "FULL"
         permittedrole = "ADMINISTRATOR"
+        
       },
     ]
   }
@@ -291,6 +442,7 @@ When CI is generated via scheduled script, this is empty.
       {
         linkcategory = "BASICLISTSCUSTOM"
         linktasktype = "LIST"
+        linklabel = ""
       },
     ]
   }
@@ -299,7 +451,13 @@ When CI is generated via scheduled script, this is empty.
       {
         scriptid = "tab_11_4453644_851"
         tabtitle = "CI Log"
+        tabparent = ""
       },
     ]
   }
+  customsegment = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingsuffix = ""
 }

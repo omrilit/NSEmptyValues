@@ -24,6 +24,17 @@ netsuite.usereventscript customscript_oa_cantax_override {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -41,6 +52,8 @@ netsuite.usereventscript customscript_oa_cantax_override {
         recordtype = "EXPENSEREPORT"
         runasrole = netsuite.role.instance.customrole1015_2.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
       {
         scriptid = "customdeploy2"
@@ -54,6 +67,8 @@ netsuite.usereventscript customscript_oa_cantax_override {
         recordtype = "VENDORBILL"
         runasrole = netsuite.role.instance.customrole1015_2.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -64,4 +79,7 @@ netsuite.usereventscript customscript_oa_cantax_override {
       },
     ]
   }
+  aftersubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

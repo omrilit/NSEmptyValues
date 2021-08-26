@@ -198,14 +198,17 @@ netsuite.role customrole1009 {
       {
         permkey = netsuite.customrecordtype.instance.customrecord31.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord2.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord16.scriptid
         permlevel = "EDIT"
+        
       },
     ]
   }

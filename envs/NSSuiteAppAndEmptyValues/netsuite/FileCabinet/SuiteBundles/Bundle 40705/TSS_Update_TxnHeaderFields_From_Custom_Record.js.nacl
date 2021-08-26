@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_40705_TSS_Update_TxnHeaderFields_From_Custom_R
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_40705@ds,
   ]
+  description = ""
 }

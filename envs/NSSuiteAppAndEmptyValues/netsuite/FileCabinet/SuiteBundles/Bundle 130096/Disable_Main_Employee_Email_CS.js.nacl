@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_130096_Disable_Main_Employee_Email_CS_js@dsduu
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_130096@ds,
   ]
+  description = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_src_reports_my_crgrpt_my_gaf_js@dsddddvv
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_src_reports_my@dsddd,
   ]
+  description = ""
 }

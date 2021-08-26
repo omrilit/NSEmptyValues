@@ -23,7 +23,11 @@ netsuite.usereventscript customscript_wd_customer_code {
         recordtype = "CUSTOMER"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

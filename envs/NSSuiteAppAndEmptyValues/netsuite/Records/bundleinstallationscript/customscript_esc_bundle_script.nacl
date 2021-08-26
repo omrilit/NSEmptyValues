@@ -15,7 +15,13 @@ netsuite.bundleinstallationscript customscript_esc_bundle_script {
         loglevel = "DEBUG"
         status = "RELEASED"
         title = "Enhanced Sales Center Bundle Script"
+        runasrole = ""
       },
     ]
   }
+  afterinstallfunction = ""
+  afterupdatefunction = ""
+  beforeuninstallfunction = ""
+  description = ""
+  notifyemails = ""
 }

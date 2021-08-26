@@ -33,4 +33,12 @@ netsuite.customrecordtype customrecord_oa_credit_charge_type {
   showowner = false
   showownerallowchange = false
   showowneronlist = false
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

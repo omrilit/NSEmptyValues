@@ -24,10 +24,15 @@ netsuite.suitelet customscript_fmt_data_wizard_sl {
           link = [
             {
               linkcategory = "BASICSETUPCUSTOM"
+              linklabel = ""
             },
           ]
         }
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

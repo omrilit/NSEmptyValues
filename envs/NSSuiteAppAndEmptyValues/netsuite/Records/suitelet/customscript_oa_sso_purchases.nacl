@@ -24,6 +24,16 @@ netsuite.suitelet customscript_oa_sso_purchases {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -39,7 +49,12 @@ netsuite.suitelet customscript_oa_sso_purchases {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "OpenAir: Purchases module deployment"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

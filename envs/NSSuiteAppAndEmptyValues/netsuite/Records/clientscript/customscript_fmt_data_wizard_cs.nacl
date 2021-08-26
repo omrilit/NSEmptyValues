@@ -8,4 +8,14 @@ netsuite.clientscript customscript_fmt_data_wizard_cs {
   notifyuser = false
   saverecordfunction = "dataWizard_SaveRecord"
   scriptfile = netsuite.file.instance.SuiteBundles_Bundle_93203_dataWizard_CS_js@dsduv.path
+  description = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

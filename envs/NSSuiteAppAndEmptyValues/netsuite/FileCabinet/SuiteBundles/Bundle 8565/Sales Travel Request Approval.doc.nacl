@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_8565_Sales_Travel_Request_Approval_doc@dsdsssv
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_8565@ds,
   ]
+  description = ""
 }

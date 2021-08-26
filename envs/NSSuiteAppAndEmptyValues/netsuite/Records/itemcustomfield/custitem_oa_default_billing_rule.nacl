@@ -33,4 +33,17 @@ netsuite.itemcustomfield custitem_oa_default_billing_rule {
   showinlist = false
   storevalue = true
   subtab = "ITEMMAIN"
+  defaultvalue = ""
+  description = ""
+  
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

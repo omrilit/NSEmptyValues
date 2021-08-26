@@ -9,4 +9,5 @@ netsuite.file Templates_Contract_Templates_Statement_of_Work_doc@dsdssv {
   _parent = [
     netsuite.folder.instance.Templates_Contract_Templates@ds,
   ]
+  description = ""
 }

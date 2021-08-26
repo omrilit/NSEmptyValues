@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41812_SuiteOffice___Install_Bundle_js@dsdsbssv
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41812@ds,
   ]
+  description = ""
 }

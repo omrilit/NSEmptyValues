@@ -8,19 +8,23 @@ netsuite.centercategory custcentercategory56 {
       {
         linkid = "REPO_193"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_188"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_246"
         shortlist = false
+        linklabel = ""
       },
       {
         linkobject = netsuite.centerlink.instance.custlink_9_t1740134_626.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "View All Reports"

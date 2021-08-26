@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_169224_src_ss_fam_ss_splitassets_js@dsddduuv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_169224_src_ss@dsdd,
   ]
+  description = ""
 }

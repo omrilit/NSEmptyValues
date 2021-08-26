@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_67350_src_spa_ui_apm_spa_cs_main_js@dsdddduuuv
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src_spa_ui@dsddd,
   ]
+  description = ""
 }

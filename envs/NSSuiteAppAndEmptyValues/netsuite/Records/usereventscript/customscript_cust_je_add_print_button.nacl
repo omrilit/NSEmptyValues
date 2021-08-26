@@ -21,7 +21,13 @@ netsuite.usereventscript customscript_cust_je_add_print_button {
         recordtype = "JOURNALENTRY"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  aftersubmitfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

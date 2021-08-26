@@ -8,6 +8,7 @@ netsuite.centercategory custcentercategory83 {
       {
         linkid = "REPO_CUST_PAGE"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

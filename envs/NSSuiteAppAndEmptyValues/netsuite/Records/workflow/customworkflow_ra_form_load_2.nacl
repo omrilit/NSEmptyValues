@@ -13,6 +13,7 @@ netsuite.workflow customworkflow_ra_form_load_2 {
   runasadmin = true
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowcustomfields = {
     workflowcustomfield = [
@@ -24,6 +25,15 @@ netsuite.workflow customworkflow_ra_form_load_2 {
         fieldtype = "TEXT"
         label = "RA Preference (2)"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
+        selectrecordtype = ""
       },
     ]
   }
@@ -47,7 +57,13 @@ netsuite.workflow customworkflow_ra_form_load_2 {
                 scripttype = "[scriptid=customscript_ra_wa_checkrapreference]"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
               },
             ]
           },
@@ -69,6 +85,15 @@ netsuite.workflow customworkflow_ra_form_load_2 {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition224"
@@ -85,9 +110,19 @@ netsuite.workflow customworkflow_ra_form_load_2 {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate78"
@@ -107,7 +142,12 @@ netsuite.workflow customworkflow_ra_form_load_2 {
                 issublistfield = false
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
             ]
             setdisplaylabelaction = [
@@ -119,7 +159,12 @@ netsuite.workflow customworkflow_ra_form_load_2 {
                 issublistfield = false
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
             ]
             setfieldmandatoryaction = [
@@ -131,7 +176,12 @@ netsuite.workflow customworkflow_ra_form_load_2 {
                 issublistfield = false
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
             ]
           },
@@ -163,6 +213,17 @@ netsuite.workflow customworkflow_ra_form_load_2 {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction216"
@@ -184,6 +245,17 @@ netsuite.workflow customworkflow_ra_form_load_2 {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction217"
@@ -210,6 +282,17 @@ netsuite.workflow customworkflow_ra_form_load_2 {
                     ]
                   }
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
             ]
           },
@@ -230,6 +313,15 @@ netsuite.workflow customworkflow_ra_form_load_2 {
                   formula = "nlapiLookupField('entity',nvl(nullIfEmpty(nlapiGetFieldValue('allocationresource')),-1),'type',false)=='Employee' && !isValEmpty(nlapiLookupField('employee',nvl(nullIfEmpty(nlapiGetFieldValue('allocationresource')),-1),'supervisor',false))"
                   type = "FORMULA"
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valueformula = ""
+                valueselect = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction222"
@@ -247,10 +339,21 @@ isValEmpty(nlapiLookupField('employee',nvl(nullIfEmpty(nlapiGetFieldValue('alloc
 '''
                   type = "FORMULA"
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
         ]
+        description = ""
       },
       {
         scriptid = "workflowstate77"
@@ -258,7 +361,12 @@ isValEmpty(nlapiLookupField('employee',nvl(nullIfEmpty(nlapiGetFieldValue('alloc
         name = "State 3: Exit Form Load"
         positionx = 203
         positiony = 233
+        description = ""
       },
     ]
   }
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
 }

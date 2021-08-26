@@ -22,7 +22,12 @@ netsuite.usereventscript customscript_reassign_generics_employees {
         recordtype = netsuite.customrecordtype.instance.customrecord_reassign_generic.scriptid
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
 }

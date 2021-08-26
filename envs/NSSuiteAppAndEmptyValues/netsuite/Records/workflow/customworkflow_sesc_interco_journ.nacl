@@ -12,6 +12,7 @@ netsuite.workflow customworkflow_sesc_interco_journ {
   runasadmin = true
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowcustomfields = {
     workflowcustomfield = [
@@ -25,6 +26,13 @@ netsuite.workflow customworkflow_sesc_interco_journ {
         label = "Approver Role"
         selectrecordtype = "-118"
         storevalue = true
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
       {
         scriptid = "custworkflow_sesc_cfo"
@@ -36,6 +44,13 @@ netsuite.workflow customworkflow_sesc_interco_journ {
         label = "Name of CFO"
         selectrecordtype = "-4"
         storevalue = true
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
     ]
   }
@@ -69,6 +84,21 @@ netsuite.workflow customworkflow_sesc_interco_journ {
                   formula = "{custworkflow_sesc_cfo.id} is not null and INSTR({custworkflow_sesc_cfo.email}, '@netsuite.com', -1) > 0"
                   type = "FORMULA"
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
           },
@@ -85,6 +115,9 @@ netsuite.workflow customworkflow_sesc_interco_journ {
                   formula = "{custworkflow_sesc_approver.id}={nlrole}"
                   type = "FORMULA"
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
               {
                 scriptid = "workflowaction58"
@@ -96,6 +129,9 @@ netsuite.workflow customworkflow_sesc_interco_journ {
                   formula = "{custworkflow_sesc_approver.id}={nlrole}"
                   type = "FORMULA"
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
             ]
           },
@@ -108,7 +144,16 @@ netsuite.workflow customworkflow_sesc_interco_journ {
               tostate = netsuite.workflow.instance.customworkflow_sesc_interco_journ.workflowstates.workflowstate.1.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition60"
@@ -116,10 +161,20 @@ netsuite.workflow customworkflow_sesc_interco_journ {
               tostate = netsuite.workflow.instance.customworkflow_sesc_interco_journ.workflowstates.workflowstate.2.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate22"
@@ -140,11 +195,25 @@ netsuite.workflow customworkflow_sesc_interco_journ {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valueselect = ""
+                valuetext = ""
               },
             ]
           },
         ]
+        description = ""
       },
       {
         scriptid = "workflowstate23"
@@ -152,7 +221,13 @@ netsuite.workflow customworkflow_sesc_interco_journ {
         name = "Exit"
         positionx = 203
         positiony = 233
+        description = ""
       },
     ]
   }
+  description = ""
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
 }

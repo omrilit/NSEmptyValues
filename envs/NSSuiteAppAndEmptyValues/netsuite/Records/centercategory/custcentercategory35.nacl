@@ -8,38 +8,47 @@ netsuite.centercategory custcentercategory35 {
       {
         linkid = "SUPT_MENUOPTIONS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "SUPT_CENTER_ROLE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "SUPT_POLICYFORM"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "SUPT_BUG_SUPPORT"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "SUPT_BUG_SUPPORT_POPUP"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "SUPT_BUG_BILLING"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "EXTL_9"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "EXTL_10"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "SUPT_ALLOW_LOGIN"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

@@ -10,27 +10,33 @@ netsuite.customlist customlist36 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "1 - 49"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "50 - 99"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "100 - 249"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "250 - 499"
+        abbreviation = ""
       },
       {
         scriptid = "value_8_t1499227_127"
         isinactive = false
         value = "500 +"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

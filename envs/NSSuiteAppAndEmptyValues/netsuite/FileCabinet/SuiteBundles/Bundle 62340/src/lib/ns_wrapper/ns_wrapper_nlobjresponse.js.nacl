@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_lib_ns_wrapper_ns_wrapper_nlobjrespo
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_lib_ns_wrapper@dsdddu,
   ]
+  description = ""
 }

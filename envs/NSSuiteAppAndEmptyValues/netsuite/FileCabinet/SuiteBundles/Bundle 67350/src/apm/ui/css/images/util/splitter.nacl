@@ -6,4 +6,5 @@ netsuite.folder SuiteBundles_Bundle_67350_src_apm_ui_css_images_util_splitter@ds
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src_apm_ui_css_images_util@dsdddddd,
   ]
+  description = ""
 }

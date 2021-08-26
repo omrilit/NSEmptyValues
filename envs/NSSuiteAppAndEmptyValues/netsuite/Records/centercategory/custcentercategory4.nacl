@@ -9,6 +9,7 @@ netsuite.centercategory custcentercategory4 {
         linkobject = netsuite.customrecordtype.instance.customrecord31.scriptid
         linktasktype = "LIST"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

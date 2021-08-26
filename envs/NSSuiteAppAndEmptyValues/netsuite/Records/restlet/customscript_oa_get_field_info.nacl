@@ -18,7 +18,13 @@ netsuite.restlet customscript_oa_get_field_info {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "oa_get_field_info"
+        audslctrole = ""
       },
     ]
   }
+  deletefunction = ""
+  description = ""
+  getfunction = ""
+  notifyemails = ""
+  putfunction = ""
 }

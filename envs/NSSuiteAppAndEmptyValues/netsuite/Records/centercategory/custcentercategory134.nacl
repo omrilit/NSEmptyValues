@@ -8,22 +8,27 @@ netsuite.centercategory custcentercategory134 {
       {
         linkid = "EDIT_TRAN_VENDBILL"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_VENDBILLAPPRV"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "TRAN_VENDPYMTS"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_286"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "REPO_284"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

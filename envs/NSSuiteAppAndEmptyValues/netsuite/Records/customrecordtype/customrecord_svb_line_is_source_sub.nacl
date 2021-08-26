@@ -57,6 +57,21 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         selectrecordtype = netsuite.customrecordtype.instance.customrecord_svb_bill_dist_sched.scriptid
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_is_intercompany"
@@ -79,6 +94,22 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         sourcefrom = netsuite.customrecordtype.instance.customrecord_svb_bill_dist_sched.customrecordcustomfields.customrecordcustomfield.0.scriptid
         sourcelist = netsuite.customrecordtype.instance.customrecord_svb_line_is_source_sub.customrecordcustomfields.customrecordcustomfield.0.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_subsidiary"
@@ -101,6 +132,22 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         selectrecordtype = "-117"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_department"
@@ -123,6 +170,22 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         selectrecordtype = "-102"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_class"
@@ -145,6 +208,22 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         selectrecordtype = "-101"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_location"
@@ -167,6 +246,22 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         selectrecordtype = "-103"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_intercomp_account"
@@ -197,9 +292,28 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
               fldfiltercomparetype = "EQ"
               fldfilternotnull = false
               fldfilternull = false
+              fldcomparefield = ""
+              fldfiltersel = ""
+              fldfilterval = ""
             },
           ]
         }
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_account"
@@ -222,6 +336,22 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         selectrecordtype = "-112"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_allocation_weight"
@@ -242,6 +372,24 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_intercomp_customer"
@@ -264,6 +412,22 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         selectrecordtype = "-2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_intercomp_vendor"
@@ -286,6 +450,22 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         selectrecordtype = "-3"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_intercomp_ap_account"
@@ -317,9 +497,27 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
               fldfiltercomparetype = "EQ"
               fldfilternotnull = false
               fldfilternull = false
+              fldcomparefield = ""
+              fldfiltersel = ""
+              fldfilterval = ""
             },
           ]
         }
+        defaultselection = ""
+        defaultvalue = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_is_source_sub"
@@ -340,6 +538,24 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_line_use_src_acct"
@@ -362,6 +578,22 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         sourcefrom = netsuite.customrecordtype.instance.customrecord_svb_bill_dist_sched.customrecordcustomfields.customrecordcustomfield.3.scriptid
         sourcelist = netsuite.customrecordtype.instance.customrecord_svb_line_is_source_sub.customrecordcustomfields.customrecordcustomfield.0.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_source_subs_from_parent"
@@ -386,6 +618,20 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
         sourcefrom = netsuite.customrecordtype.instance.customrecord_svb_bill_dist_sched.customrecordcustomfields.customrecordcustomfield.2.scriptid
         sourcelist = netsuite.customrecordtype.instance.customrecord_svb_line_is_source_sub.customrecordcustomfields.customrecordcustomfield.0.scriptid
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        subtab = ""
       },
     ]
   }
@@ -394,11 +640,21 @@ netsuite.customrecordtype customrecord_svb_line_is_source_sub {
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1101.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1036.scriptid
+        
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

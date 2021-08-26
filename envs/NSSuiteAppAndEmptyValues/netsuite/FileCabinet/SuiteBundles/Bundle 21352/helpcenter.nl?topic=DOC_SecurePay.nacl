@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_21352_helpcenter_nl_topic_DOC_SecurePay@dsdva_
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_21352@ds,
   ]
+  description = ""
 }

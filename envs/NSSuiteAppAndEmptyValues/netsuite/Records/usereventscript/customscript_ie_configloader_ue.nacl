@@ -22,7 +22,12 @@ netsuite.usereventscript customscript_ie_configloader_ue {
         recordtype = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.scriptid
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

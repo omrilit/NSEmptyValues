@@ -10,1467 +10,1761 @@ netsuite.customlist customlist_nav_shortcut_name {
         scriptid = "value_135_t1499227_127"
         isinactive = false
         value = "A/P Aging"
+        abbreviation = ""
       },
       {
         scriptid = "value_108_t1499227_127"
         isinactive = false
         value = "A/P Aging Report"
+        abbreviation = ""
       },
       {
         scriptid = "value_111_t1499227_127"
         isinactive = false
         value = "A/P Bill Pay History"
+        abbreviation = ""
       },
       {
         scriptid = "value_110_t1499227_127"
         isinactive = false
         value = "A/P Register"
+        abbreviation = ""
       },
       {
         scriptid = "value_51_t1499227_127"
         isinactive = false
         value = "A/R Aging"
+        abbreviation = ""
       },
       {
         scriptid = "value_123_t1499227_127"
         isinactive = false
         value = "A/R Aging Report"
+        abbreviation = ""
       },
       {
         scriptid = "value_249_t1499227_127"
         isinactive = false
         value = "A/R Register"
+        abbreviation = ""
       },
       {
         scriptid = "value_121_t1499227_127"
         isinactive = false
         value = "A/R Register"
+        abbreviation = ""
       },
       {
         scriptid = "value_145_t1499227_127"
         isinactive = false
         value = "Accounting Periods"
+        abbreviation = ""
       },
       {
         scriptid = "value_213_t1499227_127"
         isinactive = false
         value = "Adjust Inventory"
+        abbreviation = ""
       },
       {
         scriptid = "value_305_t1499227_127"
         isinactive = false
         value = "Administration Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_191_t1499227_127"
         isinactive = false
         value = "Allocated vs Actual"
+        abbreviation = ""
       },
       {
         scriptid = "value_29_t1499227_127"
         isinactive = false
         value = "Allocation"
+        abbreviation = ""
       },
       {
         scriptid = "value_34_t1499227_127"
         isinactive = false
         value = "Allocation Schedule"
+        abbreviation = ""
       },
       {
         scriptid = "value_30_t1499227_127"
         isinactive = false
         value = "Amortization"
+        abbreviation = ""
       },
       {
         scriptid = "value_271_t1499227_127"
         isinactive = false
         value = "Amortization JEs"
+        abbreviation = ""
       },
       {
         scriptid = "value_35_t1499227_127"
         isinactive = false
         value = "Amortization Schedule"
+        abbreviation = ""
       },
       {
         scriptid = "value_152_t1499227_127"
         isinactive = false
         value = "Approve Bills"
+        abbreviation = ""
       },
       {
         scriptid = "value_240_t1499227_127"
         isinactive = false
         value = "Approve EFT"
+        abbreviation = ""
       },
       {
         scriptid = "value_60_t1499227_127"
         isinactive = false
         value = "Approve PR"
+        abbreviation = ""
       },
       {
         scriptid = "value_58_t1499227_127"
         isinactive = false
         value = "Approve Time"
+        abbreviation = ""
       },
       {
         scriptid = "value_54_t1499227_127"
         isinactive = false
         value = "Apprv Expense Rpt"
+        abbreviation = ""
       },
       {
         scriptid = "val_256329_t1699173_940"
         isinactive = false
         value = "As Charged Project"
+        abbreviation = ""
       },
       {
         scriptid = "value_139_t1499227_127"
         isinactive = false
         value = "Ask a Question"
+        abbreviation = ""
       },
       {
         scriptid = "value_119_t1499227_127"
         isinactive = false
         value = "Asset Depreciation"
+        abbreviation = ""
       },
       {
         scriptid = "value_256_t1499227_127"
         isinactive = false
         value = "Asset Disposal"
+        abbreviation = ""
       },
       {
         scriptid = "value_118_t1499227_127"
         isinactive = false
         value = "Asset Proposal"
+        abbreviation = ""
       },
       {
         scriptid = "value_117_t1499227_127"
         isinactive = false
         value = "Asset Types"
+        abbreviation = ""
       },
       {
         scriptid = "value_116_t1499227_127"
         isinactive = false
         value = "Assets"
+        abbreviation = ""
       },
       {
         scriptid = "value_66_t1499227_127"
         isinactive = false
         value = "Authorized Comsn"
+        abbreviation = ""
       },
       {
         scriptid = "value_282_t1499227_127"
         isinactive = false
         value = "Badges"
+        abbreviation = ""
       },
       {
         scriptid = "value_93_t1499227_127"
         isinactive = false
         value = "Balance Sheet"
+        abbreviation = ""
       },
       {
         scriptid = "value_100_t1499227_127"
         isinactive = false
         value = "Bank Reconcile"
+        abbreviation = ""
       },
       {
         scriptid = "value_103_t1499227_127"
         isinactive = false
         value = "Bank Register"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_t1499227_127"
         isinactive = false
         value = "Bank Statements"
+        abbreviation = ""
       },
       {
         scriptid = "value_129_t1499227_127"
         isinactive = false
         value = "Bill Purchase Orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_42_t1499227_127"
         isinactive = false
         value = "Bill Sales Order"
+        abbreviation = ""
       },
       {
         scriptid = "val_237972_t1499227_740"
         isinactive = false
         value = "Billing & Revenue Summary"
+        abbreviation = ""
       },
       {
         scriptid = "value_96_t1499227_127"
         isinactive = false
         value = "Billing and Revenue"
+        abbreviation = ""
       },
       {
         scriptid = "value_45_t1499227_127"
         isinactive = false
         value = "Billing Question"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "Budget Exch Rates"
+        abbreviation = ""
       },
       {
         scriptid = "value_17_t1499227_127"
         isinactive = false
         value = "Budget Income"
+        abbreviation = ""
       },
       {
         scriptid = "value_225_t1499227_127"
         isinactive = false
         value = "Budget Income Stmt"
+        abbreviation = ""
       },
       {
         scriptid = "value_272_t1499227_127"
         isinactive = false
         value = "Budget Var Report"
+        abbreviation = ""
       },
       {
         scriptid = "value_16_t1499227_127"
         isinactive = false
         value = "Budget vs Actual"
+        abbreviation = ""
       },
       {
         scriptid = "value_101_t1499227_127"
         isinactive = false
         value = "Budgets"
+        abbreviation = ""
       },
       {
         scriptid = "value_64_t1499227_127"
         isinactive = false
         value = "Calendar"
+        abbreviation = ""
       },
       {
         scriptid = "value_291_t1499227_127"
         isinactive = false
         value = "Campaign Response - B2B / B2C"
+        abbreviation = ""
       },
       {
         scriptid = "value_287_t1499227_127"
         isinactive = false
         value = "Campaigns"
+        abbreviation = ""
       },
       {
         scriptid = "value_158_t1499227_127"
         isinactive = false
         value = "Cases"
+        abbreviation = ""
       },
       {
         scriptid = "value_267_t1499227_127"
         isinactive = false
         value = "Cash Flow Statement"
+        abbreviation = ""
       },
       {
         scriptid = "value_95_t1499227_127"
         isinactive = false
         value = "Cash Flows"
+        abbreviation = ""
       },
       {
         scriptid = "value_173_t1499227_127"
         isinactive = false
         value = "Cash Sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_14_t1499227_127"
         isinactive = false
         value = "Cash Statement"
+        abbreviation = ""
       },
       {
         scriptid = "value_21_t1499227_127"
         isinactive = false
         value = "Chart of Accounts"
+        abbreviation = ""
       },
       {
         scriptid = "value_217_t1499227_127"
         isinactive = false
         value = "Checks & Forms"
+        abbreviation = ""
       },
       {
         scriptid = "value_12_t1499227_127"
         isinactive = false
         value = "CitiBank"
+        abbreviation = ""
       },
       {
         scriptid = "value_251_t1499227_127"
         isinactive = false
         value = "Client List"
+        abbreviation = ""
       },
       {
         scriptid = "value_36_t1499227_127"
         isinactive = false
         value = "Close Periods"
+        abbreviation = ""
       },
       {
         scriptid = "value_270_t1499227_127"
         isinactive = false
         value = "Cnsldtd Exch Rates"
+        abbreviation = ""
       },
       {
         scriptid = "value_49_t1499227_127"
         isinactive = false
         value = "Collection Case"
+        abbreviation = ""
       },
       {
         scriptid = "value_208_t1499227_127"
         isinactive = false
         value = "Company Info"
+        abbreviation = ""
       },
       {
         scriptid = "value_65_t1499227_127"
         isinactive = false
         value = "Comsn Overview"
+        abbreviation = ""
       },
       {
         scriptid = "value_248_t1499227_127"
         isinactive = false
         value = "Configurations"
+        abbreviation = ""
       },
       {
         scriptid = "value_125_t1499227_127"
         isinactive = false
         value = "Contacts"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Copy Budgets"
+        abbreviation = ""
       },
       {
         scriptid = "value_8_t1499227_127"
         isinactive = false
         value = "Cr Card Statements"
+        abbreviation = ""
       },
       {
         scriptid = "value_266_t1499227_127"
         isinactive = false
         value = "Create Budgets"
+        abbreviation = ""
       },
       {
         scriptid = "value_43_t1499227_127"
         isinactive = false
         value = "Create Invoices"
+        abbreviation = ""
       },
       {
         scriptid = "value_9_t1499227_127"
         isinactive = false
         value = "Create Journal"
+        abbreviation = ""
       },
       {
         scriptid = "val_242377_t1575043_149"
         isinactive = false
         value = "Create Rev Rec JE's"
+        abbreviation = ""
       },
       {
         scriptid = "val_237968_t1499227_343"
         isinactive = false
         value = "Create Rev Rec Journal Entries"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Currency"
+        abbreviation = ""
       },
       {
         scriptid = "value_144_t1499227_127"
         isinactive = false
         value = "Currency Exch Rate"
+        abbreviation = ""
       },
       {
         scriptid = "value_114_t1499227_127"
         isinactive = false
         value = "Current Inv Status"
+        abbreviation = ""
       },
       {
         scriptid = "value_122_t1499227_127"
         isinactive = false
         value = "Cust Profitability"
+        abbreviation = ""
       },
       {
         scriptid = "value_206_t1499227_127"
         isinactive = false
         value = "Custom Records"
+        abbreviation = ""
       },
       {
         scriptid = "value_290_t1499227_127"
         isinactive = false
         value = "Customer Category"
+        abbreviation = ""
       },
       {
         scriptid = "value_44_t1499227_127"
         isinactive = false
         value = "Customer Deposits"
+        abbreviation = ""
       },
       {
         scriptid = "value_294_t1499227_127"
         isinactive = false
         value = "Customer Page Hits"
+        abbreviation = ""
       },
       {
         scriptid = "value_46_t1499227_127"
         isinactive = false
         value = "Customer Payment"
+        abbreviation = ""
       },
       {
         scriptid = "value_257_t1499227_127"
         isinactive = false
         value = "Customer Statement"
+        abbreviation = ""
       },
       {
         scriptid = "value_37_t1499227_127"
         isinactive = false
         value = "Customers"
+        abbreviation = ""
       },
       {
         scriptid = "value_39_t1499227_127"
         isinactive = false
         value = "D&B Credit Check"
+        abbreviation = ""
       },
       {
         scriptid = "value_261_t1499227_127"
         isinactive = false
         value = "Data Wizard"
+        abbreviation = ""
       },
       {
         scriptid = "value_277_t1499227_127"
         isinactive = false
         value = "Dealer/Store Locator - Script"
+        abbreviation = ""
       },
       {
         scriptid = "val_237971_t1499227_679"
         isinactive = false
         value = "Deferred Revenue by Client"
+        abbreviation = ""
       },
       {
         scriptid = "value_20_t1499227_127"
         isinactive = false
         value = "Departments"
+        abbreviation = ""
       },
       {
         scriptid = "value_168_t1499227_127"
         isinactive = false
         value = "Earned Value by Proj"
+        abbreviation = ""
       },
       {
         scriptid = "value_254_t1499227_127"
         isinactive = false
         value = "Email"
+        abbreviation = ""
       },
       {
         scriptid = "value_264_t1499227_127"
         isinactive = false
         value = "Employees"
+        abbreviation = ""
       },
       {
         scriptid = "value_130_t1499227_127"
         isinactive = false
         value = "Enter Bills"
+        abbreviation = ""
       },
       {
         scriptid = "value_159_t1499227_127"
         isinactive = false
         value = "Enter Cash Sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_53_t1499227_127"
         isinactive = false
         value = "Enter Expense Rpt"
+        abbreviation = ""
       },
       {
         scriptid = "value_59_t1499227_127"
         isinactive = false
         value = "Enter PR"
+        abbreviation = ""
       },
       {
         scriptid = "value_131_t1499227_127"
         isinactive = false
         value = "Enter Purchase Order"
+        abbreviation = ""
       },
       {
         scriptid = "value_236_t1499227_127"
         isinactive = false
         value = "Enter Requisitions"
+        abbreviation = ""
       },
       {
         scriptid = "value_132_t1499227_127"
         isinactive = false
         value = "Enter Vendor Credits"
+        abbreviation = ""
       },
       {
         scriptid = "value_149_t1499227_127"
         isinactive = false
         value = "Exchange Rates"
+        abbreviation = ""
       },
       {
         scriptid = "value_215_t1499227_127"
         isinactive = false
         value = "Expedite List"
+        abbreviation = ""
       },
       {
         scriptid = "value_186_t1499227_127"
         isinactive = false
         value = "Expense Approvals"
+        abbreviation = ""
       },
       {
         scriptid = "value_185_t1499227_127"
         isinactive = false
         value = "Expense Reports"
+        abbreviation = ""
       },
       {
         scriptid = "value_300_t1499227_127"
         isinactive = false
         value = "Expenses Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_241_t1499227_127"
         isinactive = false
         value = "Export CSV Records"
+        abbreviation = ""
       },
       {
         scriptid = "val_237961_t1499227_151"
         isinactive = false
         value = "Fair Value Dimensions"
+        abbreviation = ""
       },
       {
         scriptid = "val_237959_t1499227_779"
         isinactive = false
         value = "Fair Value Formulas"
+        abbreviation = ""
       },
       {
         scriptid = "val_237960_t1499227_724"
         isinactive = false
         value = "Fair Value Price Lists"
+        abbreviation = ""
       },
       {
         scriptid = "value_138_t1499227_127"
         isinactive = false
         value = "File Cabinet"
+        abbreviation = ""
       },
       {
         scriptid = "value_181_t1499227_127"
         isinactive = false
         value = "File Management"
+        abbreviation = ""
       },
       {
         scriptid = "val_242224_t1575043_212"
         isinactive = false
         value = "Fixed Amount Project"
+        abbreviation = ""
       },
       {
         scriptid = "value_33_t1499227_127"
         isinactive = false
         value = "Fixed Assets"
+        abbreviation = ""
       },
       {
         scriptid = "value_192_t1499227_127"
         isinactive = false
         value = "Forecast Utilization"
+        abbreviation = ""
       },
       {
         scriptid = "value_176_t1499227_127"
         isinactive = false
         value = "Forecast vs Quota"
+        abbreviation = ""
       },
       {
         scriptid = "value_202_t1499227_127"
         isinactive = false
         value = "Forms"
+        abbreviation = ""
       },
       {
         scriptid = "value_211_t1499227_127"
         isinactive = false
         value = "Fulfill Orders"
+        abbreviation = ""
       },
       {
         scriptid = "val_245255_t1575043_654"
         isinactive = false
         value = "Fulfillment Example"
+        abbreviation = ""
       },
       {
         scriptid = "value_258_t1499227_127"
         isinactive = false
         value = "Grant DE Access (SD Cases)"
+        abbreviation = ""
       },
       {
         scriptid = "value_259_t1499227_127"
         isinactive = false
         value = "Grant SDG Manila Access (SDG Tasks)"
+        abbreviation = ""
       },
       {
         scriptid = "value_260_t1499227_127"
         isinactive = false
         value = "Grant SDG Uruguay Access (SDG Tasks – SCA)"
+        abbreviation = ""
       },
       {
         scriptid = "value_289_t1499227_127"
         isinactive = false
         value = "Groups"
+        abbreviation = ""
       },
       {
         scriptid = "value_307_t1499227_127"
         isinactive = false
         value = "Help Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_193_t1499227_127"
         isinactive = false
         value = "Historic Utilization"
+        abbreviation = ""
       },
       {
         scriptid = "value_298_t1499227_127"
         isinactive = false
         value = "Home Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_286_t1499227_127"
         isinactive = false
         value = "Images"
+        abbreviation = ""
       },
       {
         scriptid = "value_196_t1499227_127"
         isinactive = false
         value = "Implementation Guide"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "Import Bank Data"
+        abbreviation = ""
       },
       {
         scriptid = "value_32_t1499227_127"
         isinactive = false
         value = "Import Budgets"
+        abbreviation = ""
       },
       {
         scriptid = "value_210_t1499227_127"
         isinactive = false
         value = "Import CSV Records"
+        abbreviation = ""
       },
       {
         scriptid = "value_31_t1499227_127"
         isinactive = false
         value = "Import Data"
+        abbreviation = ""
       },
       {
         scriptid = "value_265_t1499227_127"
         isinactive = false
         value = "Import JEs"
+        abbreviation = ""
       },
       {
         scriptid = "value_92_t1499227_127"
         isinactive = false
         value = "Income Statement"
+        abbreviation = ""
       },
       {
         scriptid = "value_224_t1499227_127"
         isinactive = false
         value = "Income Statement (EPS)"
+        abbreviation = ""
       },
       {
         scriptid = "value_253_t1499227_127"
         isinactive = false
         value = "Individual Customer Statement"
+        abbreviation = ""
       },
       {
         scriptid = "value_13_t1499227_127"
         isinactive = false
         value = "ING Bank"
+        abbreviation = ""
       },
       {
         scriptid = "value_205_t1499227_127"
         isinactive = false
         value = "Install Bundle"
+        abbreviation = ""
       },
       {
         scriptid = "value_222_t1499227_127"
         isinactive = false
         value = "Intercompany Adjmt"
+        abbreviation = ""
       },
       {
         scriptid = "value_232_t1499227_127"
         isinactive = false
         value = "Intercompany Elim"
+        abbreviation = ""
       },
       {
         scriptid = "value_221_t1499227_127"
         isinactive = false
         value = "Intercompany JE"
+        abbreviation = ""
       },
       {
         scriptid = "value_239_t1499227_127"
         isinactive = false
         value = "Intercompany Sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_113_t1499227_127"
         isinactive = false
         value = "Inv Activity Detail"
+        abbreviation = ""
       },
       {
         scriptid = "value_162_t1499227_127"
         isinactive = false
         value = "Inventory Status"
+        abbreviation = ""
       },
       {
         scriptid = "value_112_t1499227_127"
         isinactive = false
         value = "Inventory Valuation"
+        abbreviation = ""
       },
       {
         scriptid = "value_115_t1499227_127"
         isinactive = false
         value = "Inventory Worksheet"
+        abbreviation = ""
       },
       {
         scriptid = "value_252_t1499227_127"
         isinactive = false
         value = "Invoice List"
+        abbreviation = ""
       },
       {
         scriptid = "value_302_t1499227_127"
         isinactive = false
         value = "Invoices Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_38_t1499227_127"
         isinactive = false
         value = "Issue Credit Memo"
+        abbreviation = ""
       },
       {
         scriptid = "value_47_t1499227_127"
         isinactive = false
         value = "Issue Refund"
+        abbreviation = ""
       },
       {
         scriptid = "val_237958_t1499227_327"
         isinactive = false
         value = "Item Revenue Categories"
+        abbreviation = ""
       },
       {
         scriptid = "value_212_t1499227_127"
         isinactive = false
         value = "Item Shipment"
+        abbreviation = ""
       },
       {
         scriptid = "value_126_t1499227_127"
         isinactive = false
         value = "Items"
+        abbreviation = ""
       },
       {
         scriptid = "value_28_t1499227_127"
         isinactive = false
         value = "Journal Entry"
+        abbreviation = ""
       },
       {
         scriptid = "val_242223_t1575043_149"
         isinactive = false
         value = "Labor Based Project"
+        abbreviation = ""
       },
       {
         scriptid = "value_169_t1499227_127"
         isinactive = false
         value = "Leads"
+        abbreviation = ""
       },
       {
         scriptid = "value_244_t1499227_127"
         isinactive = false
         value = "Level Rules"
+        abbreviation = ""
       },
       {
         scriptid = "value_180_t1499227_127"
         isinactive = false
         value = "LinkedIn"
+        abbreviation = ""
       },
       {
         scriptid = "value_22_t1499227_127"
         isinactive = false
         value = "Location/Class"
+        abbreviation = ""
       },
       {
         scriptid = "value_198_t1499227_127"
         isinactive = false
         value = "Login Audit"
+        abbreviation = ""
       },
       {
         scriptid = "value_200_t1499227_127"
         isinactive = false
         value = "Manage Roles"
+        abbreviation = ""
       },
       {
         scriptid = "value_199_t1499227_127"
         isinactive = false
         value = "Manage Users"
+        abbreviation = ""
       },
       {
         scriptid = "val_245841_t1575043_611"
         isinactive = false
         value = "Merged Arrangement"
+        abbreviation = ""
       },
       {
         scriptid = "value_52_t1499227_127"
         isinactive = false
         value = "More Reports"
+        abbreviation = ""
       },
       {
         scriptid = "value_194_t1499227_127"
         isinactive = false
         value = "NetSuite Status"
+        abbreviation = ""
       },
       {
         scriptid = "value_195_t1499227_127"
         isinactive = false
         value = "NetSuite User Group"
+        abbreviation = ""
       },
       {
         scriptid = "value_24_t1499227_127"
         isinactive = false
         value = "New Customer"
+        abbreviation = ""
       },
       {
         scriptid = "value_50_t1499227_127"
         isinactive = false
         value = "New Customer Order"
+        abbreviation = ""
       },
       {
         scriptid = "value_26_t1499227_127"
         isinactive = false
         value = "New Employee"
+        abbreviation = ""
       },
       {
         scriptid = "value_23_t1499227_127"
         isinactive = false
         value = "New G/L Account"
+        abbreviation = ""
       },
       {
         scriptid = "value_220_t1499227_127"
         isinactive = false
         value = "New Item"
+        abbreviation = ""
       },
       {
         scriptid = "value_27_t1499227_127"
         isinactive = false
         value = "New Project"
+        abbreviation = ""
       },
       {
         scriptid = "value_140_t1499227_127"
         isinactive = false
         value = "New Saved Search"
+        abbreviation = ""
       },
       {
         scriptid = "value_197_t1499227_127"
         isinactive = false
         value = "New User"
+        abbreviation = ""
       },
       {
         scriptid = "value_25_t1499227_127"
         isinactive = false
         value = "New Vendor"
+        abbreviation = ""
       },
       {
         scriptid = "value_48_t1499227_127"
         isinactive = false
         value = "Nonsufficient Fund"
+        abbreviation = ""
       },
       {
         scriptid = "value_109_t1499227_127"
         isinactive = false
         value = "Open Bills"
+        abbreviation = ""
       },
       {
         scriptid = "value_223_t1499227_127"
         isinactive = false
         value = "Open Currency Bal"
+        abbreviation = ""
       },
       {
         scriptid = "value_106_t1499227_127"
         isinactive = false
         value = "Open Purchase Order"
+        abbreviation = ""
       },
       {
         scriptid = "value_228_t1499227_127"
         isinactive = false
         value = "Open Sales Orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_171_t1499227_127"
         isinactive = false
         value = "Opportunities"
+        abbreviation = ""
       },
       {
         scriptid = "value_237_t1499227_127"
         isinactive = false
         value = "Order Requisitions"
+        abbreviation = ""
       },
       {
         scriptid = "value_262_t1499227_127"
         isinactive = false
         value = "Order to Cash Management"
+        abbreviation = ""
       },
       {
         scriptid = "value_247_t1499227_127"
         isinactive = false
         value = "Pause Reasons"
+        abbreviation = ""
       },
       {
         scriptid = "value_133_t1499227_127"
         isinactive = false
         value = "Pay Bills"
+        abbreviation = ""
       },
       {
         scriptid = "value_156_t1499227_127"
         isinactive = false
         value = "Pay Single Vendor"
+        abbreviation = ""
       },
       {
         scriptid = "value_255_t1499227_127"
         isinactive = false
         value = "PDF"
+        abbreviation = ""
       },
       {
         scriptid = "value_67_t1499227_127"
         isinactive = false
         value = "Pending Comsn"
+        abbreviation = ""
       },
       {
         scriptid = "val_242225_t1575043_169"
         isinactive = false
         value = "Percent Complete Project"
+        abbreviation = ""
       },
       {
         scriptid = "value_62_t1499227_127"
         isinactive = false
         value = "Phone Calls"
+        abbreviation = ""
       },
       {
         scriptid = "value_175_t1499227_127"
         isinactive = false
         value = "Pipeline Review"
+        abbreviation = ""
       },
       {
         scriptid = "value_157_t1499227_127"
         isinactive = false
         value = "PO By Vendor"
+        abbreviation = ""
       },
       {
         scriptid = "value_214_t1499227_127"
         isinactive = false
         value = "PO History"
+        abbreviation = ""
       },
       {
         scriptid = "value_107_t1499227_127"
         isinactive = false
         value = "PO Register"
+        abbreviation = ""
       },
       {
         scriptid = "value_19_t1499227_127"
         isinactive = false
         value = "Preferences"
+        abbreviation = ""
       },
       {
         scriptid = "value_154_t1499227_127"
         isinactive = false
         value = "Print Checks & Forms"
+        abbreviation = ""
       },
       {
         scriptid = "value_246_t1499227_127"
         isinactive = false
         value = "Procedure Priority"
+        abbreviation = ""
       },
       {
         scriptid = "value_245_t1499227_127"
         isinactive = false
         value = "Procedures"
+        abbreviation = ""
       },
       {
         scriptid = "value_155_t1499227_127"
         isinactive = false
         value = "Process EFT"
+        abbreviation = ""
       },
       {
         scriptid = "value_275_t1499227_127"
         isinactive = false
         value = "Process Item Field"
+        abbreviation = ""
       },
       {
         scriptid = "value_276_t1499227_127"
         isinactive = false
         value = "Process Items - Script"
+        abbreviation = ""
       },
       {
         scriptid = "value_263_t1499227_127"
         isinactive = false
         value = "Procure to Pay Management"
+        abbreviation = ""
       },
       {
         scriptid = "value_227_t1499227_127"
         isinactive = false
         value = "Project Billing Report"
+        abbreviation = ""
       },
       {
         scriptid = "value_242_t1499227_127"
         isinactive = false
         value = "Project Charges Forecast"
+        abbreviation = ""
       },
       {
         scriptid = "value_226_t1499227_127"
         isinactive = false
         value = "Project Profitability"
+        abbreviation = ""
       },
       {
         scriptid = "value_238_t1499227_127"
         isinactive = false
         value = "Project profitability"
+        abbreviation = ""
       },
       {
         scriptid = "value_167_t1499227_127"
         isinactive = false
         value = "Project Task Manager"
+        abbreviation = ""
       },
       {
         scriptid = "value_182_t1499227_127"
         isinactive = false
         value = "Project Templates"
+        abbreviation = ""
       },
       {
         scriptid = "value_18_t1499227_127"
         isinactive = false
         value = "Projects"
+        abbreviation = ""
       },
       {
         scriptid = "value_296_t1499227_127"
         isinactive = false
         value = "Projects Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_288_t1499227_127"
         isinactive = false
         value = "Promotions"
+        abbreviation = ""
       },
       {
         scriptid = "value_170_t1499227_127"
         isinactive = false
         value = "Prospects"
+        abbreviation = ""
       },
       {
         scriptid = "value_105_t1499227_127"
         isinactive = false
         value = "Purchase by Item"
+        abbreviation = ""
       },
       {
         scriptid = "value_104_t1499227_127"
         isinactive = false
         value = "Purchase by Vendor"
+        abbreviation = ""
       },
       {
         scriptid = "value_190_t1499227_127"
         isinactive = false
         value = "Purchase Order List"
+        abbreviation = ""
       },
       {
         scriptid = "value_150_t1499227_127"
         isinactive = false
         value = "Purchase Orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_301_t1499227_127"
         isinactive = false
         value = "Purchases Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_177_t1499227_127"
         isinactive = false
         value = "Quarterly Lost Sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_178_t1499227_127"
         isinactive = false
         value = "Quora"
+        abbreviation = ""
       },
       {
         scriptid = "value_172_t1499227_127"
         isinactive = false
         value = "Quotes"
+        abbreviation = ""
       },
       {
         scriptid = "value_233_t1499227_127"
         isinactive = false
         value = "Rate Gains/Losses"
+        abbreviation = ""
       },
       {
         scriptid = "value_148_t1499227_127"
         isinactive = false
         value = "Realized Exchange"
+        abbreviation = ""
       },
       {
         scriptid = "val_237969_t1499227_921"
         isinactive = false
         value = "Recalculate Rev Forecasts"
+        abbreviation = ""
       },
       {
         scriptid = "value_250_t1499227_127"
         isinactive = false
         value = "Receivables by Client"
+        abbreviation = ""
       },
       {
         scriptid = "value_151_t1499227_127"
         isinactive = false
         value = "Receive Orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_295_t1499227_127"
         isinactive = false
         value = "Referrer Summary"
+        abbreviation = ""
       },
       {
         scriptid = "value_303_t1499227_127"
         isinactive = false
         value = "Reports Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_235_t1499227_127"
         isinactive = false
         value = "Resource Allocation Chart"
+        abbreviation = ""
       },
       {
         scriptid = "value_297_t1499227_127"
         isinactive = false
         value = "Resources Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_160_t1499227_127"
         isinactive = false
         value = "Return Authorization"
+        abbreviation = ""
       },
       {
         scriptid = "val_237973_t1499227_332"
         isinactive = false
         value = "Rev Rec Forecast"
+        abbreviation = ""
       },
       {
         scriptid = "value_165_t1499227_127"
         isinactive = false
         value = "Rev Rec JEs"
+        abbreviation = ""
       },
       {
         scriptid = "value_166_t1499227_127"
         isinactive = false
         value = "Rev Rec REs"
+        abbreviation = ""
       },
       {
         scriptid = "val_242376_t1575043_237"
         isinactive = false
         value = "Rev Rec Rules"
+        abbreviation = ""
       },
       {
         scriptid = "value_164_t1499227_127"
         isinactive = false
         value = "Rev Rec Schedules"
+        abbreviation = ""
       },
       {
         scriptid = "value_163_t1499227_127"
         isinactive = false
         value = "Rev Rec Templates"
+        abbreviation = ""
       },
       {
         scriptid = "value_97_t1499227_127"
         isinactive = false
         value = "Revenue by Customer"
+        abbreviation = ""
       },
       {
         scriptid = "value_99_t1499227_127"
         isinactive = false
         value = "Revenue by Item"
+        abbreviation = ""
       },
       {
         scriptid = "value_98_t1499227_127"
         isinactive = false
         value = "Revenue by State"
+        abbreviation = ""
       },
       {
         scriptid = "val_237957_t1499227_488"
         isinactive = false
         value = "Revenue Recognition Rules"
+        abbreviation = ""
       },
       {
         scriptid = "value_273_t1499227_127"
         isinactive = false
         value = "Rlzd FX Gain/Loss"
+        abbreviation = ""
       },
       {
         scriptid = "value_201_t1499227_127"
         isinactive = false
         value = "Role Differences"
+        abbreviation = ""
       },
       {
         scriptid = "value_10_t1499227_127"
         isinactive = false
         value = "Royal Scottish"
+        abbreviation = ""
       },
       {
         scriptid = "value_40_t1499227_127"
         isinactive = false
         value = "Sales"
+        abbreviation = ""
       },
       {
         scriptid = "value_229_t1499227_127"
         isinactive = false
         value = "Sales Back Order"
+        abbreviation = ""
       },
       {
         scriptid = "value_174_t1499227_127"
         isinactive = false
         value = "Sales by Item"
+        abbreviation = ""
       },
       {
         scriptid = "val_242373_t1575043_323"
         isinactive = false
         value = "Sales Order - No Project"
+        abbreviation = ""
       },
       {
         scriptid = "value_41_t1499227_127"
         isinactive = false
         value = "Sales Orders"
+        abbreviation = ""
       },
       {
         scriptid = "value_120_t1499227_127"
         isinactive = false
         value = "Sales Tax"
+        abbreviation = ""
       },
       {
         scriptid = "value_203_t1499227_127"
         isinactive = false
         value = "Scripts"
+        abbreviation = ""
       },
       {
         scriptid = "value_279_t1499227_127"
         isinactive = false
         value = "Set Up Web Site"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Setup Budgets"
+        abbreviation = ""
       },
       {
         scriptid = "value_216_t1499227_127"
         isinactive = false
         value = "Shipping Labels"
+        abbreviation = ""
       },
       {
         scriptid = "value_207_t1499227_127"
         isinactive = false
         value = "Site Builder"
+        abbreviation = ""
       },
       {
         scriptid = "value_284_t1499227_127"
         isinactive = false
         value = "Site Categories"
+        abbreviation = ""
       },
       {
         scriptid = "value_280_t1499227_127"
         isinactive = false
         value = "Slider / Banner"
+        abbreviation = ""
       },
       {
         scriptid = "value_230_t1499227_127"
         isinactive = false
         value = "SO Register"
+        abbreviation = ""
       },
       {
         scriptid = "value_146_t1499227_127"
         isinactive = false
         value = "Statistical Journals"
+        abbreviation = ""
       },
       {
         scriptid = "value_281_t1499227_127"
         isinactive = false
         value = "Store Locations"
+        abbreviation = ""
       },
       {
         scriptid = "value_219_t1499227_127"
         isinactive = false
         value = "Subsidiary"
+        abbreviation = ""
       },
       {
         scriptid = "value_218_t1499227_127"
         isinactive = false
         value = "Supply Chain Forms"
+        abbreviation = ""
       },
       {
         scriptid = "value_306_t1499227_127"
         isinactive = false
         value = "Support Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_269_t1499227_127"
         isinactive = false
         value = "SVB Distribution Schedule"
+        abbreviation = ""
       },
       {
         scriptid = "value_63_t1499227_127"
         isinactive = false
         value = "Tasks"
+        abbreviation = ""
       },
       {
         scriptid = "value_231_t1499227_127"
         isinactive = false
         value = "Tax Periods"
+        abbreviation = ""
       },
       {
         scriptid = "value_268_t1499227_127"
         isinactive = false
         value = "Tax Reports (Intl)"
+        abbreviation = ""
       },
       {
         scriptid = "value_243_t1499227_127"
         isinactive = false
         value = "Templates"
+        abbreviation = ""
       },
       {
         scriptid = "value_184_t1499227_127"
         isinactive = false
         value = "Time Approval"
+        abbreviation = ""
       },
       {
         scriptid = "value_183_t1499227_127"
         isinactive = false
         value = "Time Entry"
+        abbreviation = ""
       },
       {
         scriptid = "value_299_t1499227_127"
         isinactive = false
         value = "Timesheets Module"
+        abbreviation = ""
       },
       {
         scriptid = "value_56_t1499227_127"
         isinactive = false
         value = "Track Time"
+        abbreviation = ""
       },
       {
         scriptid = "value_15_t1499227_127"
         isinactive = false
         value = "Transaction Detail"
+        abbreviation = ""
       },
       {
         scriptid = "value_94_t1499227_127"
         isinactive = false
         value = "Trial Balance"
+        abbreviation = ""
       },
       {
         scriptid = "value_179_t1499227_127"
         isinactive = false
         value = "Twitter"
+        abbreviation = ""
       },
       {
         scriptid = "value_147_t1499227_127"
         isinactive = false
         value = "Unrealized Exchange"
+        abbreviation = ""
       },
       {
         scriptid = "value_274_t1499227_127"
         isinactive = false
         value = "Unrlzd FX Gain/Loss"
+        abbreviation = ""
       },
       {
         scriptid = "val_242375_t1575043_625"
         isinactive = false
         value = "Update Rev Arrangements"
+        abbreviation = ""
       },
       {
         scriptid = "val_237967_t1499227_132"
         isinactive = false
         value = "Update Rev Arrangements/Plans"
+        abbreviation = ""
       },
       {
         scriptid = "value_124_t1499227_127"
         isinactive = false
         value = "Vendors"
+        abbreviation = ""
       },
       {
         scriptid = "value_55_t1499227_127"
         isinactive = false
         value = "View Expense Rpt"
+        abbreviation = ""
       },
       {
         scriptid = "value_189_t1499227_127"
         isinactive = false
         value = "View PO"
+        abbreviation = ""
       },
       {
         scriptid = "value_61_t1499227_127"
         isinactive = false
         value = "View PR"
+        abbreviation = ""
       },
       {
         scriptid = "val_237966_t1499227_983"
         isinactive = false
         value = "View Rev Arrangements"
+        abbreviation = ""
       },
       {
         scriptid = "value_57_t1499227_127"
         isinactive = false
         value = "View Time"
+        abbreviation = ""
       },
       {
         scriptid = "value_153_t1499227_127"
         isinactive = false
         value = "View Vendor Payment"
+        abbreviation = ""
       },
       {
         scriptid = "value_293_t1499227_127"
         isinactive = false
         value = "Visitor Activity Detail"
+        abbreviation = ""
       },
       {
         scriptid = "value_292_t1499227_127"
         isinactive = false
         value = "Visitor Activity Summary"
+        abbreviation = ""
       },
       {
         scriptid = "value_234_t1499227_127"
         isinactive = false
         value = "VSOE Transaction"
+        abbreviation = ""
       },
       {
         scriptid = "value_209_t1499227_127"
         isinactive = false
         value = "Web Services"
+        abbreviation = ""
       },
       {
         scriptid = "value_278_t1499227_127"
         isinactive = false
         value = "Web Site Configuration"
+        abbreviation = ""
       },
       {
         scriptid = "value_285_t1499227_127"
         isinactive = false
         value = "Web Site Items"
+        abbreviation = ""
       },
       {
         scriptid = "value_283_t1499227_127"
         isinactive = false
         value = "Web Site Tabs"
+        abbreviation = ""
       },
       {
         scriptid = "value_11_t1499227_127"
         isinactive = false
         value = "Wells Fargo"
+        abbreviation = ""
       },
       {
         scriptid = "value_137_t1499227_127"
         isinactive = false
         value = "What's New"
+        abbreviation = ""
       },
       {
         scriptid = "value_204_t1499227_127"
         isinactive = false
         value = "Workflows"
+        abbreviation = ""
       },
       {
         scriptid = "value_304_t1499227_127"
         isinactive = false
         value = "Workspaces Module"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

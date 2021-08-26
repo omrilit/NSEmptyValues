@@ -8,6 +8,7 @@ netsuite.centercategory custcentercategory51 {
       {
         linkid = "ADMI_OTHERSTUB"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

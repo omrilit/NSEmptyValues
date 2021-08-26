@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_75219_dilley_services_logo_small_jpg@dsdsssv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_75219@ds,
   ]
+  description = ""
 }

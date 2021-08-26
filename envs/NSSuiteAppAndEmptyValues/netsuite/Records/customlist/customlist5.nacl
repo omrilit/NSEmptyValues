@@ -10,27 +10,33 @@ netsuite.customlist customlist5 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "S1 - Blocking"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "S2 - Serious"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "S3 - Urgent"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "S4 - Inconvenient"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "S5 - Minor"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

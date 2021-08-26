@@ -6,6 +6,14 @@ netsuite.kpiscorecard kpiscorecard_1_t1740134_426 {
   custom = {
     kpi1 = netsuite.savedsearch.instance.customsearch97.scriptid
     kpi2 = netsuite.savedsearch.instance.customsearch98.scriptid
+    kpi10 = ""
+    kpi3 = ""
+    kpi4 = ""
+    kpi5 = ""
+    kpi6 = ""
+    kpi7 = ""
+    kpi8 = ""
+    kpi9 = ""
   }
   audience = {
     allemployees = false
@@ -20,6 +28,8 @@ netsuite.kpiscorecard kpiscorecard_1_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM"
         label = "Board Revenue Target"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -27,6 +37,8 @@ netsuite.kpiscorecard kpiscorecard_1_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM2"
         label = "Actual Revenue"
+        comparevalueto = ""
+        
       },
       {
         comparevalueto = "CUSTOM"
@@ -45,22 +57,33 @@ netsuite.kpiscorecard kpiscorecard_1_t1740134_426 {
         comparewithprevious = false
         invertcomparison = false
         range = "JANUARY_THIS_YEAR"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "FEBRUARY_THIS_YEAR"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "MARCH_THIS_YEAR"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         label = "This Year to Date"
         range = "LAST_FISCAL_QUARTER"
+        comparevalueto = ""
+        
       },
     ]
   }

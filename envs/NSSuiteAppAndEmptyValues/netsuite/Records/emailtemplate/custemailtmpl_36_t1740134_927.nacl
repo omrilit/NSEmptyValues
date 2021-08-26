@@ -9,4 +9,6 @@ netsuite.emailtemplate custemailtmpl_36_t1740134_927 {
   subject = "Invoice Notification - Invoice ready to view"
   usesmedia = false
   content = file("netsuite/emailtemplate/custemailtmpl_36_t1740134_927.html")
+  description = ""
+  mediaitem = ""
 }

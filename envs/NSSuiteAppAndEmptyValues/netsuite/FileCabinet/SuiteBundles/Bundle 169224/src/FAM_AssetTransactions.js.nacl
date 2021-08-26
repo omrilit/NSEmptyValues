@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_169224_src_FAM_AssetTransactions_js@dsdduv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_169224_src@dsd,
   ]
+  description = ""
 }

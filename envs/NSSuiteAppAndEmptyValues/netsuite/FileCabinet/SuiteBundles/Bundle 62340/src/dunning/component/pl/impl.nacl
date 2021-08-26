@@ -6,4 +6,5 @@ netsuite.folder SuiteBundles_Bundle_62340_src_dunning_component_pl_impl@dsddddd 
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_dunning_component_pl@dsdddd,
   ]
+  description = ""
 }

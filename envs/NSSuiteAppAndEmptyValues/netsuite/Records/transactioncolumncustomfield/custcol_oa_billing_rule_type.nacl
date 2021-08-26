@@ -44,4 +44,14 @@ netsuite.transactioncolumncustomfield custcol_oa_billing_rule_type {
   sourcefrom = netsuite.itemcustomfield.instance.custitem_oa_default_billing_rule.scriptid
   sourcelist = "STDCOLITEM"
   storevalue = true
+  columncustomtransactions = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  sourcefilterby = ""
 }

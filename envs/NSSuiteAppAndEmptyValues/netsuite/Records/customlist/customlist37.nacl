@@ -10,22 +10,27 @@ netsuite.customlist customlist37 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "0 - 24%"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "25 - 49%"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "50 - 74%"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "75 - 100%"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

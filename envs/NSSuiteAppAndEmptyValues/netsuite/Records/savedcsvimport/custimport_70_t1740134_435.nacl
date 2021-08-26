@@ -21,6 +21,7 @@ netsuite.savedcsvimport custimport_70_t1740134_435 {
     allroles = false
     globaledit = false
     ispublic = false
+    roles = ""
   }
   filemappings = {
     filemapping = [
@@ -141,6 +142,7 @@ netsuite.savedcsvimport custimport_70_t1740134_435 {
             },
             {
               field = "[scriptid=customrecord_ncfar_asset.custrecord_assettargetdeprdate]"
+              value = ""
             },
             {
               field = "[scriptid=customrecord_ncfar_asset.custrecord_assettype]"

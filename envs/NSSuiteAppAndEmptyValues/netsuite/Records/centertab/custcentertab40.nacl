@@ -23,4 +23,5 @@ netsuite.centertab custcentertab40 {
       },
     ]
   }
+  audslctrole = ""
 }

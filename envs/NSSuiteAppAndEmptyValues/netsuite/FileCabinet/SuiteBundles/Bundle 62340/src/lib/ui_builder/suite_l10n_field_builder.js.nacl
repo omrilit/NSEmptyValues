@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_lib_ui_builder_suite_l10n_field_buil
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_lib_ui_builder@dsdddu,
   ]
+  description = ""
 }

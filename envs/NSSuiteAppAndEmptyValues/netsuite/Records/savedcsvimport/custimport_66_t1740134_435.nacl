@@ -21,6 +21,7 @@ netsuite.savedcsvimport custimport_66_t1740134_435 {
     allroles = false
     globaledit = false
     ispublic = false
+    roles = ""
   }
   filemappings = {
     filemapping = [

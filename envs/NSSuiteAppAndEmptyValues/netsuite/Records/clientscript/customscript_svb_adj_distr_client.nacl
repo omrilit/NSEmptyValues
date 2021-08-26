@@ -20,4 +20,9 @@ netsuite.clientscript customscript_svb_adj_distr_client {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  validateinsertfunction = ""
 }

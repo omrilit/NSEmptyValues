@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_Raw_Files_2__00001_txt@dsdsdvdv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_Raw_Files_2_@dsdsdv,
   ]
+  description = ""
 }

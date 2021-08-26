@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_67350_src_apm_ui_css_ns_images_whitetriangle_t
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src_apm_ui_css_ns_images@dsdddddu,
   ]
+  description = ""
 }

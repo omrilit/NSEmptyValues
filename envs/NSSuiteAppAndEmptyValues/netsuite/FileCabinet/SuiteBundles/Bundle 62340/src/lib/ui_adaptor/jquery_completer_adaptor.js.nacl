@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_lib_ui_adaptor_jquery_completer_adap
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_lib_ui_adaptor@dsdddu,
   ]
+  description = ""
 }

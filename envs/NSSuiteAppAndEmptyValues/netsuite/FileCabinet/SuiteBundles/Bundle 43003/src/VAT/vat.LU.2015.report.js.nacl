@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_VAT_vat_LU_2015_report_js@dsdddvvvv 
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_VAT@dsdd,
   ]
+  description = ""
 }

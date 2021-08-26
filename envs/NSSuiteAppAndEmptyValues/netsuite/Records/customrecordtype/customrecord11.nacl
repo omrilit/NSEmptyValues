@@ -33,4 +33,12 @@ netsuite.customrecordtype customrecord11 {
   showowner = false
   showownerallowchange = false
   showowneronlist = false
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

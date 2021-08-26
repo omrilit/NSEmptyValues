@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_42036_helpcenter_nl_topic_Doc_Resource_Allocat
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_42036@ds,
   ]
+  description = ""
 }

@@ -9,6 +9,7 @@ netsuite.file SuiteBundles_Bundle_47492_0ff667bf_1663_447e_b23c_5282653a6bca@dsd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492@ds,
   ]
+  description = ""
 }
 netsuite.folder SuiteBundles_Bundle_47492_0ff667bf_1663_447e_b23c_5282653a6bca@dsdbbbb {
   bundleable = false
@@ -18,4 +19,5 @@ netsuite.folder SuiteBundles_Bundle_47492_0ff667bf_1663_447e_b23c_5282653a6bca@d
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492@ds,
   ]
+  description = ""
 }

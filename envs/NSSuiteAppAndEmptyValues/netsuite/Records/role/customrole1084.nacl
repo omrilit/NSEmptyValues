@@ -386,4 +386,5 @@ netsuite.role customrole1084 {
       },
     ]
   }
+  issuerole = ""
 }

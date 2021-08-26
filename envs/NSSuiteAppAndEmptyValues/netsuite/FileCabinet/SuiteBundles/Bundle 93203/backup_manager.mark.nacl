@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_93203_backup_manager_mark@dsduv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_93203@ds,
   ]
+  description = ""
 }

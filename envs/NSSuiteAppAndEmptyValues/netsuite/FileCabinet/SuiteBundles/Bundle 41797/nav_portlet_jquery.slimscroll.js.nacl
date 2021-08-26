@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41797_nav_portlet_jquery_slimscroll_js@dsduuvv
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41797@ds,
   ]
+  description = ""
 }

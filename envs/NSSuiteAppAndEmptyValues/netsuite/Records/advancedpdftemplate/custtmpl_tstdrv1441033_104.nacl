@@ -6,4 +6,5 @@ netsuite.advancedpdftemplate custtmpl_tstdrv1441033_104 {
   preferred = false
   title = "Default Cash Sale Advanced PDF/HTML"
   content = file("netsuite/advancedpdftemplate/custtmpl_tstdrv1441033_104.xml")
+  description = ""
 }

@@ -13,6 +13,7 @@ netsuite.workflow customworkflow_ra_approval_2 {
   runasadmin = true
   initcondition = {
     type = "VISUAL_BUILDER"
+    
   }
   workflowcustomfields = {
     workflowcustomfield = [
@@ -24,6 +25,15 @@ netsuite.workflow customworkflow_ra_approval_2 {
         fieldtype = "TEXT"
         label = "RA Preference"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
+        selectrecordtype = ""
       },
     ]
   }
@@ -47,7 +57,13 @@ netsuite.workflow customworkflow_ra_approval_2 {
                 scripttype = "[scriptid=customscript_ra_wa_checkrapreference]"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
               },
             ]
           },
@@ -69,6 +85,15 @@ netsuite.workflow customworkflow_ra_approval_2 {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition207"
@@ -85,9 +110,19 @@ netsuite.workflow customworkflow_ra_approval_2 {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate68"
@@ -119,6 +154,9 @@ netsuite.workflow customworkflow_ra_approval_2 {
                     ]
                   }
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
             ]
             addbuttonaction = [
@@ -144,6 +182,9 @@ netsuite.workflow customworkflow_ra_approval_2 {
                     ]
                   }
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
               {
                 scriptid = "workflowaction_ra_reject_2"
@@ -167,6 +208,9 @@ netsuite.workflow customworkflow_ra_approval_2 {
                     ]
                   }
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
               },
             ]
           },
@@ -202,6 +246,20 @@ netsuite.workflow customworkflow_ra_approval_2 {
                     ]
                   }
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
           },
@@ -214,7 +272,16 @@ netsuite.workflow customworkflow_ra_approval_2 {
               tostate = netsuite.workflow.instance.customworkflow_ra_approval_2.workflowstates.workflowstate.2.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition203"
@@ -222,10 +289,20 @@ netsuite.workflow customworkflow_ra_approval_2 {
               tostate = netsuite.workflow.instance.customworkflow_ra_approval_2.workflowstates.workflowstate.3.scriptid
               initcondition = {
                 type = "VISUAL_BUILDER"
+                
               }
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate69"
@@ -247,7 +324,19 @@ netsuite.workflow customworkflow_ra_approval_2 {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
               {
                 scriptid = "workflowaction232"
@@ -259,7 +348,19 @@ netsuite.workflow customworkflow_ra_approval_2 {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
             ]
           },
@@ -295,6 +396,20 @@ netsuite.workflow customworkflow_ra_approval_2 {
                     ]
                   }
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
           },
@@ -321,9 +436,19 @@ netsuite.workflow customworkflow_ra_approval_2 {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate70"
@@ -345,7 +470,19 @@ netsuite.workflow customworkflow_ra_approval_2 {
                 valuetype = "STATIC"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                clienttriggerfields = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
+                
+                valuefield = ""
+                valueformula = ""
+                valuejoinfield = ""
+                valuetext = ""
               },
             ]
           },
@@ -381,6 +518,20 @@ netsuite.workflow customworkflow_ra_approval_2 {
                     ]
                   }
                 }
+                
+                attachmentfile = ""
+                attachmentjoinfield = ""
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientbccemail = ""
+                recipientccemail = ""
+                recipientemail = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
+                senderjoinfield = ""
+                
               },
             ]
           },
@@ -407,9 +558,19 @@ netsuite.workflow customworkflow_ra_approval_2 {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate67"
@@ -417,7 +578,12 @@ netsuite.workflow customworkflow_ra_approval_2 {
         name = "State 5: Exit Approval"
         positionx = 203
         positiony = 413
+        description = ""
       },
     ]
   }
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
 }

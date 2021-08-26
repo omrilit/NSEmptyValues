@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_setchargesaftersubmit@d {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

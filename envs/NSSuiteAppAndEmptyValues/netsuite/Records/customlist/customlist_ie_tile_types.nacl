@@ -26,4 +26,5 @@ netsuite.customlist customlist_ie_tile_types {
       },
     ]
   }
+  description = ""
 }

@@ -9,4 +9,5 @@ netsuite.file Templates_Letter_Templates_Mail_Merge_Folder_Invoice_0862_14821645
   _parent = [
     netsuite.folder.instance.Templates_Letter_Templates_Mail_Merge_Folder@dsdss,
   ]
+  description = ""
 }

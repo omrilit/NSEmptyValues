@@ -6,4 +6,5 @@ netsuite.advancedpdftemplate custtmpl_tstdrv1441033_101 {
   preferred = false
   title = "Default Quote Advanced PDF/HTML"
   content = file("netsuite/advancedpdftemplate/custtmpl_tstdrv1441033_101.xml")
+  description = ""
 }

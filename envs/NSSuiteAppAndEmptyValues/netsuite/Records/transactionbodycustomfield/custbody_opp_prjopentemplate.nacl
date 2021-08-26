@@ -41,4 +41,22 @@ netsuite.transactionbodycustomfield custbody_opp_prjopentemplate {
   showinlist = false
   storevalue = false
   subtab = netsuite.subtab.instance.custtab_157_t1499227_705.scriptid
+  bodycustomtransactions = ""
+  defaultselection = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

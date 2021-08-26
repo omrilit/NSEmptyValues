@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_45178_helpcenter_nl_topic_DOC_ElectronicPaymen
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_45178@ds,
   ]
+  description = ""
 }

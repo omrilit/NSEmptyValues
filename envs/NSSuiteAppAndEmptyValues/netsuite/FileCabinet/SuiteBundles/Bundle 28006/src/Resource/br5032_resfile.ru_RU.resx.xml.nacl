@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_28006_src_Resource_br5032_resfile_ru_RU_resx_x
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_28006_src_Resource@dsdd,
   ]
+  description = ""
 }

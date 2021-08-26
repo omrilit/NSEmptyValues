@@ -32,4 +32,5 @@ netsuite.customlist customlist_ie_dt_blink_when_list {
       },
     ]
   }
+  description = ""
 }

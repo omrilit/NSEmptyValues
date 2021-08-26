@@ -10,32 +10,39 @@ netsuite.customlist customlist30 {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Anti-Spyware"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Anti-Virus"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Firewall"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Pop-Up Blocker"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_t1499227_127"
         isinactive = false
         value = "Security Suite"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "Socket Manager"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

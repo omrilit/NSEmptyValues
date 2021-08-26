@@ -18,4 +18,10 @@ netsuite.bundleinstallationscript customscript_wd_installation_bundle {
       },
     ]
   }
+  afterupdatefunction = ""
+  beforeinstallfunction = ""
+  beforeuninstallfunction = ""
+  beforeupdatefunction = ""
+  description = ""
+  notifyemails = ""
 }

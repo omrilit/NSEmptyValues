@@ -10,22 +10,27 @@ netsuite.customlist customlist_nsts_tex_papersize {
         scriptid = "value_1_t1221897_146"
         isinactive = false
         value = "A4"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1221897_146"
         isinactive = false
         value = "A5"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1221897_146"
         isinactive = false
         value = "Legal"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_t1221897_146"
         isinactive = false
         value = "Letter"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

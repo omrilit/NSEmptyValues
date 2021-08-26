@@ -25,4 +25,10 @@ netsuite.bundleinstallationscript customscript_rss_bundle_install {
       },
     ]
   }
+  afterinstallfunction = ""
+  afterupdatefunction = ""
+  beforeinstallfunction = ""
+  beforeupdatefunction = ""
+  description = ""
+  notifyemails = ""
 }

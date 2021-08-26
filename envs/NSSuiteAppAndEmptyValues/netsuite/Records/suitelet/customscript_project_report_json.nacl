@@ -20,7 +20,11 @@ netsuite.suitelet customscript_project_report_json {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "Project Report JSON Deploy"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

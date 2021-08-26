@@ -6,4 +6,5 @@ netsuite.folder SuiteBundles_Bundle_28006_src_Balance_Sheet@dsdds {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_28006_src@dsd,
   ]
+  description = ""
 }

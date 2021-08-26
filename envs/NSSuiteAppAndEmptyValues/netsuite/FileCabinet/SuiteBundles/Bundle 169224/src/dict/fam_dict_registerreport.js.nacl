@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_169224_src_dict_fam_dict_registerreport_js@dsd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_169224_src_dict@dsdd,
   ]
+  description = ""
 }

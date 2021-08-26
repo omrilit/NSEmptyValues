@@ -57,6 +57,21 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         selectrecordtype = netsuite.customlist.instance.customlist_ie_tile_types.scriptid
         showinlist = true
         storevalue = true
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_ie_dt_roles"
@@ -79,6 +94,22 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         selectrecordtype = "-118"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_ie_saved_search"
@@ -102,6 +133,21 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = true
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_search_type"
@@ -125,6 +171,21 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         sourcelist = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.customrecordcustomfields.customrecordcustomfield.2.scriptid
         storevalue = false
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
       },
       {
         scriptid = "custrecord_ie_prefix"
@@ -146,6 +207,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_suffix"
@@ -167,6 +245,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_drilldown_link"
@@ -188,6 +283,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_sign_flag"
@@ -209,6 +321,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_icon"
@@ -230,6 +359,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_tile_bg"
@@ -251,6 +397,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_tile_color_actual"
@@ -273,6 +436,22 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = true
         storevalue = false
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_font_color"
@@ -294,6 +473,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_font_color_actual"
@@ -316,6 +512,22 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = false
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.1.scriptid
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_blink_when"
@@ -339,6 +551,21 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_treshold"
@@ -360,6 +587,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_show_alert_btn"
@@ -381,6 +625,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_alert_button_label"
@@ -403,6 +664,22 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_emails_list"
@@ -424,6 +701,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_message"
@@ -445,6 +739,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.2.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_field_based_value"
@@ -466,6 +777,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_origin"
@@ -486,6 +814,24 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         searchlevel = "2"
         showinlist = false
         storevalue = false
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_ie_compare"
@@ -507,6 +853,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_compare_search"
@@ -530,6 +893,21 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_compare_field"
@@ -551,6 +929,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_compare_type"
@@ -575,6 +970,20 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_auto_run_script"
@@ -596,6 +1005,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_script_id"
@@ -617,6 +1043,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
       {
         scriptid = "custrecord_ie_deploy_id"
@@ -638,6 +1081,23 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
         showinlist = false
         storevalue = true
         subtab = netsuite.customrecordtype.instance.customrecord_ie_dashboard_tiles.subtabs.subtab.0.scriptid
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
       },
     ]
   }
@@ -646,6 +1106,7 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
       {
         linkcategory = "BASICLISTSCUSTOM"
         linktasktype = "LIST"
+        linklabel = ""
       },
     ]
   }
@@ -654,15 +1115,26 @@ netsuite.customrecordtype customrecord_ie_dashboard_tiles {
       {
         scriptid = "tab_164_t1499227_470"
         tabtitle = "Data"
+        tabparent = ""
       },
       {
         scriptid = "tab_163_t1499227_470"
         tabtitle = "Appearance"
+        tabparent = ""
       },
       {
         scriptid = "tab_162_t1499227_470"
         tabtitle = "Alerts"
+        tabparent = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

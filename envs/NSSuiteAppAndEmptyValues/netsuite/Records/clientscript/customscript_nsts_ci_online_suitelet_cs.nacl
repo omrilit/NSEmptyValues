@@ -21,4 +21,11 @@ netsuite.clientscript customscript_nsts_ci_online_suitelet_cs {
       },
     ]
   }
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

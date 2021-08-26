@@ -41,4 +41,17 @@ netsuite.transactioncolumncustomfield custcol_oa_credit_charge_type {
   selectrecordtype = netsuite.customrecordtype.instance.customrecord_oa_credit_charge_type.scriptid
   showhierarchy = false
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

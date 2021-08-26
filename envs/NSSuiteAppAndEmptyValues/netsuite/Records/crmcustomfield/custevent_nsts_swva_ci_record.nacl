@@ -31,4 +31,19 @@ netsuite.crmcustomfield custevent_nsts_swva_ci_record {
   showissuechanges = true
   storevalue = true
   subtab = "CRMRELATEDRECORDS"
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

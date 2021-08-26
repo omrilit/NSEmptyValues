@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_src_reports_pt_dao_SalesOrderDao_js@dsdd
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_src_reports_pt_dao@dsdddd,
   ]
+  description = ""
 }

@@ -9,4 +9,6 @@ netsuite.emailtemplate custemailtmpl_25_t1740134_927 {
   subject = "This is a test"
   usesmedia = false
   content = file("netsuite/emailtemplate/custemailtmpl_25_t1740134_927.html")
+  description = ""
+  mediaitem = ""
 }

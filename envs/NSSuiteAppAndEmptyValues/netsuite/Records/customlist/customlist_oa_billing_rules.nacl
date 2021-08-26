@@ -10,22 +10,27 @@ netsuite.customlist customlist_oa_billing_rules {
         scriptid = "value_4_t1499227_127"
         isinactive = false
         value = "Do not export"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Time"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Fixed fee % complete"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Fixed fee on date or milestone"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

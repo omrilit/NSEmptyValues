@@ -9,4 +9,5 @@ netsuite.file SuiteScripts_FILTER_MIGRATION_LOG_2018_2_16_1@duuuuuu {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

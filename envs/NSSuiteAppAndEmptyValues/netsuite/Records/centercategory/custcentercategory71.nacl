@@ -8,6 +8,7 @@ netsuite.centercategory custcentercategory71 {
       {
         linkid = "SRCH_SAVEDSEARCH"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

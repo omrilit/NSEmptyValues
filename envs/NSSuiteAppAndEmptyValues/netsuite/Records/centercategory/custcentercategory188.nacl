@@ -8,10 +8,12 @@ netsuite.centercategory custcentercategory188 {
       {
         linkid = "LIST_EMPLOYEE_RECORD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_VENDOR"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Resources module"

@@ -20,7 +20,11 @@ netsuite.suitelet customscript_2663_admin_data_submit_s {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "EP Admin Data Submit"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

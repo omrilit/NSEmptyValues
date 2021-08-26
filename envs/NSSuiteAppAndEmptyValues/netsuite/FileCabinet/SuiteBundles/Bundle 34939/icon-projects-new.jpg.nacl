@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_34939_icon_projects_new_jpg@dsdbbv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_34939@ds,
   ]
+  description = ""
 }

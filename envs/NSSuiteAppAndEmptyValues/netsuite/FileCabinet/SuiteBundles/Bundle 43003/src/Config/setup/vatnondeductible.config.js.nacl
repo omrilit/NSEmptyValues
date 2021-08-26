@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_Config_setup_vatnondeductible_config
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_Config_setup@dsddd,
   ]
+  description = ""
 }

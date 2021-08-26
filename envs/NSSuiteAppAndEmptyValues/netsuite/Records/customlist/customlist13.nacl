@@ -10,17 +10,21 @@ netsuite.customlist customlist13 {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Platinum"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Gold"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Silver"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

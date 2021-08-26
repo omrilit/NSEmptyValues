@@ -52,7 +52,25 @@ netsuite.transactionbodycustomfield custbody2 {
         fldfiltercomparetype = "EQ"
         fldfilternotnull = false
         fldfilternull = false
+        fldcomparefield = ""
+        fldfiltersel = ""
+        fldfilterval = ""
       },
     ]
   }
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  fldsizelabel = ""
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
 }

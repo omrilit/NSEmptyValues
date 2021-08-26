@@ -21,7 +21,13 @@ netsuite.usereventscript customscript_forward_to_je_on_pay {
         recordtype = "CUSTOMERPAYMENT"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

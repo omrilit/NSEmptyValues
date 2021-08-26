@@ -8,6 +8,7 @@ netsuite.centercategory custcentercategory5_7 {
       {
         linkid = "LIST_TRAN_CUSTINVC"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

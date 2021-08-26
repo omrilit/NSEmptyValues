@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_67350_src_apm_ui_lib_apm_highcharts_more_5_0_2
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src_apm_ui_lib@dsdddd,
   ]
+  description = ""
 }

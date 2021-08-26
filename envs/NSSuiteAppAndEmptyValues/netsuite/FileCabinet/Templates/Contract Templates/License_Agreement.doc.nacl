@@ -9,4 +9,5 @@ netsuite.file Templates_Contract_Templates_License_Agreement_doc@dsduv {
   _parent = [
     netsuite.folder.instance.Templates_Contract_Templates@ds,
   ]
+  description = ""
 }

@@ -20,7 +20,20 @@ netsuite.clientscript customscript_item_mass_field_validator {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_csv_importer.scriptid
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  fieldchangedfunction = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

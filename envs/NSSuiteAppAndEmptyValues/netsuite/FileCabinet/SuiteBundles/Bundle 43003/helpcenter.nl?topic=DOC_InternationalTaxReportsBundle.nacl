@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_helpcenter_nl_topic_DOC_InternationalTax
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003@ds,
   ]
+  description = ""
 }

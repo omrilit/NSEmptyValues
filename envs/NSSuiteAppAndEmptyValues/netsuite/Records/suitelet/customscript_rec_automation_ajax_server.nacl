@@ -20,7 +20,11 @@ netsuite.suitelet customscript_rec_automation_ajax_server {
         loglevel = "DEBUG"
         status = "RELEASED"
         title = "**Record Automation AJAX Server"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  description = ""
 }

@@ -3724,4 +3724,6 @@ netsuite.transactionForm custform_174_t1499227_346 {
       },
     ]
   }
+  disclaimer = ""
+  address = ""
 }

@@ -2578,6 +2578,7 @@ netsuite.transactionForm custform_239_t1499227_346 {
         {
           id = "ITEM_ADDPROJECTITEMS"
           visible = true
+          label = ""
         },
         {
           id = "REQUESTFULFILLMENT"

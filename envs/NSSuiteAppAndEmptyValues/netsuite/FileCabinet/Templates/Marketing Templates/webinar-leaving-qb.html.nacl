@@ -9,4 +9,5 @@ netsuite.file Templates_Marketing_Templates_webinar_leaving_qb_html@dsdbbv {
   _parent = [
     netsuite.folder.instance.Templates_Marketing_Templates@ds,
   ]
+  description = ""
 }

@@ -20,6 +20,8 @@ netsuite.suitelet customscript_svb_recreate_alloc_je {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "NSTS - SVB | Recreate Alloc JE"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -30,4 +32,6 @@ netsuite.suitelet customscript_svb_recreate_alloc_je {
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

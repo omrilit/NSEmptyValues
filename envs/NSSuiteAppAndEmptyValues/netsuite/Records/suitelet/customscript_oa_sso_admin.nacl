@@ -25,6 +25,15 @@ netsuite.suitelet customscript_oa_sso_admin {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_content_height"
@@ -43,6 +52,14 @@ netsuite.suitelet customscript_oa_sso_admin {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_oa_content_width"
@@ -61,6 +78,14 @@ netsuite.suitelet customscript_oa_sso_admin {
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -76,7 +101,12 @@ netsuite.suitelet customscript_oa_sso_admin {
         loglevel = "ERROR"
         status = "RELEASED"
         title = "OpenAir: Administration module deployment"
+        audslctrole = ""
+        
+        runasrole = ""
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

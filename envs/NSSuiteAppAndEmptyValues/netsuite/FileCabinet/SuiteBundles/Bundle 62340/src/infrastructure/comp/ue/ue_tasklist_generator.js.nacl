@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_infrastructure_comp_ue_ue_tasklist_g
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_infrastructure_comp_ue@dsdddd,
   ]
+  description = ""
 }

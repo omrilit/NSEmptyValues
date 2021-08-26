@@ -32,4 +32,21 @@ netsuite.entitycustomfield custentity_projectprogress {
   showhierarchy = false
   showinlist = false
   storevalue = false
+  defaultselection = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
+  subtab = ""
 }

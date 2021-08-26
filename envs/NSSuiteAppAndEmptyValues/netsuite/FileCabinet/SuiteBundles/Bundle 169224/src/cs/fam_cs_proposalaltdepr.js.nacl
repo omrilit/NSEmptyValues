@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_169224_src_cs_fam_cs_proposalaltdepr_js@dsdddu
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_169224_src_cs@dsdd,
   ]
+  description = ""
 }

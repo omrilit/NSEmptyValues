@@ -30,6 +30,16 @@ Sample Entry:  amount,currency,department
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
       {
         scriptid = "custscript_svb_linefld_changed"
@@ -50,6 +60,16 @@ Sample Entry:  account,quantity,rate
         searchlevel = "2"
         setting = "COMPANY"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        selectrecordtype = ""
       },
     ]
   }
@@ -67,6 +87,8 @@ Sample Entry:  account,quantity,rate
         recordtype = "VENDORBILL"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
@@ -77,4 +99,6 @@ Sample Entry:  account,quantity,rate
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

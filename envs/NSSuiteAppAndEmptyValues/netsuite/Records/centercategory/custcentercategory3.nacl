@@ -15,6 +15,7 @@ netsuite.centercategory custcentercategory3 {
         linkobject = netsuite.customrecordtype.instance.customrecord25.scriptid
         linktasktype = "LIST"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Issues"

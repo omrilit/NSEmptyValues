@@ -32,4 +32,21 @@ netsuite.entitycustomfield custentity20 {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_15_4453644_498.scriptid
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

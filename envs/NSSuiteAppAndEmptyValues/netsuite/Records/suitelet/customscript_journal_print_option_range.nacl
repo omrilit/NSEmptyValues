@@ -28,7 +28,11 @@ netsuite.suitelet customscript_journal_print_option_range {
             },
           ]
         }
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

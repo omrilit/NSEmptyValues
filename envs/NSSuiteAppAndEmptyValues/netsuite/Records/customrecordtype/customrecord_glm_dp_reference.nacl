@@ -38,51 +38,71 @@ netsuite.customrecordtype customrecord_glm_dp_reference {
       {
         permittedlevel = "CREATE"
         permittedrole = "AP_CLERK"
+        
       },
       {
         permittedlevel = "CREATE"
         permittedrole = "AR_CLERK"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "ACCOUNTANT"
+        
       },
       {
         permittedlevel = "CREATE"
         permittedrole = "ACCOUNTANT__REVIEWER"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "ADMINISTRATOR"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "BOOKKEEPER"
+        
       },
       {
         permittedlevel = "CREATE"
         permittedrole = "BUYER"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "CEO"
+        
       },
       {
         permittedlevel = "CREATE"
         permittedrole = "CEO_HANDS_OFF"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "CUSTOMROLE41"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "FULL_ACCESS"
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = "[scriptid=customrole_glm_permissions_role]"
+        
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

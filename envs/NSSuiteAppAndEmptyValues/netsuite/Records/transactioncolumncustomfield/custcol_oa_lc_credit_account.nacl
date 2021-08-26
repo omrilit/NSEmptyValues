@@ -41,4 +41,17 @@ netsuite.transactioncolumncustomfield custcol_oa_lc_credit_account {
   selectrecordtype = "-112"
   showhierarchy = false
   storevalue = true
+  columncustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

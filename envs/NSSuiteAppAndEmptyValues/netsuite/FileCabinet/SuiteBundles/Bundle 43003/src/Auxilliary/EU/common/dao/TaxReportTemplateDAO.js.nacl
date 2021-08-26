@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_43003_src_Auxilliary_EU_common_dao_TaxReportTe
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_src_Auxilliary_EU_common_dao@dsddddd,
   ]
+  description = ""
 }

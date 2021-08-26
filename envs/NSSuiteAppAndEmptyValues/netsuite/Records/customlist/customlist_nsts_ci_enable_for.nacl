@@ -10,12 +10,15 @@ netsuite.customlist customlist_nsts_ci_enable_for {
         scriptid = "value_1_4453644_734"
         isinactive = false
         value = "All Customers"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_4453644_734"
         isinactive = false
         value = "Selected Customers"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

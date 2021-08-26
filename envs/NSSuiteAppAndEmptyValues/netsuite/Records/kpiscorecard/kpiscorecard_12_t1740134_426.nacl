@@ -6,6 +6,13 @@ netsuite.kpiscorecard kpiscorecard_12_t1740134_426 {
     kpi1 = netsuite.savedsearch.instance.customsearch214.scriptid
     kpi2 = netsuite.savedsearch.instance.customsearch215.scriptid
     kpi3 = netsuite.savedsearch.instance.customsearch213.scriptid
+    kpi10 = ""
+    kpi4 = ""
+    kpi5 = ""
+    kpi6 = ""
+    kpi7 = ""
+    kpi8 = ""
+    kpi9 = ""
   }
   audience = {
     allemployees = true
@@ -20,6 +27,8 @@ netsuite.kpiscorecard kpiscorecard_12_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM"
         label = "New Customers"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -27,6 +36,8 @@ netsuite.kpiscorecard kpiscorecard_12_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM2"
         label = "Lost Customers"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -34,6 +45,8 @@ netsuite.kpiscorecard kpiscorecard_12_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM3"
         label = "Net Customers"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -41,6 +54,8 @@ netsuite.kpiscorecard kpiscorecard_12_t1740134_426 {
         invertcomparison = false
         kpi = "REVENUE"
         label = "Total Revenue"
+        comparevalueto = ""
+        
       },
       {
         formula = "{4}/{3}"
@@ -54,6 +69,9 @@ netsuite.kpiscorecard kpiscorecard_12_t1740134_426 {
         hidden = false
         invertcomparison = false
         kpi = "CUSTOM4"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
@@ -61,6 +79,8 @@ netsuite.kpiscorecard kpiscorecard_12_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM5"
         label = "Target Revenue Per Customer"
+        comparevalueto = ""
+        
       },
     ]
   }
@@ -71,25 +91,34 @@ netsuite.kpiscorecard kpiscorecard_12_t1740134_426 {
         invertcomparison = false
         label = "Q1"
         range = "FIRST_FISCAL_QUARTER_THIS_FISCAL_YEAR"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
         invertcomparison = false
         label = "Q2"
         range = "SECOND_FISCAL_QUARTER_THIS_FISCAL_YEAR"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
         invertcomparison = false
         label = "Q3"
         range = "THIRD_FISCAL_QUARTER_THIS_FISCAL_YEAR"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
         invertcomparison = false
         label = "Q4"
         range = "FOURTH_FISCAL_QUARTER_THIS_FISCAL_YEAR"
+        comparevalueto = ""
+        
       },
     ]
   }
+  description = ""
 }

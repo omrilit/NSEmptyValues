@@ -20,7 +20,11 @@ netsuite.suitelet customscript_googlemaps_suitelet {
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
         title = "Event Google Maps Integration Suitelet"
+        audslctrole = ""
+        
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

@@ -10,17 +10,21 @@ netsuite.customlist customlist19 {
         scriptid = "value_2_t1499227_127"
         isinactive = false
         value = "Microsoft"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_t1499227_127"
         isinactive = false
         value = "Oracle"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_t1499227_127"
         isinactive = false
         value = "Sybase"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

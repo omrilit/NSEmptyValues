@@ -9,4 +9,6 @@ netsuite.emailtemplate custemailtmpl_5_t1740134_927 {
   subject = "Follow Up"
   usesmedia = false
   content = file("netsuite/emailtemplate/custemailtmpl_5_t1740134_927.html")
+  mediaitem = ""
+  
 }

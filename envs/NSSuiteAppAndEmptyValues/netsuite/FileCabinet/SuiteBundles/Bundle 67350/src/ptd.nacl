@@ -6,4 +6,5 @@ netsuite.folder SuiteBundles_Bundle_67350_src_ptd@dsdd {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_67350_src@dsd,
   ]
+  description = ""
 }

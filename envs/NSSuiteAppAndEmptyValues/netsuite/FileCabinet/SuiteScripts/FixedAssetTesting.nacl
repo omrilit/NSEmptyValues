@@ -6,4 +6,5 @@ netsuite.folder SuiteScripts_FixedAssetTesting@d {
   _parent = [
     netsuite.folder.instance.SuiteScripts,
   ]
+  description = ""
 }

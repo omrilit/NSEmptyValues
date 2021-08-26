@@ -44,4 +44,19 @@ netsuite.transactionbodycustomfield custbody_nsts_ci_number {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_13_4453644_498.scriptid
+  bodycustomtransactions = ""
+  defaultselection = ""
+  defaultvalue = ""
+  
+  fldsizelabel = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  parentsubtab = ""
+  
+  searchdefault = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

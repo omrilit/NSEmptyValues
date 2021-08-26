@@ -8,18 +8,22 @@ netsuite.centercategory custcentercategory144 {
       {
         linkid = "LIST_CUSTJOB"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_JOB"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_PROJECTTEMPLATE"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_PROJECTTASK"
         shortlist = false
+        linklabel = ""
       },
       {
         linklabel = "Milestones"
@@ -31,6 +35,7 @@ netsuite.centercategory custcentercategory144 {
         linkobject = netsuite.centerlink.instance.custlink_15_t1740134_667.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_48331_src_ui_css_images_button_s_arrow_b_nolin
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_48331_src_ui_css_images_button@dsddddd,
   ]
+  description = ""
 }

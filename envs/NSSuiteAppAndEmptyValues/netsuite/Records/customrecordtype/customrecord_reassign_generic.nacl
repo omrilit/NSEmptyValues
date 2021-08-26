@@ -64,6 +64,9 @@ netsuite.customrecordtype customrecord_reassign_generic {
               fldfiltercomparetype = "EQ"
               fldfilternotnull = false
               fldfilternull = false
+              fldcomparefield = ""
+              fldfiltersel = ""
+              fldfilterval = ""
             },
             {
               fldcomparefield = netsuite.customrecordtype.instance.customrecord_reassign_generic.customrecordcustomfields.customrecordcustomfield.1.scriptid
@@ -71,9 +74,27 @@ netsuite.customrecordtype customrecord_reassign_generic {
               fldfiltercomparetype = "EQ"
               fldfilternotnull = false
               fldfilternull = false
+              fldfiltersel = ""
+              fldfilterval = ""
             },
           ]
         }
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_reassign_billingclass"
@@ -96,6 +117,22 @@ netsuite.customrecordtype customrecord_reassign_generic {
         selectrecordtype = "-139"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_reassign_project"
@@ -118,6 +155,22 @@ netsuite.customrecordtype customrecord_reassign_generic {
         selectrecordtype = "-7"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_reassign_generic"
@@ -140,7 +193,31 @@ netsuite.customrecordtype customrecord_reassign_generic {
         selectrecordtype = "-310"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

@@ -54,6 +54,24 @@ netsuite.customrecordtype customrecord_svb_bill_dist_sched {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_is_alloc_wt_valid"
@@ -74,6 +92,24 @@ netsuite.customrecordtype customrecord_svb_bill_dist_sched {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_source_subsidiary"
@@ -96,6 +132,22 @@ netsuite.customrecordtype customrecord_svb_bill_dist_sched {
         selectrecordtype = "-117"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_svb_use_source_accounts"
@@ -116,6 +168,24 @@ netsuite.customrecordtype customrecord_svb_bill_dist_sched {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
     ]
   }
@@ -124,10 +194,12 @@ netsuite.customrecordtype customrecord_svb_bill_dist_sched {
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1101.scriptid
+        
       },
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1036.scriptid
+        
       },
     ]
   }
@@ -136,6 +208,7 @@ netsuite.customrecordtype customrecord_svb_bill_dist_sched {
       {
         linkcategory = "BASICLISTSCUSTOM"
         linktasktype = "LIST"
+        linklabel = ""
       },
     ]
   }
@@ -144,7 +217,16 @@ netsuite.customrecordtype customrecord_svb_bill_dist_sched {
       {
         scriptid = "tab_212_t1499227_470"
         tabtitle = "Schedule Lines"
+        tabparent = ""
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

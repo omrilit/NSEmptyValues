@@ -5,6 +5,14 @@ netsuite.kpiscorecard kpiscorecard_3_t1740134_426 {
   custom = {
     kpi1 = netsuite.savedsearch.instance.customsearch107.scriptid
     kpi2 = netsuite.savedsearch.instance.customsearch98.scriptid
+    kpi10 = ""
+    kpi3 = ""
+    kpi4 = ""
+    kpi5 = ""
+    kpi6 = ""
+    kpi7 = ""
+    kpi8 = ""
+    kpi9 = ""
   }
   audience = {
     allemployees = false
@@ -18,12 +26,18 @@ netsuite.kpiscorecard kpiscorecard_3_t1740134_426 {
         hidden = false
         invertcomparison = false
         kpi = "CUSTOM"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         hidden = false
         invertcomparison = false
         kpi = "CUSTOM2"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparevalueto = "CUSTOM"
@@ -42,22 +56,35 @@ netsuite.kpiscorecard kpiscorecard_3_t1740134_426 {
         comparewithprevious = false
         invertcomparison = false
         range = "MARCH_THIS_YEAR"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "APRIL_THIS_YEAR"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "MAY_THIS_YEAR"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "JUNE_THIS_YEAR"
+        comparevalueto = ""
+        
+        label = ""
       },
     ]
   }
+  description = ""
 }

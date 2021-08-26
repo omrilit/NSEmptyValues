@@ -7,6 +7,12 @@ netsuite.kpiscorecard kpiscorecard_5_t1740134_426 {
     kpi2 = netsuite.savedsearch.instance.customsearch121.scriptid
     kpi3 = netsuite.savedsearch.instance.customsearch122.scriptid
     kpi4 = netsuite.savedsearch.instance.customsearch123.scriptid
+    kpi10 = ""
+    kpi5 = ""
+    kpi6 = ""
+    kpi7 = ""
+    kpi8 = ""
+    kpi9 = ""
   }
   audience = {
     allemployees = false
@@ -21,6 +27,8 @@ netsuite.kpiscorecard kpiscorecard_5_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM"
         label = "Upside Opps to Close"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -28,6 +36,8 @@ netsuite.kpiscorecard kpiscorecard_5_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM2"
         label = "Upside Opps Proj. Total"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -35,6 +45,8 @@ netsuite.kpiscorecard kpiscorecard_5_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM3"
         label = "Committed Opps Incl. Closed Won"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -42,6 +54,8 @@ netsuite.kpiscorecard kpiscorecard_5_t1740134_426 {
         invertcomparison = false
         kpi = "CUSTOM4"
         label = "Committed Opps Proj. Total"
+        comparevalueto = ""
+        
       },
       {
         comparewithprevious = false
@@ -49,6 +63,8 @@ netsuite.kpiscorecard kpiscorecard_5_t1740134_426 {
         invertcomparison = false
         kpi = "FORECASTOVERRIDE"
         label = "Commit Override"
+        comparevalueto = ""
+        
       },
     ]
   }
@@ -58,22 +74,35 @@ netsuite.kpiscorecard kpiscorecard_5_t1740134_426 {
         comparewithprevious = false
         invertcomparison = false
         range = "THIS_MONTH"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "NEXT_MONTH"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "THIS_FISCAL_QUARTER_TO_DATE"
+        comparevalueto = ""
+        
+        label = ""
       },
       {
         comparewithprevious = false
         invertcomparison = false
         range = "NEXT_FISCAL_QUARTER"
+        comparevalueto = ""
+        
+        label = ""
       },
     ]
   }
+  description = ""
 }

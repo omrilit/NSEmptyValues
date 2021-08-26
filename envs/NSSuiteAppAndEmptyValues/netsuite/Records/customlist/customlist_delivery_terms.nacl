@@ -95,81 +95,97 @@ netsuite.customlist customlist_delivery_terms {
         scriptid = "val_52198_3776644_259"
         isinactive = false
         value = "DAP"
+        abbreviation = ""
       },
       {
         scriptid = "val_52199_3776644_860"
         isinactive = false
         value = "DAT"
+        abbreviation = ""
       },
       {
         scriptid = "value_1_3776644_349"
         isinactive = false
         value = "EXW"
+        abbreviation = ""
       },
       {
         scriptid = "value_2_3776644_349"
         isinactive = false
         value = "FCA"
+        abbreviation = ""
       },
       {
         scriptid = "value_3_3776644_349"
         isinactive = false
         value = "FAS"
+        abbreviation = ""
       },
       {
         scriptid = "value_4_3776644_349"
         isinactive = false
         value = "FOB"
+        abbreviation = ""
       },
       {
         scriptid = "value_5_3776644_349"
         isinactive = false
         value = "CFR"
+        abbreviation = ""
       },
       {
         scriptid = "value_6_3776644_349"
         isinactive = false
         value = "CIF"
+        abbreviation = ""
       },
       {
         scriptid = "value_7_3776644_349"
         isinactive = false
         value = "CPT"
+        abbreviation = ""
       },
       {
         scriptid = "value_8_3776644_349"
         isinactive = false
         value = "CIP"
+        abbreviation = ""
       },
       {
         scriptid = "value_9_3776644_349"
         isinactive = false
         value = "DAF"
+        abbreviation = ""
       },
       {
         scriptid = "value_10_3776644_349"
         isinactive = false
         value = "DES"
+        abbreviation = ""
       },
       {
         scriptid = "value_11_3776644_349"
         isinactive = false
         value = "DEQ"
+        abbreviation = ""
       },
       {
         scriptid = "value_12_3776644_349"
         isinactive = false
         value = "DDU"
+        abbreviation = ""
       },
       {
         scriptid = "value_13_3776644_349"
         isinactive = false
         value = "DDP"
+        abbreviation = ""
       },
       {
         scriptid = "value_14_3776644_349"
         isinactive = false
         value = "XXX"
+        abbreviation = ""
       },
     ]
   }

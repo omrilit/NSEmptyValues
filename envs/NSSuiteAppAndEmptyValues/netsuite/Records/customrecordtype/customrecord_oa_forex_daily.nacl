@@ -38,7 +38,16 @@ netsuite.customrecordtype customrecord_oa_forex_daily {
       {
         permittedlevel = "FULL"
         permittedrole = netsuite.role.instance.customrole1015_2.scriptid
+        
       },
     ]
   }
+  customsegment = ""
+  description = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

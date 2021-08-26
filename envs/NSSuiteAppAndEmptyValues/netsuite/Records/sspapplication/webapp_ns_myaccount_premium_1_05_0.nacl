@@ -34,7 +34,9 @@ netsuite.sspapplication webapp_ns_myaccount_premium_1_05_0 {
       {
         entryitem = "[/Web Site Hosting Files/Live Hosting Files/SSP Applications/NetSuite Inc. - My Account Premium 1.05/Reference My Account Premium/index.ssp]"
         entrytype = "CUSTCENTER"
+        entryparameter = ""
       },
     ]
   }
+  description = ""
 }

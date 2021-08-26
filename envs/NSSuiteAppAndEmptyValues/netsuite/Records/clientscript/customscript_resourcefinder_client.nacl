@@ -18,7 +18,22 @@ netsuite.clientscript customscript_resourcefinder_client {
         isdeployed = true
         recordtype = "SUPPORTCASE"
         status = "RELEASED"
+        audslctrole = ""
+        
+        
       },
     ]
   }
+  description = ""
+  fieldchangedfunction = ""
+  lineinitfunction = ""
+  notifyemails = ""
+  pageinitfunction = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  saverecordfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

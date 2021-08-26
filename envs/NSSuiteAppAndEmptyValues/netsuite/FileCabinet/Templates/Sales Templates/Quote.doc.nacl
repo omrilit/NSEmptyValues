@@ -9,4 +9,5 @@ netsuite.file Templates_Sales_Templates_Quote_doc@dsdv {
   _parent = [
     netsuite.folder.instance.Templates_Sales_Templates@ds,
   ]
+  description = ""
 }

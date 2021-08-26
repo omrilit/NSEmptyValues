@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_infrastructure_view_view_metrics_js@
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_infrastructure_view@dsddd,
   ]
+  description = ""
 }

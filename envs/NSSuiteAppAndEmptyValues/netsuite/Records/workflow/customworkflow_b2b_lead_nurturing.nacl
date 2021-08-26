@@ -38,6 +38,14 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
         label = "3rd Wave Response"
         selectrecordtype = "-130"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
       {
         scriptid = "custworkflow_res1"
@@ -48,6 +56,14 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
         label = "First Wave Response"
         selectrecordtype = "-130"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
       {
         scriptid = "custworkflow_res2"
@@ -58,6 +74,14 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
         label = "2nd Wave Response"
         selectrecordtype = "-130"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
       {
         scriptid = "custworkflow_b2b_phone_call"
@@ -68,6 +92,14 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
         label = "Phone Call"
         selectrecordtype = "-22"
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        description = ""
+        
+        help = ""
+        linktext = ""
+        maxvalue = ""
+        minvalue = ""
       },
     ]
   }
@@ -92,7 +124,15 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                 schedulemode = "DELAY"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientfield = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
               },
             ]
             subscribetorecordaction = [
@@ -103,7 +143,13 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                 schedulemode = "DELAY"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
               },
             ]
           },
@@ -130,6 +176,15 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition74"
@@ -164,9 +219,16 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate30"
@@ -187,7 +249,15 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                 schedulemode = "DELAY"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientfield = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
               },
             ]
             subscribetorecordaction = [
@@ -198,7 +268,13 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                 schedulemode = "DELAY"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
               },
             ]
           },
@@ -238,6 +314,12 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
             {
               scriptid = "workflowtransition75"
@@ -259,9 +341,19 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate31"
@@ -282,7 +374,15 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                 schedulemode = "DELAY"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                recipientfield = ""
+                recipientjoinfield = ""
+                scheduletimeofday = ""
+                
               },
             ]
             subscribetorecordaction = [
@@ -293,7 +393,13 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                 schedulemode = "DELAY"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
               },
             ]
           },
@@ -320,9 +426,19 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                   ]
                 }
               }
+              buttonaction = ""
+              conditionsavedsearch = ""
+              contexttypes = ""
+              eventtypes = ""
+              scheduledelay = ""
+              
+              
+              waitforworkflow = ""
+              waitforworkflowstate = ""
             },
           ]
         }
+        description = ""
       },
       {
         scriptid = "workflowstate29"
@@ -342,40 +458,82 @@ netsuite.workflow customworkflow_b2b_lead_nurturing {
                 schedulemode = "DELAY"
                 initcondition = {
                   type = "VISUAL_BUILDER"
+                  
                 }
                 fieldsettings = {
                   fieldsetting = [
                     {
                       targetfield = "STDEVENTASSIGNED"
                       valuefield = "STDENTITYSALESREP"
+                      
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDEVENTENDDATE"
                       valuedate = "TOMORROW"
+                      valuefield = ""
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDEVENTCOMPANY"
                       valueselect = "@CURRENT@"
+                      
+                      valuefield = ""
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDEVENTTITLE"
                       valuetext = "New Lead Intro Call"
+                      
+                      valuefield = ""
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valueselect = ""
                     },
                     {
                       targetfield = "STDEVENTSTARTDATE"
                       valuedate = "TOMORROW"
+                      valuefield = ""
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                     {
                       targetfield = "STDEVENTPHONE"
                       valuefield = "STDENTITYPHONE"
+                      
+                      valueformula = ""
+                      valuejoinfield = ""
+                      valueselect = ""
+                      valuetext = ""
                     },
                   ]
                 }
+                conditionsavedsearch = ""
+                contexttypes = ""
+                eventtypes = ""
+                scheduletimeofday = ""
+                
               },
             ]
           },
         ]
+        description = ""
       },
     ]
   }
+  description = ""
+  initcontexts = ""
+  initeventtypes = ""
+  initlocalizationcontext = ""
+  initsavedsearchcondition = ""
 }

@@ -6,4 +6,5 @@ netsuite.folder SuiteBundles_Bundle_43003_lib_Font@dsdd {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_43003_lib@dsd,
   ]
+  description = ""
 }

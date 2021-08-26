@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_41811_suiteoffice_basic_img_tab_img_banner_pri
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_41811_suiteoffice_basic_img_tab_img@dsduddb,
   ]
+  description = ""
 }

@@ -57,6 +57,22 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_gen_pdf_search_1"
@@ -89,9 +105,25 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
               fldfilternotnull = false
               fldfilternull = false
               fldfiltersel = "-30"
+              fldcomparefield = ""
+              fldfilterval = ""
             },
           ]
         }
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_gen_pdf_search_2"
@@ -124,9 +156,25 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
               fldfilternotnull = false
               fldfilternull = false
               fldfiltersel = "-30"
+              fldcomparefield = ""
+              fldfilterval = ""
             },
           ]
         }
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        parentsubtab = ""
+        
+        searchdefault = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_is_landscape"
@@ -149,6 +197,22 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
         searchlevel = "2"
         showinlist = true
         storevalue = true
+        defaultselection = ""
+        defaultvalue = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_title_font_size"
@@ -174,6 +238,19 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_sub_title_font_size"
@@ -199,6 +276,19 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_th_font_size"
@@ -224,6 +314,19 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_tr_font_size"
@@ -249,6 +352,19 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_body_font_size"
@@ -274,6 +390,19 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecordnsts_ci_header_height"
@@ -297,6 +426,21 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        maxvalue = ""
+        minvalue = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_billship_font_size"
@@ -322,6 +466,19 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
       {
         scriptid = "custrecord_nsts_ci_billship_tbl_height"
@@ -347,6 +504,19 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
         searchlevel = "2"
         showinlist = false
         storevalue = true
+        defaultselection = ""
+        
+        linktext = ""
+        maxlength = ""
+        
+        parentsubtab = ""
+        
+        searchdefault = ""
+        selectrecordtype = ""
+        sourcefilterby = ""
+        
+        sourcelist = ""
+        subtab = ""
       },
     ]
   }
@@ -355,6 +525,7 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
       {
         permittedlevel = "FULL"
         permittedrole = "ADMINISTRATOR"
+        
       },
     ]
   }
@@ -363,7 +534,15 @@ netsuite.customrecordtype customrecord_nsts_ci_layout {
       {
         linkcategory = "BASICLISTSCUSTOM"
         linktasktype = "LIST"
+        linklabel = ""
       },
     ]
   }
+  customsegment = ""
+  icon = ""
+  
+  numberinginit = ""
+  numberingmindigits = ""
+  numberingprefix = ""
+  numberingsuffix = ""
 }

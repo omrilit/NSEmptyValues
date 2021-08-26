@@ -21,7 +21,13 @@ netsuite.usereventscript customscript_getchargedescription {
         recordtype = "CHARGE"
         runasrole = "ADMINISTRATOR"
         status = "RELEASED"
+        audslctrole = ""
+        
       },
     ]
   }
+  beforeloadfunction = ""
+  beforesubmitfunction = ""
+  description = ""
+  notifyemails = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_254263_helpcenter_nl_fid_chapter_1516099228_ht
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_254263@ds,
   ]
+  description = ""
 }

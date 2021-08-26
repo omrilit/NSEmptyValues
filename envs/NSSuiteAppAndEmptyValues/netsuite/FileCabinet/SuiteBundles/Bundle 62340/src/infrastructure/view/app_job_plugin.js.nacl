@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_62340_src_infrastructure_view_app_job_plugin_j
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_62340_src_infrastructure_view@dsddd,
   ]
+  description = ""
 }

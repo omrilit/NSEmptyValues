@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_47492_src_reports_oecd_adapter_OECD_GeneralLed
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_47492_src_reports_oecd_adapter@dsdddd,
   ]
+  description = ""
 }

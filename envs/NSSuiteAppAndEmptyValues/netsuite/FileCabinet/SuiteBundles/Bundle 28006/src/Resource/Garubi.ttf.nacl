@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_28006_src_Resource_Garubi_ttf@dsdddv {
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_28006_src_Resource@dsdd,
   ]
+  description = ""
 }

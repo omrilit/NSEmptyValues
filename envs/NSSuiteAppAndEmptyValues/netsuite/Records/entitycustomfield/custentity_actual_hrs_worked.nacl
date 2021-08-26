@@ -33,4 +33,20 @@ netsuite.entitycustomfield custentity_actual_hrs_worked {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_2_t1499227_705.scriptid
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

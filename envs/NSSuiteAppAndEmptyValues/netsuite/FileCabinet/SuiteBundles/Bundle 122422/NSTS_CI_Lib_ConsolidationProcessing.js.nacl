@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_122422_NSTS_CI_Lib_ConsolidationProcessing_js@
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_122422@ds,
   ]
+  description = ""
 }

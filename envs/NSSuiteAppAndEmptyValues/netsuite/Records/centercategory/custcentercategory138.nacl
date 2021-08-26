@@ -9,26 +9,32 @@ netsuite.centercategory custcentercategory138 {
         linkobject = netsuite.centerlink.instance.custlink_13_t1740134_764.scriptid
         linktasktype = "LINK"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTENTITYFIELD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_CUSTRECORD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_SCRIPT"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_SCRIPTEDRECORD"
         shortlist = false
+        linklabel = ""
       },
       {
         linkid = "LIST_WORKFLOW"
         shortlist = false
+        linklabel = ""
       },
     ]
   }

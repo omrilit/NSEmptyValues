@@ -32,4 +32,21 @@ netsuite.entitycustomfield custentity_inactive_date {
   showinlist = false
   storevalue = true
   subtab = netsuite.subtab.instance.custtab_1_t1499227_705.scriptid
+  defaultselection = ""
+  defaultvalue = ""
+  description = ""
+  
+  help = ""
+  linktext = ""
+  maxlength = ""
+  maxvalue = ""
+  minvalue = ""
+  
+  parentsubtab = ""
+  
+  searchdefault = ""
+  selectrecordtype = ""
+  sourcefilterby = ""
+  
+  sourcelist = ""
 }

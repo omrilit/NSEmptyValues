@@ -24,6 +24,7 @@ netsuite.clientscript customscript_nsts_ci_validation_cs {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_nsts_ci_setup.scriptid
         status = "RELEASED"
+        
       },
       {
         scriptid = "customdeploy_nsts_ci_validation_cs_2"
@@ -37,6 +38,7 @@ netsuite.clientscript customscript_nsts_ci_validation_cs {
         loglevel = "DEBUG"
         recordtype = netsuite.customrecordtype.instance.customrecord_nsts_ci_consolidate_invoice.scriptid
         status = "RELEASED"
+        
       },
       {
         scriptid = "customdeploy_nsts_ci_validation_cs_3"
@@ -50,6 +52,7 @@ netsuite.clientscript customscript_nsts_ci_validation_cs {
         loglevel = "DEBUG"
         recordtype = "CUSTOMER"
         status = "RELEASED"
+        
       },
     ]
   }
@@ -63,4 +66,12 @@ netsuite.clientscript customscript_nsts_ci_validation_cs {
       },
     ]
   }
+  lineinitfunction = ""
+  notifyemails = ""
+  postsourcingfunction = ""
+  recalcfunction = ""
+  validatedeletefunction = ""
+  validatefieldfunction = ""
+  validateinsertfunction = ""
+  validatelinefunction = ""
 }

@@ -18,9 +18,12 @@ netsuite.scheduledscript customscript_gb_update_fam_testing_ss {
           single = {
             startdate = "2014-12-23"
             starttime = "02:00:00Z"
+            
           }
         }
       },
     ]
   }
+  description = ""
+  notifyemails = ""
 }

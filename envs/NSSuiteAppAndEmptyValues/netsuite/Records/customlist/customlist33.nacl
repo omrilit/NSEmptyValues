@@ -10,32 +10,39 @@ netsuite.customlist customlist33 {
         scriptid = "value_6_t1499227_127"
         isinactive = false
         value = "N/A"
+        abbreviation = ""
       },
       {
         scriptid = "value_12_t1499227_127"
         isinactive = false
         value = "1 - Excellent"
+        abbreviation = ""
       },
       {
         scriptid = "value_13_t1499227_127"
         isinactive = false
         value = "2 - Good"
+        abbreviation = ""
       },
       {
         scriptid = "value_14_t1499227_127"
         isinactive = false
         value = "3 - Fair"
+        abbreviation = ""
       },
       {
         scriptid = "value_15_t1499227_127"
         isinactive = false
         value = "4 - Poor"
+        abbreviation = ""
       },
       {
         scriptid = "value_16_t1499227_127"
         isinactive = false
         value = "5 - Very Poor"
+        abbreviation = ""
       },
     ]
   }
+  description = ""
 }

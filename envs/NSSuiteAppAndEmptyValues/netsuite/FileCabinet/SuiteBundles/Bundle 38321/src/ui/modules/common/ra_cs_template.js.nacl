@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_38321_src_ui_modules_common_ra_cs_template_js@
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_38321_src_ui_modules_common@dsdddd,
   ]
+  description = ""
 }

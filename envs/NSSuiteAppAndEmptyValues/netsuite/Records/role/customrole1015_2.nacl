@@ -165,19 +165,24 @@ netsuite.role customrole1015_2 {
       {
         permkey = netsuite.customrecordtype.instance.customrecord_oa_features_and_preferences.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord_oa_cost_center.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord_oa_forex_daily.scriptid
         permlevel = "FULL"
+        
       },
       {
         permkey = netsuite.customrecordtype.instance.customrecord_oa_project_rate_card.scriptid
         permlevel = "FULL"
+        
       },
     ]
   }
+  issuerole = ""
 }

@@ -9,4 +9,5 @@ netsuite.file SuiteBundles_Bundle_28006_src_Balance_Sheet_br5032_bsprintingui_cs
   _parent = [
     netsuite.folder.instance.SuiteBundles_Bundle_28006_src_Balance_Sheet@dsdds,
   ]
+  description = ""
 }
