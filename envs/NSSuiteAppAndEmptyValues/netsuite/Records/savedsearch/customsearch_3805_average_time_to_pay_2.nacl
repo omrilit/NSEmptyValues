@@ -1,0 +1,218 @@
+netsuite.savedsearch customsearch_3805_average_time_to_pay_2 {
+  scriptid = "customsearch_3805_average_time_to_pay_2"
+  dependencies = {
+    dependency = [
+      "[scriptid=custbody_3805_dunning_manager]",
+    ]
+  }
+  definition = "1bdbe95d38411b0cf0e447a2ffb282c5126db75431b79bd73d7560c634abd1c1@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "CustInvc"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_AMOUNTREMAINING"
+      FIELD_ATTRIBUTE = "EQUAL"
+      FIELD_TYPE = "CURRENCY"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0.00"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_ISREVERSAL"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_MAINLINE"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "PY_Transaction_TRANDATE"
+      FIELD_MODIFIER = "ONORAFTER"
+      FIELD_ATTRIBUTE = "LFYTD"
+      FIELD_TYPE = "DATE"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "2013-01-01 00:00:00.0 UTC"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2013-06-26 23:00:00.0 UTC"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "CU_Entity_ISINACTIVE"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = true
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 1
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "US_Employee_ROLE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "3"
+        },
+        {
+          KEY_ID = 2
+          FIELD_VALUE = "1117"
+        },
+        {
+          KEY_ID = 3
+          FIELD_VALUE = "5"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 1
+      FIELD_FILTER_NAME = "CUSTBODY_3805_DUNNING_MANAGER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_FORMULANUMERIC"
+      FIELD_INDEX = 1
+      FIELD_SUMMARY_TYPE = "AVG"
+      FIELD_FORMULA = "CASE \t \t\t\t\t\t\t\t\t\tWHEN {payingtransaction.trandate} - {trandate} &gt; 0 \t\t \t\t\t\t\t\t\t\t\t\tTHEN {payingtransaction.trandate} - {trandate} \t \t\t\t\t\t\t\t\t\tELSE \t\t \t\t\t\t\t\t\t\t\t\t0  \t\t\t\t\t\t\t\tEND"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "PY_Transaction_TRANDATE"
+      FIELD_INDEX = 2
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FUNCTION = "MONTH"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "PY_Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch_3805_average_time_to_pay_2"
+  FIELD_DEFAULT_NAME = ".Dunning Average Time to Pay"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = true
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FIELD_CURRENCY_RATE_TYPE = "ACCTTYPE"
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

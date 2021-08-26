@@ -1,0 +1,224 @@
+netsuite.savedsearch customsearch100_2 {
+  scriptid = "customsearch100_2"
+  dependencies = {
+    dependency = [
+      netsuite.crmcustomfield.instance.custevent1.scriptid,
+      netsuite.customlist.instance.customlist13.scriptid,
+    ]
+  }
+  definition = "df88bf1bb28bbfae578cd0718d191e7d30331a88c5d4bfe082c95003ecdd1210@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Case_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "2"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Case_STATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2"
+        },
+        {
+          KEY_ID = 2
+          FIELD_VALUE = "3"
+        },
+        {
+          KEY_ID = 3
+          FIELD_VALUE = "4"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Case_COMPANY"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_NUMBER"
+      FIELD_INDEX = 2
+      FIELD_LABEL = "Issue Number"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_TITLE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_CONTACT"
+      FIELD_INDEX = 4
+      FIELD_LABEL = "Client Owner"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_STATUS"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_CREATEDDATE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_ASSIGNED"
+      FIELD_INDEX = 7
+      FIELD_LABEL = "Foster Owner"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Case_NUMBER"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_GRABREF"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_TITLE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_COMPANY"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_CONTACT"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_STAGE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_STATUS"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_DATE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_CREATEDDATE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_EMAIL"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_TYPE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_ASSIGNED"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_PRIORITY"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTEVENT1"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Case_NUMBER"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch100_2"
+  FIELD_DEFAULT_NAME = "Change Order Requests to Process"
+  FIELD_SEARCH_TYPE = "Case"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

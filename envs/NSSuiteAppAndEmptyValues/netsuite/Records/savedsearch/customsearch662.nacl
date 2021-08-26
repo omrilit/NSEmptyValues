@@ -1,0 +1,211 @@
+netsuite.savedsearch customsearch662 {
+  scriptid = "customsearch662"
+  dependencies = {
+    dependency = [
+      "[scriptid=customrecord_ncfar_asset.custrecord_assetaccmethod]",
+      "[scriptid=customrecord_ncfar_asset.custrecord_assetbookvalue]",
+      "[scriptid=customrecord_ncfar_asset.custrecord_assetcost]",
+      "[scriptid=customrecord_ncfar_asset.custrecord_assetdeprenddate]",
+      "[scriptid=customrecord_ncfar_asset.custrecord_assetdeprstartdate]",
+      "[scriptid=customrecord_ncfar_asset.custrecord_assetdescr]",
+      "[scriptid=customrecord_ncfar_asset.custrecord_assetlastdeprdate]",
+      "[scriptid=customrecord_ncfar_asset.custrecord_assettype]",
+      "[scriptid=customrecord_ncfar_asset.custrecord_ncfar_quantity]",
+      "[scriptid=customrecord_ncfar_asset]",
+      "[scriptid=customrecord_ncfar_assettype]",
+      "[scriptid=customrecord_ncfar_deprmethod]",
+    ]
+  }
+  definition = "5ffe98192b8e26a89118e037d09973e28551d21993222f2ed2ca3b4d667344ca@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Custom_ID"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "INTEGER"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "111"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Custom_ID"
+      FIELD_ATTRIBUTE = "LT"
+      FIELD_TYPE = "INTEGER"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "159"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Custom_NAME"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Custom_ALTNAME"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETDESCR"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETTYPE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETCOST"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETBOOKVALUE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_NCFAR_QUANTITY"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETDEPRSTARTDATE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETDEPRENDDATE"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETLASTDEPRDATE"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Custom_NAME"
+      FIELD_INDEX = 11
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Custom_ALTNAME"
+      FIELD_INDEX = 11
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETDESCR"
+      FIELD_INDEX = 11
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETTYPE"
+      FIELD_INDEX = 11
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETCOST"
+      FIELD_INDEX = 11
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETACCMETHOD"
+      FIELD_INDEX = 11
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_ASSETBOOKVALUE"
+      FIELD_INDEX = 11
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_NCFAR_QUANTITY"
+      FIELD_INDEX = 11
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Custom_NAME"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch662"
+  FIELD_DEFAULT_NAME = "Custom FAM - Asset Search - Gino"
+  FIELD_SEARCH_TYPE = "Custom"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  KEY_RECORD_TYPE = 439
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

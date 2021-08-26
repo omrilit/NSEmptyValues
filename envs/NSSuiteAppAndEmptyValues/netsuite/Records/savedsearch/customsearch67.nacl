@@ -1,0 +1,113 @@
+netsuite.savedsearch customsearch67 {
+  scriptid = "customsearch67"
+  dependencies = {
+    dependency = [
+      netsuite.crmcustomfield.instance.custevent1.scriptid,
+      netsuite.customlist.instance.customlist13.scriptid,
+    ]
+  }
+  definition = "72b4857165a5cf4f2acfd515c8cc6214eba6e5dece2b558d3c9a14111a13496c@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Case_PRIORITY"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Case_STAGE"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@NOTCLOSED@"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Case_DATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_ASSIGNED"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Case_STATUS"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTEVENT1"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Case_DATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch67"
+  FIELD_DEFAULT_NAME = "High Priority Cases"
+  FIELD_SEARCH_TYPE = "Case"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

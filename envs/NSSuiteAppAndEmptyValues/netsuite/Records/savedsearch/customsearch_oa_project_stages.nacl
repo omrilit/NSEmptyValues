@@ -1,0 +1,81 @@
+netsuite.savedsearch customsearch_oa_project_stages {
+  scriptid = "customsearch_oa_project_stages"
+  dependencies = {
+    dependency = [
+      netsuite.customrecordtype.instance.customrecord_oa_project_stages.scriptid,
+    ]
+  }
+  definition = "4d4eaffaf62ef69eb407abe7d1bbf9d4328bdf6732de368f6c3d8a814ba9d828@GZC@2021.1.0.148@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"
+  return_fields = [
+    {
+      FIELD_ALIAS = "Custom_NAME"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Custom_INTERNALID"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Custom_NAME"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Custom_NAME"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_oa_project_stages"
+  FIELD_DEFAULT_NAME = "OpenAir: Project Stages Search"
+  FIELD_SEARCH_TYPE = "Custom"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  KEY_RECORD_TYPE = 584
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

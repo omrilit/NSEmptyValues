@@ -1,0 +1,156 @@
+netsuite.savedsearch customsearch676 {
+  scriptid = "customsearch676"
+  definition = "07daadaaf6a14ab1fc6e83dba7d62214eacc605a2bc5f2a655c2132baff99fad@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 1
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Timeentry_APPROVALSTATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Timeentry_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "A"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Timeentry_SUBSIDIARY"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "8"
+        },
+        {
+          KEY_ID = 2
+          FIELD_VALUE = "4"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 1
+      FIELD_FILTER_NAME = "EM_Employee_TIMEAPPROVER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Timeentry_EMPLOYEE"
+      FIELD_INDEX = 1
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Timeentry_DURATIONDECIMAL"
+      FIELD_INDEX = 2
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Timeentry_DATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch676"
+  FIELD_DEFAULT_NAME = "Unapproved hours for tiles"
+  FIELD_SEARCH_TYPE = "Timeentry"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "ANY"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

@@ -1,0 +1,128 @@
+netsuite.savedsearch customsearch_fmt_sdg_uruguay_employee {
+  scriptid = "customsearch_fmt_sdg_uruguay_employee"
+  definition = "354bf4c51f3ee463af7f4c5455f8b65dbb7a11202bea32fb39fc1d5f095b488e@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Employee_FIRSTNAME"
+      FIELD_ATTRIBUTE = "IS"
+      FIELD_TYPE = "TEXT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "Solution Development Group"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Employee_LASTNAME"
+      FIELD_ATTRIBUTE = "IS"
+      FIELD_TYPE = "TEXT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "Uruguay"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Entity_INTERNALID"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_ISINACTIVE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Employee_ROLE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_EMAIL"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Entity_ENTITYID"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_fmt_sdg_uruguay_employee"
+  FIELD_DEFAULT_NAME = "Solution Development Group Uruguay Employee"
+  FIELD_SEARCH_TYPE = "Employee"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = true
+  FLAG_REMINDER = true
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

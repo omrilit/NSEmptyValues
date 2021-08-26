@@ -1,0 +1,131 @@
+netsuite.savedsearch customsearch_schedule_outline_2_2 {
+  scriptid = "customsearch_schedule_outline_2_2"
+  definition = "5170b29cc3300254eaa136a2c701cc9b58d7bd8e871b5d7d6cb4b92bae67703a@GZC@2021.1.0.148@H4sIAAAAAAAAAO1dW3ObSBZ+n6r5DyrlOZZRfC/ZUwhaFmMuWi52PC8UkToJE4RcgJxxpvZl8rJ/ZR+2aqv2J+WPbHOTdQEJUDcmma5KynYD/fXlnO8czoFD75c/pk7rEXq+PXMv28zBYbsF3fFsYrsfLtuGPnh91v7l6uefeq7vz8YXGvRsy7G/wIny7nc4DriZG1i2C70W6sb1L6KzLtsfg+DhotP5/PnzgQsDf24H8GA8m3b88Uc4tfxOdFq7Nbcnl21d03n1ljk9OmTeHF1o1iOcaNDyxh8vxnM/mE396A8zvHQyd6A5mwcOQjS7ZveCOemen58dn5yeHB2et5+ncXjAtFuBPYV+YE0f0LRWzkPTabWSCU2thwc0+pUrr9BQw3E7cPIBemjgHjyIR4F+JPP3DuIrD+KxStEfvc5yp8swE/jedu0AQUStqD2+jl9vR0cm0B979kMw8xZtqNWDaBwT/ekBtsaO5fuX7bgHddHevtIAq3JDE8i6et/rPF+x3M+j5cyhv9SC2m7DttZ7GzrR6WnXg7ShHR+7bN+Ae3PEcjfsNWi3Ont0onGqMNJNgW+Hs/ny5bLtBx4SObT2uza914mQKoIPBCDyJg8GrCHqpsxKaCIT+ADdCZL6pxv4dNkWZ2PLgfxiFy6SZdUFXQSvDjdGPPJmoSq0dMv/1GJ93/7gQujjGGYKfD8Ceagh6J5QInttjoy+KHALkHezmQMtt30VeHOIoXtR0HRinY8UFW1MRv/vLcfHASCx3FCQAbEJqEASZB6o5GagDZU7tAnyDTmIkQoGQFUBn7PZ+HGI7/szVK4E4IcaKKpUB44KNMSAGhGokOGTJUvIax9bsVj8qp1EM78VwJ3JamjeodyQW+EU51plR8M6YJZsKHYUQ0ZioqsCpwMyKBL71lSVO23PzeUFje2LwORVQRRNXrmTyaxJZJU5AymQzN2bKqvvK9/R6IcCD8yBIOpARTNQRuH4ySlm6vvo4K1uxjOKsTdcDE1nVV27E/QhBlFib1lBjDYJSe0AEJKnCOpaVPqsaAJeIKjnnHZLrnPwlgMiQSvADwjqB5DQTpsDVZH20IulnjSj/yvgdDyd9RX+Hk9PnCJJ6E5rT91H5Hp9DUKDzIqApF3SuCHgDbF2ILR9ksSqAiDDaDEkkMNdGen3RN2amMeiSbGiiDxqJJnhjWyfoGMYwwkyJxrISERWP9uPx3QvMkTsrCs6KxJcwnQ2I6AKCto4tHm6ysoay+mCQsjyxZrbN8QbUxkh3eX3MdrPfUWhlshnN0esykr7OjJ9A5litEAE10AZ6YIk/IZ8DeRV70tfkeYpsmmMeOQMEb6BZQ1k0UNREcjYxtA7CjGQc7cZFVoNU7LziY0OwQtmMRLbDdpXh5sj6HXWQm69TkaEr/fedgLoLQfmesFGsA84cArdYCXaFztvWq8TLEf6ep31Dnv+fDq1vKdBVaCYyO9zAXP671mPlu1Y7xwYH4nWvQL8swOZPYCc2GYcH11pQ60Plof6T0G5mePAcRiFbbc8+B564dZetg8OOtG/dR0pF41dH3dOYDZvAuVEWAP/MGVD6i9585FcMlmaUVIPI/bIjJi+m3gXlvt04c4dZ1ug0hQ0SRDRHaUiA1wD4gzUnWSiFQ495l2h3PXNeNXd3NzS5DRQFD0repdnkitDmBLybQREumLkDxemwAwSihszlIMqTKQwmWmG+hUG3YLrhtYQXXlDdWVZLzIM+3ZTh5QgmHtuVQOoAt1Q5Thk870Yv+UxE9XjWMBZUWC1PcwTj0vTwnzOW0ImuKD6Li/9q6M9VTdORyYOYJUBHOMcQFbMtUp/A0OObjmx9IXuAQ2RxdiVCVRVKZMUrIKlqHwUferfp8qzoe7fkevwfdFN9EABQcbB5sNUUfiTl2acU8o4lHEo41zprLlEOvHzSaFvGYbKFUPlSDLQm5dkoLONpVChP5t7Y2yivA89nVN6ovRE6SmfnvqCKAryNSeyGrYASAZFHb0kRTGbT5P2bcdBv7S4cGebQFQMQ5mKMhVlqnym0oB6K3BA0IFEkKiOX5SouptPh0Hv0R7DlhDAaSN4at/wNOUpylM/NE8BTRckVgf8naLeEGSqkxdlqqONBQF+YE+tAE5adzMv822ZKoPbi6toOJxyFeWqLVzFcrrBioSJ6vRFiepkYzXYcTC3nOawFA2hU5aiLLWatEv2WTYkoAocQXI6e1FyygqeTy3bDUNTjeGnv08MfW0v/nyIJTJAEmktjOYBTB3dz2iH/vk65ywrsjLRKbh2kZLfyvU/FPnlumicoukE+e/8JfmvuxmYf76L5GZ+0AT+69LIPKUoSlFbKGqEXDSSzzcwGe/7VOu8kv5vBuWfSUqFj9DF8kz1/jxFI/M/Ok9lPAuf+bB7bwIDy3bWWltFH4HngR69W571CHz4Wl1G3z1/5gWIH+dTt8o7b4qqI0dHNCT5e3nkfmnIRNk6fFsy2oiXft5eXIgy/gfuo+IiQOOAzAvydV2vkWSJbA8RrBegq+0HG4lSVQ2K3ydXASeMBCDrWp4ubUVbGwuGYezAX4L+aH/46KD/AZKm8rhD4Xooov862s1i+hz3NUxRcSu27b6fbQpoCXVfzGiLsuere3mbEZWNQfQSGqdNa1e+vz7L3VyriiHzOHsVpKhE4Rr3+IHl9ede/t1baW7oK2KZQjbVJpNW7AmJSN3tey0kAnmsA+VVdzMhKtkO9IOZC1t55QOjYWYRWNicIbMZr68nB4rpZd4r3TulN125ED3j+P4amvSSWZRz5YwSOjtiVUR6Q6AJv4G0+tJW9d21DMnxknYtKl8lSMDUAKfI5eW4EmpYF2jjFd96oGWl3IuglYFKO+4VcBIH3uRE1tBA8qLwAnb80fLaVzJuPNmQTBEM9FiCtVV/K/deeB80NSKyWuCSCmzEKxxUHl/+TWbVLiWFF9BvOUa3Wp+srqtC39A3zW9utLgqVGZhXG4IuJu+8nY7WI5xSw/uoPvtTFzK5pm3rGiAPMu3Y6i9zlb7l2vBs6x12le2q0v94B/ID/5DsvIzuD+kD3y8sQbyzH39znaiag3UDaZuMHWDqRtM3WBcbrCsyOH7e6Fs66yW+wxn5TFSV5i6wuuH6nGFM8L1GSHptIe177ukH4hZ+xzM4iMxibLZi+7Xjzy1gkgY1h2e5Fs6Oz9dEp502H4e+/oF6xH1q+UONgPmn+BTSEDhj+ULPcv1HSuc3tq6on33nta3IJbWK+iaYaWz5K/sc/I+tZJxUa+zCbYVf2KZ/M0OfO1hFv7EAwjdPLSQXtfrspbt/XfL/HW0Yzrfvv7r29d/f/v69dtf//n29X/f/vovpqWEyE/fga171vhT8bVEspclVb1OjgQ/a1qqOTs0Kq3omvlVquVyr+FRZkmFNhN6RVzgtM4skc80xZWjE4SwVnVS+Q/dWhCsVL2MB6SRqNwDkkW/V/CQZ6TL9U1PVcSsqWGqwb0CdQtkXiE1sdhLSeFWZ5U6EYUqGq8oQWndK2rNsqq3hid2y1i0zfKiWVatW4dVw8HzW80WDoAXNFNY1mebLSoEQNz0VBb/N7H4v8Ev/m+o+FPxT1saIv7rBU3Dk47KiP7qg8xZYn9ExZ6KfdrSRLE/jsX+GK/YH1Oxp2KftjRR7E9isT/BK/YnVOyp2KctTRT701jsT/GK/SkVeyr2aUsTxf4sFvszvGJ/VmOe4rnQcF2ZCbyI+YpBBK5IrgLzkhbIUJREbKYunce6dI5Xl86pCaEmJG1potgzSa6bKZXs3i34TJ3Z7rVS0HWZEgKwO+0JAcwiRoXEChewLFVgG6pnaUKcwaxnDLUw1MKkLY2U/CT3zJRKPheQ/Foyz0nrag3vugwMftSd9gU/ZBHzQmB5C1iXCqgNVbEkv82USnAXUDGa3abGZdHSSMlP0tsM5vw2U0uCO2ldL7tel3khgbvTwJAALWJiiCxyASNTCbehypYk1RnMWXWGptWpmVm0NFLyk7w6gzmxztSSWU9aV4rm12VjsIPuNDDYEYtYF/xrW8C0lAdtqHYl6XsGc/6eoQl8alcWLY2U/CSDz2BO4TP15vBXv3dQl2khgVsgn48ftFhWn8AiF8rtV8BtqLIlKX4Gc46foUl+amYWLU2U/G6S5O9iTvJ360zyr39Wov4oGT7cElEyfKDlomQYF7lUlKwEbkOVLcn0dzFn+rs000/NzKKlkZKfvmWOOdPfrTPTn/FhkPotDVboEsYGK245e4N3tUuZnHLQDdW95BGALuZHALr0EQBqdRYtDZH8jML9keyXeghgtZMc6a/zMYD1jw0QNztUKX5kpUiS9d1SyfpCSlFLuj5pzag+TPXib6QXG81xyce0WYOebTn2FzhR3oUFD7mZG1i2G9W1/Pmn/wOT/rVptLkAAA=="
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "ProjectTask_ISMILESTONE"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "ProjectTask_STATUS"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "ProjectTask_ID"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_TITLE"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TA_ProjectTaskAssignment_RESOURCE"
+      FIELD_INDEX = 3
+      FIELD_LABEL = "Resource"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TA_ProjectTaskAssignment_BILLINGCLASS"
+      FIELD_INDEX = 4
+      FIELD_LABEL = "Billing Class"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TA_ProjectTaskAssignment_SERVICEITEM"
+      FIELD_INDEX = 5
+      FIELD_LABEL = "Service Item"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TA_ProjectTaskAssignment_ESTIMATEDWORK"
+      FIELD_INDEX = 6
+      FIELD_LABEL = "Estimated Work"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TA_ProjectTaskAssignment_ACTUALWORK"
+      FIELD_INDEX = 7
+      FIELD_LABEL = "Actual Work"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_FORMULANUMERIC"
+      FIELD_INDEX = 8
+      FIELD_LABEL = "Remaining Work"
+      FIELD_FORMULA = "{projecttaskassignment.estimatedwork}-{projecttaskassignment.actualwork}"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TA_ProjectTaskAssignment_COST"
+      FIELD_INDEX = 9
+      FIELD_LABEL = "Estimated Cost"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TA_ProjectTaskAssignment_PRICE"
+      FIELD_INDEX = 10
+      FIELD_LABEL = "Estimated Revenue"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "ProjectTask_ID"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_schedule_outline_2_2"
+  FIELD_DEFAULT_NAME = "Project Task Assignees"
+  FIELD_SEARCH_TYPE = "ProjectTask"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = false
+  FLAG_MACHINE = true
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

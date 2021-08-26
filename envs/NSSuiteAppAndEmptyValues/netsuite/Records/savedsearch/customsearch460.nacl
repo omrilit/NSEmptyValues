@@ -1,0 +1,99 @@
+netsuite.savedsearch customsearch460 {
+  scriptid = "customsearch460"
+  dependencies = {
+    dependency = [
+      netsuite.entitycustomfield.instance.custentity_ra_approver.scriptid,
+    ]
+  }
+  definition = "ef66ac4342ca83defe3e27cd31c3954f8b23846a36664631b095237030d403fb@GZC@2021.1.0.148@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"
+  return_fields = [
+    {
+      FIELD_ALIAS = "GenericResource_ENTITYID"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GenericResource_BILLINGCLASS"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GenericResource_LABORCOST"
+      FIELD_INDEX = 3
+      FIELD_LABEL = "Labor Cost"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GenericResource_LABORPRICE"
+      FIELD_INDEX = 4
+      FIELD_LABEL = "Hourly Bill Rate"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GenericResource_WORKCALENDAR"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTENTITY_RA_APPROVER"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "GenericResource_SUBSIDIARY"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "CUSTENTITY_RA_APPROVER"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "GenericResource_ENTITYID"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch460"
+  FIELD_DEFAULT_NAME = "Default Generic Resource View"
+  FIELD_SEARCH_TYPE = "GenericResource"
+  FLAG_PUBLIC = false
+  FLAG_LIST = true
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

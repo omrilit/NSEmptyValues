@@ -1,0 +1,230 @@
+netsuite.savedsearch customsearch186 {
+  scriptid = "customsearch186"
+  definition = "f051ec7cd75af26f6deae7d6273a7ee1b74723c719aeec4752005cea2a09f6a8@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Job_STATUS"
+      FIELD_ATTRIBUTE = "NONEOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Entity_SUBSIDIARY"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "5"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Job_STARTDATE"
+      FIELD_MODIFIER = "WITHIN"
+      FIELD_ATTRIBUTE = "TM"
+      FIELD_TYPE = "DATE"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "2009-12-01 00:00:00.0 UTC"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2009-12-31 00:00:00.0 UTC"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Job_CUSTOMER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "631"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "867"
+        },
+        {
+          KEY_ID = 2
+          FIELD_VALUE = "702"
+        },
+        {
+          KEY_ID = 3
+          FIELD_VALUE = "1362"
+        },
+        {
+          KEY_ID = 4
+          FIELD_VALUE = "863"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_STATUS"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_ESTIMATEDLABORREVENUE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_EMAIL"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_PHONE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_ALTPHONE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_FAX"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_CUSTOMER"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_STATUS"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_CONTACT"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_TYPE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_STARTDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_PROJECTEDENDDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_ALTEMAIL"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Job_ESTREVENUE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = true
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch186"
+  FIELD_DEFAULT_NAME = "Projects Live This Month - Germany "
+  FIELD_SEARCH_TYPE = "Job"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

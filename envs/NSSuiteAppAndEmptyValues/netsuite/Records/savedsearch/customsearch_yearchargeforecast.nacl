@@ -1,0 +1,237 @@
+netsuite.savedsearch customsearch_yearchargeforecast {
+  scriptid = "customsearch_yearchargeforecast"
+  definition = "af0f27cd6bc8d0ec1371a6808313019dfbff7281a74929db44b5a0c0d39b1418@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Charge_USE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "Forecast"
+        },
+      ]
+    },
+  ]
+  search_summary_filters = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "SUM_Charge_AMOUNT"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "CURRENCY"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0.00"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Charge_BILLTO"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "JO_Job_STATUS"
+      FIELD_CUSTOM_LABEL = "Status"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Charge_BILLTO"
+      FIELD_INDEX = 1
+      FIELD_LABEL = "Client:Project"
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "JO_Job_STATUS"
+      FIELD_INDEX = 2
+      FIELD_LABEL = "Status"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 3
+      FIELD_LABEL = "January"
+      FIELD_SUMMARY_LABEL = "January"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;01&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 4
+      FIELD_LABEL = "February"
+      FIELD_SUMMARY_LABEL = "February"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;02&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 5
+      FIELD_LABEL = "March"
+      FIELD_SUMMARY_LABEL = "March"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;03&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 6
+      FIELD_LABEL = "April"
+      FIELD_SUMMARY_LABEL = "April"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;04&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 7
+      FIELD_LABEL = "May"
+      FIELD_SUMMARY_LABEL = "May"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;05&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 8
+      FIELD_LABEL = "June"
+      FIELD_SUMMARY_LABEL = "June"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;06&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 9
+      FIELD_LABEL = "July"
+      FIELD_SUMMARY_LABEL = "July"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;07&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 10
+      FIELD_LABEL = "August"
+      FIELD_SUMMARY_LABEL = "August"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;08&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 11
+      FIELD_LABEL = "September"
+      FIELD_SUMMARY_LABEL = "September"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;09&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 12
+      FIELD_LABEL = "October"
+      FIELD_SUMMARY_LABEL = "October"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;10&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 13
+      FIELD_LABEL = "November"
+      FIELD_SUMMARY_LABEL = "November"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;11&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULACURRENCY"
+      FIELD_INDEX = 14
+      FIELD_LABEL = "December"
+      FIELD_SUMMARY_LABEL = "December"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA = "DECODE(TO_CHAR({chargedate}, &apos;MMYYYY&apos;), &apos;12&apos; || TO_CHAR(SYSDATE, &apos;YYYY&apos;), {amount})"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Charge_BILLTO"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_yearchargeforecast"
+  FIELD_DEFAULT_NAME = "Yearly Charge Forecast"
+  FIELD_SEARCH_TYPE = "Charge"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "ANY"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = true
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

@@ -1,0 +1,74 @@
+netsuite.savedsearch customsearch_oa_credit_charge_type {
+  scriptid = "customsearch_oa_credit_charge_type"
+  dependencies = {
+    dependency = [
+      netsuite.customrecordtype.instance.customrecord_oa_credit_charge_type.scriptid,
+    ]
+  }
+  definition = "3144eeefca7fede42d5edf301663040eda351c571f1de702cfeb6d68ae863cbc@GZC@2021.1.0.148@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"
+  return_fields = [
+    {
+      FIELD_ALIAS = "Custom_NAME"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Custom_INTERNALID"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Custom_NAME"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_oa_credit_charge_type"
+  FIELD_DEFAULT_NAME = "OpenAir: Charge Type Search"
+  FIELD_SEARCH_TYPE = "Custom"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  KEY_RECORD_TYPE = 582
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "ANY"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

@@ -1,0 +1,178 @@
+netsuite.savedsearch customsearch996 {
+  scriptid = "customsearch996"
+  definition = "9d948411a2e4349afa470036e2749a55e7a39379625a556ca2e3b983d0b03e28@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "ProjectTask_STATUS"
+      FIELD_ATTRIBUTE = "NONEOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "COMPLETE"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "ProjectTask_STARTDATE"
+      FIELD_MODIFIER = "WITHIN"
+      FIELD_ATTRIBUTE = "TM"
+      FIELD_TYPE = "DATE"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "2014-01-01 00:00:00.0 UTC"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2014-01-31 00:00:00.0 UTC"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "ProjectTask_ISMILESTONE"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "ProjectTask_PERCENTWORKCOMPLETE"
+      FIELD_ATTRIBUTE = "LT"
+      FIELD_TYPE = "PERCENT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "100"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "ProjectTask_STARTDATE"
+      FIELD_CUSTOM_LABEL = "Due Date"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "ProjectTask_STATUS"
+      FIELD_CUSTOM_LABEL = "Task Status"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "ProjectTask_FORMULATEXT"
+      FIELD_INDEX = 1
+      FIELD_FORMULA = "CASE     WHEN         ({status} = &apos;Completed&apos; OR ROUND({percentworkcomplete}*100, 1) = 100.0)     THEN         &apos;&lt;div style=&quot;height:15px;width:15px;display:block;margin:0 auto;border:1px solid #afc437;border-radius:15px;background-color:#afc437;&quot;&gt;&lt;/div&gt;&apos;     WHEN         (ROUND({percentworkcomplete}*100, 1) &lt;&gt; 100.0) AND (TO_DATE(TO_CHAR({startdate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) &lt; 0     THEN         &apos;&lt;div style=&quot;height:15px;width:15px;display:block;margin:0 auto;border:1px solid #bf340f;border-radius:15px;background-color:#bf340f;&quot;&gt;&lt;/div&gt;&apos;     WHEN         (ROUND({percentworkcomplete}*100, 1) &lt;&gt; 100.0) AND (TO_DATE(TO_CHAR({startdate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) = 0     THEN         &apos;&lt;div style=&quot;height:15px;width:15px;display:block;margin:0 auto;border:1px solid #f89406;border-radius:15px;background-color:#f89406;&quot;&gt;&lt;/div&gt;&apos;     ELSE         &apos;&lt;div style=&quot;height:15px;width:15px;display:block;margin:0 auto;border:1px solid #428bca;border-radius:15px;background-color:#428bca;&quot;&gt;&lt;/div&gt;&apos; END"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_FORMULATEXT"
+      FIELD_INDEX = 2
+      FIELD_LABEL = "Due Date Status"
+      FIELD_FORMULA = "CASE     WHEN         ({status} = &apos;Completed&apos; OR ROUND({percentworkcomplete}*100, 1) = 100.0)     THEN         &apos;&lt;span style=&quot;color:#afc437;font-weight:bold;&quot;&gt;Completed&lt;/span&gt;&apos;     WHEN         (TO_DATE(TO_CHAR({startdate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) &lt; -1     THEN         &apos;&lt;span style=&quot;color:#bf340f;font-weight:bold;&quot;&gt;&apos; || (TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR({startdate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) || &apos; days overdue&lt;/span&gt;&apos;     WHEN         (TO_DATE(TO_CHAR({startdate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) = -1     THEN         &apos;&lt;span style=&quot;color:#bf340f;font-weight:bold;&quot;&gt;&apos; || (TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR({startdate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) || &apos; day overdue&lt;/span&gt;&apos;     WHEN         (TO_DATE(TO_CHAR({startdate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) = 0     THEN         &apos;&lt;span style=&quot;color:#f89406;font-weight:bold;&quot;&gt;Due today&lt;/span&gt;&apos;     WHEN         (TO_DATE(TO_CHAR({startdate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) = 1     THEN         &apos;&lt;span style=&quot;color:#428bca;font-weight:bold;&quot;&gt;Due in &apos; || (TO_DATE(TO_CHAR({startdate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) || &apos; day&lt;/span&gt;&apos;     ELSE         &apos;&lt;span style=&quot;color:#428bca;font-weight:bold;&quot;&gt;Due in &apos; || (TO_DATE(TO_CHAR({startdate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) || &apos; days&lt;/span&gt;&apos; END"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_STARTDATE"
+      FIELD_INDEX = 3
+      FIELD_LABEL = "Due Date"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_STATUS"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_TITLE"
+      FIELD_INDEX = 5
+      FIELD_LABEL = "Milestone Name"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_PROJECT"
+      FIELD_INDEX = 6
+      FIELD_LABEL = "Client:Project"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "ProjectTask_STARTDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch996"
+  FIELD_DEFAULT_NAME = "Monthly Milestones"
+  FIELD_SEARCH_TYPE = "ProjectTask"
+  FLAG_PUBLIC = false
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = true
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = true
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

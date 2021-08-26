@@ -1,0 +1,149 @@
+netsuite.savedsearch customsearch137 {
+  scriptid = "customsearch137"
+  definition = "593643a8ec6446711973157d9a45b70d638e8cc0509e372cf58b9a3cb861789f@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Opprtnty_ENTITYSTATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "9"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "8"
+        },
+        {
+          KEY_ID = 2
+          FIELD_VALUE = "11"
+        },
+        {
+          KEY_ID = 3
+          FIELD_VALUE = "10"
+        },
+        {
+          KEY_ID = 4
+          FIELD_VALUE = "12"
+        },
+        {
+          KEY_ID = 5
+          FIELD_VALUE = "7"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Opprtnty_SALESREP"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Opprtnty_PROJECTEDAMOUNT"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "CURRENCY"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "20000.00"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "BaseTran_DATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "BaseTran_NUMBER"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "BaseTran_ENTITY"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Opprtnty_PROJECTEDAMOUNT"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "BaseTran_DATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch137"
+  FIELD_DEFAULT_NAME = "Meine Offene Kostenvoranschläge&amp;gt; €20K"
+  FIELD_SEARCH_TYPE = "Opprtnty"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = true
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = true
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

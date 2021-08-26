@@ -1,0 +1,171 @@
+netsuite.savedsearch customsearch_opencharges {
+  scriptid = "customsearch_opencharges"
+  definition = "f6c287537354b1b3985849f795f0d3c760916b64bd9e2d1c35025df144600221@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Charge_USE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "Actual"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "JO_Job_STATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "24"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Charge_STAGE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "HOLD_FOR_BILLING"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "JO_Entity_SUBSIDIARY"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+  ]
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "Charge_BILLTO"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Charge_FORMULATEXT"
+      FIELD_INDEX = 1
+      FIELD_LABEL = "View Dashboard"
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA = "&apos;&lt;img src=&quot;https://system.na1.netsuite.com/uirefresh/img/dashboard.png&quot;&gt;  &lt;a class=&quot;dottedlink&quot; href=&quot;/app/accounting/project/projectdashboard.nl?sc=-77&amp;project=&apos; || {job.internalid} || &apos;&quot; target=&quot;_self&quot; title=&quot;View Project Dashboard&quot;&gt;&apos; || {job.entityid} || &apos; &apos; || {job.jobname} || &apos;&lt;/a&gt;&apos;"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULATEXT"
+      FIELD_INDEX = 2
+      FIELD_LABEL = "View Client"
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA = "&apos;&lt;a class=&quot;dottedlink&quot; href=&quot;/app/common/entity/custjob.nl?id=&apos; || {job.custentity_project_customerid} || &apos;&quot; target=&quot;_self&quot; title=&quot;View Client&quot;&gt;&apos; ||{job.customer} || &apos;&lt;/a&gt;&apos;"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_FORMULATEXT"
+      FIELD_INDEX = 3
+      FIELD_LABEL = "Project Status"
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA = "CASE     {job.status}     WHEN         &apos;On Hold&apos;         THEN             &apos;&lt;span style=&quot;font-weight:600;color:#bf340f;&quot;&gt;&apos; || {job.status} || &apos;&lt;/span&gt;&apos;     WHEN         &apos;Pending&apos;         THEN             &apos;&lt;span style=&quot;font-style:italic;color:#f89406;&quot;&gt;&apos; || {job.status} || &apos;&lt;/span&gt;&apos;     WHEN         &apos;In Progress&apos;         THEN             &apos;&lt;span style=&quot;color:#afc437;&quot;&gt;&apos; || {job.status} || &apos;&lt;/span&gt;&apos;     ELSE         {job.status} END"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Charge_AMOUNT"
+      FIELD_INDEX = 4
+      FIELD_SUMMARY_LABEL = "Total Open Charges"
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Charge_AMOUNT"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = true
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_opencharges"
+  FIELD_DEFAULT_NAME = "Charges on Hold"
+  FIELD_SEARCH_TYPE = "Charge"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "ANY"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = true
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

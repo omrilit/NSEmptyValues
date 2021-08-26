@@ -1,0 +1,211 @@
+netsuite.savedsearch customsearch_3805_overdue_recei_range_2 {
+  scriptid = "customsearch_3805_overdue_recei_range_2"
+  dependencies = {
+    dependency = [
+      "[scriptid=custbody_3805_dunning_manager]",
+    ]
+  }
+  definition = "8917ffb8d74c798bf9c0d96cd9defd177270b0e8da38871a098f8f5287458e52@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_TYPE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "CustInvc"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_AMOUNTREMAINING"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "CURRENCY"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0.00"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_MAINLINE"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_ISREVERSAL"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Transaction_DAYSOVERDUE"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "INTEGER"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "CU_Entity_ISINACTIVE"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = true
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 1
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "US_Employee_ROLE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1117"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "1"
+        },
+        {
+          KEY_ID = 2
+          FIELD_VALUE = "3"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 1
+      FIELD_FILTER_NAME = "CUSTBODY_3805_DUNNING_MANAGER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Transaction_AMOUNTREMAINING"
+      FIELD_INDEX = 1
+      FIELD_SUMMARY_TYPE = "SUM"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Transaction_FORMULATEXT"
+      FIELD_INDEX = 2
+      FIELD_SUMMARY_TYPE = "GROUP"
+      FIELD_FORMULA = "CASE \t \t\t\t\t\t\t\t\t\tWHEN {daysoverdue} &lt;= 30 \t\t \t\t\t\t\t\t\t\t\t\tTHEN &apos;1-30 days&apos; \t \t\t\t\t\t\t\t\t\tWHEN {daysoverdue} &lt;= 60 \t\t \t\t\t\t\t\t\t\t\t\tTHEN &apos;31-60 days&apos; \t \t\t\t\t\t\t\t\t\tWHEN {daysoverdue} &lt;= 90 \t\t \t\t\t\t\t\t\t\t\t\tTHEN &apos;61-90 days&apos; \t \t\t\t\t\t\t\t\t\tELSE \t\t \t\t\t\t\t\t\t\t\t\t&apos;more than 90 days&apos; \t\t\t\t\t\t\t\tEND"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Transaction_TRANDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch_3805_overdue_recei_range_2"
+  FIELD_DEFAULT_NAME = ".Dunning Overdue Receivables by Age"
+  FIELD_SEARCH_TYPE = "Transaction"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = true
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FIELD_CURRENCY_RATE_TYPE = "ACCTTYPE"
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

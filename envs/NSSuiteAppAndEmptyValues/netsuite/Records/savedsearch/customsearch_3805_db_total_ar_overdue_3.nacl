@@ -1,0 +1,179 @@
+netsuite.savedsearch customsearch_3805_db_total_ar_overdue_3 {
+  scriptid = "customsearch_3805_db_total_ar_overdue_3"
+  dependencies = {
+    dependency = [
+      "[scriptid=custbody_3805_dunning_manager]",
+      "[scriptid=custentity_3805_dunning_manager]",
+      "[scriptid=custentity_3805_dunning_procedure]",
+      "[scriptid=customrecord_3805_dunning_procedure]",
+    ]
+  }
+  definition = "feb5fdb59d5aad4b53f3040cadfa33605f0832750d9fc9e13b1fa17f6ba226e0@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Customer_OVERDUEBALANCE"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "CURRENCY"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0.00"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Entity_ISINACTIVE"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = true
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 1
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "US_Employee_ROLE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "5"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "1"
+        },
+        {
+          KEY_ID = 2
+          FIELD_VALUE = "3"
+        },
+        {
+          KEY_ID = 3
+          FIELD_VALUE = "1117"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = true
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "CUSTENTITY_3805_DUNNING_MANAGER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 1
+      FIELD_FILTER_NAME = "TR_CUSTBODY_3805_DUNNING_MANAGER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Entity_INTERNALID"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Customer_COMPANYNAME"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTENTITY_3805_DUNNING_PROCEDURE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Customer_OVERDUEBALANCE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Entity_ENTITYID"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch_3805_db_total_ar_overdue_3"
+  FIELD_DEFAULT_NAME = ".Total A/R Overdue"
+  FIELD_SEARCH_TYPE = "Customer"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

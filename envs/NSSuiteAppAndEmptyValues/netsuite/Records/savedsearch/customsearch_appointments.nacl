@@ -1,0 +1,210 @@
+netsuite.savedsearch customsearch_appointments {
+  scriptid = "customsearch_appointments"
+  dependencies = {
+    dependency = [
+      netsuite.crmcustomfield.instance.custevent_address.scriptid,
+      netsuite.crmcustomfield.instance.custevent_latitude.scriptid,
+      netsuite.crmcustomfield.instance.custevent_longitude.scriptid,
+    ]
+  }
+  definition = "781b6abc561206dfb4ab2825ece2e7f64e41b6fdeff509671fb55dd242ea5631@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Calendar_DATE"
+      FIELD_MODIFIER = "ON"
+      FIELD_ATTRIBUTE = "TODAY"
+      FIELD_TYPE = "DATE"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "2010-02-05 00:00:00.0 UTC"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2010-02-05 00:00:00.0 UTC"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Calendar_STATUS"
+      FIELD_ATTRIBUTE = "NONEOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "CANCELLED"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Calendar_TITLE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_STARTTIME"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_ENDTIME"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_ORGANIZER"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_STATUS"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTEVENT_ADDRESS"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTEVENT_LATITUDE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTEVENT_LONGITUDE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_COMPANY"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_LOCATION"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_MESSAGE"
+      FIELD_INDEX = 11
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Calendar_TITLE"
+      FIELD_INDEX = 12
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_STARTDATE"
+      FIELD_INDEX = 12
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_STARTTIME"
+      FIELD_INDEX = 12
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_ENDTIME"
+      FIELD_INDEX = 12
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_OWNER"
+      FIELD_INDEX = 12
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_STATUS"
+      FIELD_INDEX = 12
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Calendar_MARKDONE"
+      FIELD_INDEX = 12
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "CUSTEVENT_LATITUDE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+    {
+      KEY_FIELD = "CUSTEVENT_LONGITUDE"
+      FILELD_ORDER = 2
+      FLAG_DESCENDING = false
+    },
+    {
+      KEY_FIELD = "Calendar_STARTDATE"
+      FILELD_ORDER = 3
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_appointments"
+  FIELD_DEFAULT_NAME = "Today&apos;s Appointments"
+  FIELD_SEARCH_TYPE = "Calendar"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

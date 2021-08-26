@@ -1,0 +1,181 @@
+netsuite.savedsearch customsearch_wd_store_locator {
+  scriptid = "customsearch_wd_store_locator"
+  dependencies = {
+    dependency = [
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.12.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.8.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.5.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.7.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.13.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.4.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.14.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.15.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.2.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.10.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.3.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.customrecordcustomfields.customrecordcustomfield.9.scriptid,
+      netsuite.customrecordtype.instance.customrecord_wd_store_locator.scriptid,
+    ]
+  }
+  definition = "93cf617c744594d1733332c22e78263e1e67477da48467feb347abd3c4812df9@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Custom_ISINACTIVE"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "CUSTRECORD_WD_LOCATOR_STORELONG"
+      FIELD_ATTRIBUTE = "NOTEMPTY"
+      FIELD_TYPE = "FLOAT"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "CUSTRECORD_WD_LOCATOR_STORELAT"
+      FIELD_ATTRIBUTE = "NOTEMPTY"
+      FIELD_TYPE = "FLOAT"
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_STORENAME"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_STOREDESC"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_ZIP_CODE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_STATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_STORECITY"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_STOREADDRESS"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_STOREPHONE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_SHOP_WEB_SITE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_STORETHUMB"
+      FIELD_INDEX = 9
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_STOREICON"
+      FIELD_INDEX = 10
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_STORELAT"
+      FIELD_INDEX = 11
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTRECORD_WD_LOCATOR_STORELONG"
+      FIELD_INDEX = 12
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Custom_NAME"
+      FIELD_INDEX = 13
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Custom_NAME"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_wd_store_locator"
+  FIELD_DEFAULT_NAME = "SuiteOffice - Store Locator"
+  FIELD_SEARCH_TYPE = "Custom"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  KEY_RECORD_TYPE = 539
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

@@ -1,0 +1,140 @@
+netsuite.savedsearch customsearch65 {
+  scriptid = "customsearch65"
+  definition = "a4eab1976bd98c7f22843798727d1ab04fb6e836ab641127d1b8ae51230d3362@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Opprtnty_SALESREP"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@HIERARCHY@"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Opprtnty_STATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "B"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "A"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Opprtnty_EXPECTEDCLOSEDATE"
+      FIELD_MODIFIER = "WITHIN"
+      FIELD_ATTRIBUTE = "TM"
+      FIELD_TYPE = "DATE"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "2006-09-30 23:00:00.0 UTC"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2006-10-31 00:00:00.0 UTC"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Opprtnty_EXPECTEDCLOSEDATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "BaseTran_NUMBER"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "BaseTran_ENTITY"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Opprtnty_ENTITYSTATUS"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Opprtnty_PROJECTEDAMOUNT"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Opprtnty_DAYSTOCLOSE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch65"
+  FIELD_DEFAULT_NAME = "My Opportunities to Close"
+  FIELD_SEARCH_TYPE = "Opprtnty"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

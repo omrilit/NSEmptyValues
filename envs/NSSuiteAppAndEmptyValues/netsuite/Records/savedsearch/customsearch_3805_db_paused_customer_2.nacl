@@ -1,0 +1,193 @@
+netsuite.savedsearch customsearch_3805_db_paused_customer_2 {
+  scriptid = "customsearch_3805_db_paused_customer_2"
+  dependencies = {
+    dependency = [
+      "[scriptid=custbody_3805_dunning_manager]",
+      "[scriptid=custentity_3805_dunning_manager]",
+      "[scriptid=custentity_3805_dunning_paused]",
+      "[scriptid=custentity_3805_dunning_procedure]",
+      "[scriptid=custentity_3805_dunning_status]",
+      "[scriptid=custentity_3805_dunning_substatus]",
+      "[scriptid=customrecord_3805_dunning_procedure]",
+      "[scriptid=customrecord_3805_dunning_status]",
+      "[scriptid=customrecord_3805_dunning_substatus]",
+    ]
+  }
+  definition = "a97a6d94f520401f9150e8be0e4edc6856eea9e998b0b5d1d4db73e1c32f3896@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "CUSTENTITY_3805_DUNNING_PAUSED"
+      FIELD_ATTRIBUTE = "T"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "CUSTENTITY_3805_DUNNING_PROCEDURE"
+      FIELD_ATTRIBUTE = "NONEOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@NONE@"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Entity_ISINACTIVE"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = true
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 1
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "US_Employee_ROLE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "3"
+        },
+        {
+          KEY_ID = 2
+          FIELD_VALUE = "1117"
+        },
+        {
+          KEY_ID = 3
+          FIELD_VALUE = "5"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = true
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "CUSTENTITY_3805_DUNNING_MANAGER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 1
+      FIELD_FILTER_NAME = "TR_CUSTBODY_3805_DUNNING_MANAGER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Entity_INTERNALID"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Customer_COMPANYNAME"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTENTITY_3805_DUNNING_STATUS"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTENTITY_3805_DUNNING_SUBSTATUS"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Entity_ENTITYID"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch_3805_db_paused_customer_2"
+  FIELD_DEFAULT_NAME = ".Customers with Paused Dunning"
+  FIELD_SEARCH_TYPE = "Customer"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

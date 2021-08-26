@@ -1,0 +1,86 @@
+netsuite.savedsearch customsearch714 {
+  scriptid = "customsearch714"
+  definition = "2f840fd9f6b0c99224b579d3572d369110445284c0ab5677040d4db7f7d905b8@GZC@2021.1.0.148@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"
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "TimesheetApproval_EMPLOYEE"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "TimesheetApproval_DATE"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "TimesheetApproval_EMPLOYEE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TimesheetApproval_TOTALAPPROVABLEHOURS"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TimesheetApproval_DATE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "TimesheetApproval_EMPLOYEE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+    {
+      KEY_FIELD = "TimesheetApproval_DATE"
+      FILELD_ORDER = 2
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch714"
+  FIELD_DEFAULT_NAME = "Custom Timesheet Approval"
+  FIELD_SEARCH_TYPE = "TimesheetApproval"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = true
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  KEY_MACHINE_TYPE = "OTHER"
+  KEY_MACHINE = "TIME"
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

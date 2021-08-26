@@ -1,0 +1,160 @@
+netsuite.savedsearch customsearch854 {
+  scriptid = "customsearch854"
+  definition = "6151f087cb53853acdbef798abeb098e902ae9d81a40f0bb393aa2d737b803ce@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "TE_Timeentry_POSTED"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+  ]
+  search_summary_filters = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "SUM_TE_Timeentry_DURATIONDECIMAL"
+      FIELD_ATTRIBUTE = "GT"
+      FIELD_TYPE = "FLOAT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "0"
+        },
+        {
+          KEY_ID = 1
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "TE_Timeentry_SUBSIDIARY"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Timesheet_ID"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Timesheet_EMPLOYEE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Timesheet_STARTDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Timesheet_TOTALHOURS"
+      FIELD_INDEX = 5
+      FIELD_LABEL = "Total Time"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Timesheet_APPROVALSTATUS"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "TE_Timeentry_POSTED"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Timesheet_ID"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Timesheet_EMPLOYEE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Timesheet_STARTDATE"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Timesheet_TOTALHOURS"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Timesheet_APPROVALSTATUS"
+      FIELD_INDEX = 8
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "TE_Timeentry_SUBSIDIARY"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+    {
+      KEY_FIELD = "Timesheet_EMPLOYEE"
+      FILELD_ORDER = 2
+      FLAG_DESCENDING = false
+    },
+    {
+      KEY_FIELD = "TE_Timeentry_DURATIONDECIMAL"
+      FILELD_ORDER = 3
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch854"
+  FIELD_DEFAULT_NAME = "Unposted Timesheet Entries by Subsidiary"
+  FIELD_SEARCH_TYPE = "Timesheet"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

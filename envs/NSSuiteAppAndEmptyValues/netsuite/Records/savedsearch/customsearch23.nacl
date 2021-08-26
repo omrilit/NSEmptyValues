@@ -1,0 +1,111 @@
+netsuite.savedsearch customsearch23 {
+  scriptid = "customsearch23"
+  definition = "5c5b7e1a874b3132fbfd1d7d030d296043228e17e4bbc89a922a5bba9a4b192d@GZC@2021.1.0.148@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"
+  available_filters = [
+    {
+      SEQ_NUMBER = 1
+      FIELD_NAME = "RevRecSchedule_SRCDOC"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 2
+      FIELD_NAME = "RevRecSchedule_NAME"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 3
+      FIELD_NAME = "RevRecSchedule_JEDOC"
+      FLAG_FOOTER = false
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+    {
+      SEQ_NUMBER = 4
+      FIELD_NAME = "RevRecSchedule_POSTPERIOD"
+      FLAG_FOOTER = true
+      FLAG_FOOTER_MULTI_SELECT = false
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "RevRecSchedule_SRCDOC"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "RevRecSchedule_ENTITY"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "RevRecSchedule_NAME"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "RevRecSchedule_JEDOC"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "RevRecSchedule_POSTPERIOD"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "RevRecSchedule_AMOUNT"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "RevRecSchedule_DEFREV"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "RevRecSchedule_ENTITY"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch23"
+  FIELD_DEFAULT_NAME = "Rev Rec Schedule w/Customer Name"
+  FIELD_SEARCH_TYPE = "RevRecSchedule"
+  FLAG_PUBLIC = false
+  FLAG_LIST = true
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

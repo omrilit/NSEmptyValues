@@ -1,0 +1,137 @@
+netsuite.savedsearch customsearch52 {
+  scriptid = "customsearch52"
+  dependencies = {
+    dependency = [
+      netsuite.entitycustomfield.instance.custentity_active_date.scriptid,
+      netsuite.entitycustomfield.instance.custentity_projectmanager.scriptid,
+      netsuite.entitycustomfield.instance.custentity_trainer.scriptid,
+    ]
+  }
+  definition = "1f1e78a60d6adf208d9d4fba305f2594b1e0cd4b386dbfcaf60fd8c65a590edb@GZC@2021.1.0.148@H4sIAAAAAAAAAO1dW2+jyBJ+X2n/g0WeTxzI3XKywtCOmXCxuCTjfUHE7uywB+MI48xmfv02V2MMjo2bmGRbGmnGBXT15auviiq6p/vHP1On9Qq9uT1zbyj6+IRqQXc8m9juXzeUoff/d0X9cfv7b113Pp+NOxr0bMuxf8GJ8vQ3HPvczPUt24VeCzXjzjvhXTfUD99/6bTbP3/+PHahP1/YPjwez6bt+fgHnFrzdngb1VrYkxtK13RefaAvz07o07OOZr3CiQYtb/yjM17M/dl0Hv44Zzr0BXN9fXV+wVycXjLUss8nxzTV8u0pnPvW9AWNYeU+1PdWK+791Hp5QV1defIW9SvopAMnf0EP9dKDx5FK9Fc8WO84evI46pgU/ui2s41m1Uzgs+3aPlIRSpE8eo7Py9GVCZyPPfvFn3mpDEk9iPox0d9eYGvsWPP5DRW1oKZy6lYDrMoNTCDr6qjbXj6RbefVchZwnpEg2UMgaz3b0AlvT5ruJwIqunZD3YOROWS5e/YOUK32Ho1onCoMdVPgqWA0v37dUHPfQ/hCc7+ywt122GxFTX0BiLzJgz5riLopsxLq9QS+QHeC8Px2D99uKHE2thzIp1PeiedQF3QRHJ2sdY91EKys1tCbBVhvRZpx9DLROxqCNaXfZk97qhDZO3No9ESBSxt/ms0caLnUre8tIIbmRUHT1xt/tpw5jtaHiooWpEYFEssNBBnUp0AFkiDzQK1PgzZQHtEyyPc1LoMK+kBVAV/3cqd6al/4paraIbBU1VdU6SP0qEBD1KfVp+pBAI8mqyFFwULVr+dOZYeDj1CTcU3YtRgyWhddFTgd1KNFYr+bqvKoVXfSYT95QWN7IjB5VRBFk1ce5XrmJHSAnIEQK3MjU2V1EPvBvXo/EHhg9gVRByoagTIM+l+PJQQRTRJl6OC7bkYjinSveXNNZ1VdexT0AQYosQ+sIIaLhFDbBzXhKVR1Jyo9VjQBL9Ro55z2UF/j4DsHxBppl+/XaB9AQitt9lVF2sMuMi1pRu8b4HQ8jfUUfoSnJU6RJPQCs6ftI3K9uwOBB2RFUKdf0rgB4A3xwxWh5ZMkVhVAjb5dA3KwKkN9VB5HYHp5iMbEiiKKYBEwg9fDXo2BWKROkDnRQD4idPrFcTOm4Q0QOeuKzoo1rlYymiFQBQWtG1o7XWVljeV0QanJ8UWG2zPEe1MZItPl9/HZy7bCBEYYI5tDVmWlfeOYnoE8MZqgGudAGeqCJPyJQg30CrEve4WGp8imMeRRLFTzCyNrIIceQEWoxzUGwVGgA8V26+mX1Uwfu5jY6BLs0GlPbNenbk/We9Bt5xJZ3XZB3qz7bDs+9LLprq6/lkIDDpxC11/JoUWxm9Zt+1vkz5KhB7pWrqBrL5aH2k4UcjPHgeMg30e1PPgMvWC4N9TxcTv8k8dNWTYwvrZDThDZEbKqAdAQRpPItCRFWD7QSiDjw3BekACCNafIuwSolfQFEVImLM4F4TUplZVdXH8lFUqtg4hITDU5kTU0tFQ6qxtLnzH+YXnUrYxPk2xIpgj6eoRL7V1z30cPCgUHtSuK3zMLc8xPE69juW8dd+E4Rbld9Oqr6YoUGCS27iDfaYjsOp9UaUxSeAH9S8XTGquj4LxnZPxamluXR0of3xwUptI1IKKXnjIla14lEZeycBlN7uRmzAdWNMC6s9msAl2JiL7gyv6OJ25lTxcTjWyjo9k8xPDqTrFGJnH3npHv1niEqnBAayYe+f6wqUwtKWvbR/T59RoakWxT70rgGF0qWftSCBcFLu2SyKUguspHUt35Yjq1vLd+1QgreoEdlURa3XZJ+13r1bId68mB0ZVwnSqoz0cI6x3YrAhZhr/w3KrqVaAbqhwlCreMMgsXfO/4cgcDz/Z5g0mXUuKujkIUWA2/M921G0HR7vsqpdC42kYADBKS79WksxN/dFrE1TtXm2Pjq9KBM5wdKMrzV2mvb8hhngNLW+XBU8WmTKCqO8fvu0fvfJjx7I0S01kz9mInUEAshGzeJxvg+rb/FiSrBH0k8DXyTeFnMFXarmLu54fmmwvCN4RvCN+EwU0A3xqJ5vSQRHN5aKK5IkRDiOa/QTRc+JUtb/lWxhgiKwjen6KYxhyqSvCJgMTK7B1Qj8ovrXFV6Z01ktfZIcmLPjk0e9E0oa8vTl8FabnCLFR3An3Ldqrmpnigh58akdzU53xdPD8oETIHJ0KsGTJChA0kQsI4DXlhPCzVYM1EV+oB1uQYoRpCNZ+YaqJvhr4s2WBNQ1fqAdYEGSEbQjbNJZvt8lPBp+0PIPzC9KhEvikzlbnty7LW9aFZi8GaGCOsRVjrU7IWy/JmLgO0QlnB/gu5IJFe8NxX5Srm4F82MeTTJsJV/xGu2iZXLSs6+LIvdMzBP2xiyJdNX51uCrcpFtTmuvOZ5yPSWUzdKp/SK6pucopoSPJnqddlulwrBQY7QsJFPXixTkyRhf9j8nCfJdA4IPOCfLeTdeyB5CLMdhHfeT562n6xEZZyMN8a0dEGfRVwwlBAi6AVF6O77Y3acn3B0I139Ccakn01udP9kuMBc4cBpkcExvC000nOX3lr+SEO8m4lPjbx3bPsgptOqGX38w/kJ+g228A6sfwfvgW7q4K/sg96ljt3rGB4OVChGfLe8vCLLO4WumaQO45/Fd9TcvZewTPd9rqujeonlsnfl6kPGCK/oX9XBdCts/W/LfPbsE4FE4j4ZS8FCD5FwOi2S0C4NJYE/O8YRXJ4QOEZotmTBYKrdMYK1qluGz+WHGlQyzmb0SElsYbgWJR0V1ONB4is6APSUFRGoM7jZVb0DVlVlz9ueKoiFg0N12k2WVUPyCkrdQ0sesFL1K2OKolltjo8Y8UIdra9wu2vsSFuuzU2uJfJmGXhc9lBhHOQ2/IXyfJmGO2zfV2ZhW57k4KdZ2Bbl5zfyhfcdLqLS15NHhS55NOPcMlYnApxup/d6VaC/VkE+zO8sD8jsCewTyRNhP15BPtzvLA/J7AnsE8kTYT9RQT7C7ywvyCwJ7BPJE2E/WUE+0u8sL8ksCewTyRNhP1VBPsrvLC/IrAnsE8kNcO+6COuGPrYd00HjV5nTKVIQXbskUyYbNpfnd6TeW6CWgwT1LGNpb+zbUfnrSVpyeRn5g7XmsJNmsPrywXZMJiP4SI6LnnRO9W83mcj+kOKXoSOCB1VRn5S5qIxI58myCfITySNRD4TI5/BjHyGIJ8gP5E0EvlxNZHGXE6kST2RID+VNBL5cUGRxlxRpElJkSA/lTQS+XFNkcZcVKRJVZEgP5U0EvlxWZHGXFekSWGRID+VNBL5cWWRxlxapEltkSA/lTS9yLLV0R+hmVztWV9ZOSXk44orK2obV1mJv9emrzFz0DXhIMJBiaSJ3peJa4oM5poiQ2qKBPmppOneNz6tpvgEm9A86D29btzaR3rcVGWN3rbazG99eFA49cwnmfrCo41W5r6VbMXkl/O7N0CTDZt8fs0aEVkxcRWHwVzFYUgVh/iXVNLIyCqu4jCYqzgMqeIQ5KeSRiI/ruIwmKs4DKniEOSnkkYiP67iMJirOAyp4hDkpxIsyF8TR8c0JWINerbl2L/gRHkKTifiZq5v2W74v6r//tu/PEkVCVObAAA="
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Job_CUSTOMER"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "159"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Job_CUSTOMER"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_TYPE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTENTITY_PROJECTMANAGER"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_TYPE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_STATUS"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTENTITY_ACTIVE_DATE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "AAD_Entity_ENTITYID"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_NOTES"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Entity_ENTITYID"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch52"
+  FIELD_DEFAULT_NAME = "Altima Project Search"
+  FIELD_SEARCH_TYPE = "Job"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = true
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

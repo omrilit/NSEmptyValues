@@ -1,0 +1,117 @@
+netsuite.savedsearch customsearch177 {
+  scriptid = "customsearch177"
+  definition = "8aab8a4643a0a8b6b4e2c0f7a6b0ae597f026f2236bbf153f6a639a8a910fff6@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Opprtnty_SALESREP"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@HIERARCHY@"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Opprtnty_STATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "B"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "A"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Opprtnty_EXPECTEDCLOSEDATE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "BaseTran_NUMBER"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "BaseTran_ENTITY"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Opprtnty_ENTITYSTATUS"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Opprtnty_PROJECTEDAMOUNT"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Opprtnty_DAYSTOCLOSE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  KEY_SCRIPT_ID = "customsearch177"
+  FIELD_DEFAULT_NAME = "Custom My Opportunities to Close"
+  FIELD_SEARCH_TYPE = "Opprtnty"
+  FLAG_PUBLIC = false
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = false
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+}

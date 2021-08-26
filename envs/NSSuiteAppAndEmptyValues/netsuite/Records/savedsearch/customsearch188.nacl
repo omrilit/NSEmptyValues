@@ -1,0 +1,197 @@
+netsuite.savedsearch customsearch188 {
+  scriptid = "customsearch188"
+  dependencies = {
+    dependency = [
+      netsuite.entitycustomfield.instance.custentity_job_notes.scriptid,
+    ]
+  }
+  definition = "8f018e4498991075d4bfb28cc94dc3f2a03156de67faa6f5886d87a916f0e04d@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Job_STATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "18"
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "17"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Job_JOBRESOURCE"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "1308"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_CUSTOMER"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_CONTACT"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_STARTDATE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_PROJECTEDENDDATE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "CUSTENTITY_JOB_NOTES"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_EMAIL"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_PHONE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_ALTPHONE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_FAX"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_CUSTOMER"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_STATUS"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_CONTACT"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_TYPE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_STARTDATE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Job_PROJECTEDENDDATE"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_ALTEMAIL"
+      FIELD_INDEX = 7
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Entity_ENTITYID"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch188"
+  FIELD_DEFAULT_NAME = "Projects in Red &amp; Yellow Status"
+  FIELD_SEARCH_TYPE = "Job"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = false
+  FLAG_MACHINE = false
+  FLAG_REMINDER = true
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

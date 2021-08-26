@@ -1,0 +1,125 @@
+netsuite.savedsearch customsearch458 {
+  scriptid = "customsearch458"
+  definition = "74881608fdafb8532cece40fcdd19862abc21e636e93b6343b325f00cb7332ef@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "ProjectTask_STATUS"
+      FIELD_ATTRIBUTE = "NONEOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "COMPLETE"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "ProjectTask_ISSUMMARYTASK"
+      FIELD_ATTRIBUTE = "F"
+      FIELD_TYPE = "CHECKBOX"
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "ProjectTask_FORMULATEXT"
+      FIELD_INDEX = 1
+      FIELD_FORMULA = "CASE     WHEN         (ROUND({percentworkcomplete}*100, 1) &lt;&gt; 100.0) AND (TO_DATE(TO_CHAR({enddate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) &lt; 0     THEN         &apos;&lt;div style=&quot;height:15px;width:15px;display:block;margin:0 auto;border:1px solid #bf340f;border-radius:15px;background-color:#bf340f;&quot;&gt;&lt;/div&gt;&apos;     WHEN         (ROUND({percentworkcomplete}*100, 1) &lt;&gt; 100.0) AND (TO_DATE(TO_CHAR({enddate}, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;) - TO_DATE(TO_CHAR(SYSDATE, &apos;MM/DD/YYYY&apos;), &apos;MM/DD/YYYY&apos;)) = 0     THEN         &apos;&lt;div style=&quot;height:15px;width:15px;display:block;margin:0 auto;border:1px solid #f89406;border-radius:15px;background-color:#f89406;&quot;&gt;&lt;/div&gt;&apos;     WHEN         ROUND({percentworkcomplete}*100, 1) = 100.0     THEN         &apos;&lt;div style=&quot;height:15px;width:15px;display:block;margin:0 auto;border:1px solid #afc437;border-radius:15px;background-color:#afc437;&quot;&gt;&lt;/div&gt;&apos;     ELSE         &apos;&lt;div style=&quot;height:15px;width:15px;display:block;margin:0 auto;border:1px solid #428bca;border-radius:15px;background-color:#428bca;&quot;&gt;&lt;/div&gt;&apos; END"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_TITLE"
+      FIELD_INDEX = 2
+      FIELD_LABEL = "Name"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_STATUS"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_STARTDATE"
+      FIELD_INDEX = 4
+      FIELD_LABEL = "Start Date"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_ENDDATE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "ProjectTask_FORMULATEXT"
+      FIELD_INDEX = 6
+      FIELD_LABEL = "% Complete"
+      FIELD_FORMULA = "&apos;&lt;style&gt;.progress{overflow:hidden;height:18px;background-color:#ccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 2px rgba(0,0,0,0.1);box-shadow:inset 0 1px 2px rgba(0,0,0,0.1)}.progress-bar{float:left;width:0;height:100%;font-size:11px;line-height:18px;color:#fff;text-align:center;background-color:#428bca;-webkit-box-shadow:inset 0 -1px 0 rgba(0,0,0,0.15);box-shadow:inset 0 -1px 0 rgba(0,0,0,0.15);-webkit-transition:width .6s ease;transition:width .6s ease}&lt;/style&gt;&lt;div class=&quot;progress&quot;&gt;&apos; || &apos;&lt;div class=&quot;progress-bar&quot; style=&quot;width:&apos; || ROUND({percentworkcomplete}*100, 1) || &apos;%;&quot;&gt;  &apos; || ROUND({percentworkcomplete}*100, 1) || &apos;%&lt;/div&gt;&lt;/div&gt;&apos;"
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "ProjectTask_STARTDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch458"
+  FIELD_DEFAULT_NAME = "Project Task Status"
+  FIELD_SEARCH_TYPE = "ProjectTask"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = true
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

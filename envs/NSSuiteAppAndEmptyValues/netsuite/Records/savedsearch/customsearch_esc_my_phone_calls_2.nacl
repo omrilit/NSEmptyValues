@@ -1,0 +1,186 @@
+netsuite.savedsearch customsearch_esc_my_phone_calls_2 {
+  scriptid = "customsearch_esc_my_phone_calls_2"
+  definition = "1a1b52d92290c241a1d24adbb67ce7b4fb373433fc71876fafa40de6b9dd3029@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Call_ASSIGNED"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "@CURRENT@"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Call_STATUS"
+      FIELD_ATTRIBUTE = "ANYOF"
+      FIELD_TYPE = "SELECT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "SCHEDULED"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Call_STARTDATE"
+      FIELD_MODIFIER = "NOTONORBEFORE"
+      FIELD_ATTRIBUTE = "CUSTOM"
+      FIELD_TYPE = "DATE"
+      RECORDS = [
+        {
+          KEY_ID = 0
+        },
+        {
+          KEY_ID = 1
+          FIELD_VALUE = "2013-12-31 00:00:00.0 UTC"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Call_TITLE"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_STARTDATE"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_COMPANY"
+      FIELD_INDEX = 3
+      FIELD_LABEL = "Customer Name"
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_CONTACT"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_PHONE"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Call_TITLE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_STATUS"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_STARTDATE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_ENDDATE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_STARTTIME"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_PHONE"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_ASSIGNED"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Call_COMPANY"
+      FIELD_INDEX = 6
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Call_STARTDATE"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_esc_my_phone_calls_2"
+  FIELD_DEFAULT_NAME = "Phone Calls"
+  FIELD_SEARCH_TYPE = "Call"
+  FLAG_PUBLIC = true
+  FLAG_LIST = true
+  FLAG_PORTLET = true
+  FLAG_MACHINE = false
+  FLAG_REMINDER = false
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}

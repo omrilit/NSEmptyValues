@@ -1,0 +1,128 @@
+netsuite.savedsearch customsearch_fmt_sdg_manila_employee {
+  scriptid = "customsearch_fmt_sdg_manila_employee"
+  definition = "051367a947f99a8396fc1d502d0d91e4a7ef95e407b348a9315e653ef7830e2c@GZC@2021.1.0.148@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"
+  search_filter = [
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Employee_FIRSTNAME"
+      FIELD_ATTRIBUTE = "IS"
+      FIELD_TYPE = "TEXT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "Solution Development Group"
+        },
+      ]
+    },
+    {
+      FLAG_DATE_TIME_SECOND = false
+      FLAG_FROM_AVAILABLE_FILTER = false
+      FLAG_NOT = false
+      FLAG_OR = false
+      FIELD_OR_CLAUSE_STATUS = "N"
+      FIELD_NUM_LEFT_PARENS = 0
+      FIELD_NUM_RIGHT_PARENS = 0
+      FIELD_FILTER_NAME = "Employee_LASTNAME"
+      FIELD_ATTRIBUTE = "IS"
+      FIELD_TYPE = "TEXT"
+      RECORDS = [
+        {
+          KEY_ID = 0
+          FIELD_VALUE = "Manila"
+        },
+      ]
+    },
+  ]
+  return_fields = [
+    {
+      FIELD_ALIAS = "Entity_INTERNALID"
+      FIELD_INDEX = 1
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 2
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_ISINACTIVE"
+      FIELD_INDEX = 3
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Employee_ROLE"
+      FIELD_INDEX = 4
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  detail_fields = [
+    {
+      FIELD_ALIAS = "Entity_ENTITYID"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+    {
+      FIELD_ALIAS = "Entity_EMAIL"
+      FIELD_INDEX = 5
+      FIELD_FORMULA_ERROR = false
+    },
+  ]
+  sort_columns = [
+    {
+      KEY_FIELD = "Entity_ENTITYID"
+      FILELD_ORDER = 1
+      FLAG_DESCENDING = false
+    },
+  ]
+  "audience:" = {
+    FLAG_AUDIENCE_ALL_CUSTOMERS = false
+    FLAG_AUDIENCE_ALL_EMPLOYEES = false
+    FLAG_AUDIENCE_ALL_PARTNERS = false
+    FLAG_AUDIENCE_ALL_ROLES = true
+    FLAG_AUDIENCE_ALL_VENDORS = false
+  }
+  KEY_SCRIPT_ID = "customsearch_fmt_sdg_manila_employee"
+  FIELD_DEFAULT_NAME = "Solution Development Group Manila Employee"
+  FIELD_SEARCH_TYPE = "Employee"
+  FLAG_PUBLIC = true
+  FLAG_LIST = false
+  FLAG_PORTLET = true
+  FLAG_MACHINE = true
+  FLAG_REMINDER = true
+  FLAG_SHOW_LINK = false
+  FLAG_PREFERRED_LIST = false
+  FLAG_PREFERRED_PORTLET = false
+  FLAG_PREFERRED_MACHINE = false
+  FLAG_PREFERRED_FORM = false
+  FLAG_PREFERRED_RESULTS = false
+  FLAG_VIEW_AS_REPORT = false
+  FLAG_VIEW_AS_GRAPH = false
+  FLAG_VIEW_AS_GRID = false
+  FLAG_UNRESTRICTED = false
+  FLAG_DISABLE_DRILL_DOWN = false
+  FLAG_HIDE_FILTER_DROPDOWNS = false
+  KEY_DEFAULT_TEXT_FIELD_FILTER = "STARTSWITH"
+  FLAG_AVAILABLE_AS_FEED = false
+  FLAG_GLOBAL_EDIT = false
+  FLAG_CSV = false
+  FLAG_EXCEL = false
+  FLAG_PDF = false
+  FLAG_TRIGGERED_ALERT = false
+  FLAG_SCHEDULED_ALERT = false
+  FLAG_SCHEDULED_ALERT_SUMMARIES = false
+  FLAG_SEND_EMPTY_RESULTS = false
+  FLAG_ALERT_ALLOW_SUBSCRIBE = false
+  FLAG_ALERT_INCLUDE_VIEW_LINK = true
+  FLAG_HAS_TOTALS = false
+  FLAG_INCLUDE_PERIOD_END_TRANSACTIONS = false
+  FLAG_BUILT_IN = false
+  FLAG_SEND_ON_UPDATE = false
+  FLAG_SHOW_AUDIT_TRAIL = false
+  KEY_AUDIENCE = 0
+}
